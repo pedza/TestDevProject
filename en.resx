@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -117,34 +117,685 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddMedicineDescription" xml:space="preserve">
-    <value>Tap [Icon] to add medicine</value>
+  <data name="About" xml:space="preserve">
+    <value>について</value>
   </data>
-  <data name="CreateCopyDescription" xml:space="preserve">
-    <value>You can find your copy under the Medicine tab.</value>
+  <data name="Accept" xml:space="preserve">
+    <value>Accept</value>
   </data>
-  <data name="CreateCopyTitle" xml:space="preserve">
-    <value>Create a copy?</value>
+  <data name="Add" xml:space="preserve">
+    <value>Add</value>
   </data>
-  <data name="DeleteMedicineDescription" xml:space="preserve">
-    <value>You will not be able to recover it.</value>
+  <data name="Add new medical data" xml:space="preserve">
+    <value>新しい医療データの追加</value>
   </data>
-  <data name="DeleteMedicineTitle" xml:space="preserve">
-    <value>Delete Medicine?</value>
+  <data name="Add Nurse" xml:space="preserve">
+    <value>ナースの追加</value>
   </data>
-  <data name="MoveMedicineDescription" xml:space="preserve">
-    <value>You will be able to view this Medicine under History.</value>
+  <data name="AddPatient" xml:space="preserve">
+    <value>患者の追加</value>
   </data>
-  <data name="MoveMedicineTitle" xml:space="preserve">
-    <value>Move to Medicine to History?</value>
+  <data name="AddStaff" xml:space="preserve">
+    <value>スタッフ追加</value>
   </data>
-  <data name="NoMedicineHistoryDescription" xml:space="preserve">
-    <value>Medicine that has ended will automatically be moved here. To do this manually, go to the medicine tab.</value>
+  <data name="Allergies" xml:space="preserve">
+    <value>Allergies</value>
   </data>
-  <data name="NoMedicineHistoryTitle" xml:space="preserve">
-    <value>No Medicine History</value>
+  <data name="Alphabetic" xml:space="preserve">
+    <value>アルファベット</value>
   </data>
-  <data name="NoMedicineTitle" xml:space="preserve">
-    <value>There is no Medicine to display</value>
+  <data name="Are you sure you want to delete this medical data?" xml:space="preserve">
+    <value>この医療データを削除してもよろしいですか?</value>
+  </data>
+  <data name="Associated Clinic" xml:space="preserve">
+    <value>関連クリニック</value>
+  </data>
+  <data name="BloodGroup" xml:space="preserve">
+    <value>血液型</value>
+  </data>
+  <data name="BlzfileRegNo" xml:space="preserve">
+    <value>レジスタ番号</value>
+  </data>
+  <data name="By logging in you agree to Halza's{0} Terms of Use {1}and {2}Privacy Policy{3}" xml:space="preserve">
+    <value>ログインすることで、Halzaの{0}利用規約{1}と{2}プライバシーポリシー{3}に同意したことになります。</value>
+  </data>
+  <data name="Change Password" xml:space="preserve">
+    <value>パスワード変更</value>
+  </data>
+  <data name="CigarretPacksPerDay" xml:space="preserve">
+    <value>シガレットパック/日</value>
+  </data>
+  <data name="City" xml:space="preserve">
+    <value>都市</value>
+  </data>
+  <data name="Click here to log in" xml:space="preserve">
+    <value>ログインするにはここをクリックしてください</value>
+  </data>
+  <data name="Clinic" xml:space="preserve">
+    <value>クリニック</value>
+  </data>
+  <data name="Clinic Management" xml:space="preserve">
+    <value>診療所管理</value>
+  </data>
+  <data name="Clinic Request" xml:space="preserve">
+    <value>診療所からの依頼</value>
+  </data>
+  <data name="Clinic request has been sent" xml:space="preserve">
+    <value>診療所からの依頼が送信されました</value>
+  </data>
+  <data name="Clinics" xml:space="preserve">
+    <value>クリニック</value>
+  </data>
+  <data name="ConfirmPassword" xml:space="preserve">
+    <value>パスワードの確認</value>
+  </data>
+  <data name="ConsultancySpecialization" xml:space="preserve">
+    <value>コンサルタント専門化</value>
+  </data>
+  <data name="ConsultancySpecializations" xml:space="preserve">
+    <value>コンサルタントの専門分野</value>
+  </data>
+  <data name="ContactNumber" xml:space="preserve">
+    <value>携帯電話番号</value>
+  </data>
+  <data name="ContactNumber1" xml:space="preserve">
+    <value>携帯電話番号</value>
+  </data>
+  <data name="CountryId" xml:space="preserve">
+    <value>国</value>
+  </data>
+  <data name="CountryName" xml:space="preserve">
+    <value>国</value>
+  </data>
+  <data name="Create" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="Current" xml:space="preserve">
+    <value>Current</value>
+  </data>
+  <data name="CurrentPassword" xml:space="preserve">
+    <value>Current Password</value>
+  </data>
+  <data name="DateOfBirth" xml:space="preserve">
+    <value>Date of Birth</value>
+  </data>
+  <data name="DateOfRecord" xml:space="preserve">
+    <value>Date of Record</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>Details</value>
+  </data>
+  <data name="Done" xml:space="preserve">
+    <value>Done</value>
+  </data>
+  <data name="Dosage" xml:space="preserve">
+    <value>Dosage</value>
+  </data>
+  <data name="Duration" xml:space="preserve">
+    <value>Duration</value>
+  </data>
+  <data name="Edit Clinic" xml:space="preserve">
+    <value>Edit Clinic</value>
+  </data>
+  <data name="Edit Medicine" xml:space="preserve">
+    <value>Edit Medicine</value>
+  </data>
+  <data name="Edit Profile" xml:space="preserve">
+    <value>Edit Profile</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="Email Address" xml:space="preserve">
+    <value>Email Address</value>
+  </data>
+  <data name="Email sent" xml:space="preserve">
+    <value>Email sent</value>
+  </data>
+  <data name="EndDate" xml:space="preserve">
+    <value>End Date</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="Enter your email" xml:space="preserve">
+    <value>Enter your email</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="Female" xml:space="preserve">
+    <value>Female</value>
+  </data>
+  <data name="FirstName" xml:space="preserve">
+    <value>First Name</value>
+  </data>
+  <data name="Forgot Password" xml:space="preserve">
+    <value>Forgot Password</value>
+  </data>
+  <data name="Forgot your password?" xml:space="preserve">
+    <value>Forgot your password?</value>
+  </data>
+  <data name="Friday" xml:space="preserve">
+    <value>Friday</value>
+  </data>
+  <data name="Gender" xml:space="preserve">
+    <value>Gender</value>
+  </data>
+  <data name="General" xml:space="preserve">
+    <value>General</value>
+  </data>
+  <data name="Generate New" xml:space="preserve">
+    <value>Generate New</value>
+  </data>
+  <data name="Health Parameters" xml:space="preserve">
+    <value>Health Parameters</value>
+  </data>
+  <data name="HealthConditions" xml:space="preserve">
+    <value>Health Conditions</value>
+  </data>
+  <data name="Height" xml:space="preserve">
+    <value>Height</value>
+  </data>
+  <data name="HideFullDetail" xml:space="preserve">
+    <value>Hide Full Detail</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="Hours of Operation" xml:space="preserve">
+    <value>Hours of Operation</value>
+  </data>
+  <data name="InformPatient" xml:space="preserve">
+    <value>Inform Patient</value>
+  </data>
+  <data name="InsuranceCompany" xml:space="preserve">
+    <value>Insurance Company</value>
+  </data>
+  <data name="InsuranceExpiryDate" xml:space="preserve">
+    <value>Insurance Expiry Date</value>
+  </data>
+  <data name="InsurancePolicyNumber" xml:space="preserve">
+    <value>Insurance Policy Number</value>
+  </data>
+  <data name="Invalid birth date" xml:space="preserve">
+    <value>Invalid birth date</value>
+  </data>
+  <data name="Invite Physician" xml:space="preserve">
+    <value>Invite Physician</value>
+  </data>
+  <data name="IsSmoker" xml:space="preserve">
+    <value>Smoking</value>
+  </data>
+  <data name="KindlyAsk" xml:space="preserve">
+    <value>Kindly Ask</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="LastName" xml:space="preserve">
+    <value>Last Name</value>
+  </data>
+  <data name="LicenseNumber" xml:space="preserve">
+    <value>License Number</value>
+  </data>
+  <data name="Log in" xml:space="preserve">
+    <value>Log in</value>
+  </data>
+  <data name="Log out" xml:space="preserve">
+    <value>Log out</value>
+  </data>
+  <data name="Macedonian" xml:space="preserve">
+    <value>Macedonian</value>
+  </data>
+  <data name="Male" xml:space="preserve">
+    <value>Male</value>
+  </data>
+  <data name="ManagePhysician" xml:space="preserve">
+    <value>Manage Physician</value>
+  </data>
+  <data name="Measurement date" xml:space="preserve">
+    <value>Measurement date</value>
+  </data>
+  <data name="Medical" xml:space="preserve">
+    <value>Medical</value>
+  </data>
+  <data name="Medical Data" xml:space="preserve">
+    <value>Medical Data</value>
+  </data>
+  <data name="MedicalSpecialization" xml:space="preserve">
+    <value>Medical Specialization</value>
+  </data>
+  <data name="MedicalSpecializations" xml:space="preserve">
+    <value>Medical Specializations</value>
+  </data>
+  <data name="Medications" xml:space="preserve">
+    <value>Medications</value>
+  </data>
+  <data name="Medicine records" xml:space="preserve">
+    <value>Medicine records</value>
+  </data>
+  <data name="Medicine stocks" xml:space="preserve">
+    <value>Medicine stocks</value>
+  </data>
+  <data name="MedicineFrequency" xml:space="preserve">
+    <value>Medicine Frequency</value>
+  </data>
+  <data name="Medicines" xml:space="preserve">
+    <value>Medicines</value>
+  </data>
+  <data name="Menu" xml:space="preserve">
+    <value>Menu</value>
+  </data>
+  <data name="MobilePhone" xml:space="preserve">
+    <value>Mobile Phone</value>
+  </data>
+  <data name="Monday" xml:space="preserve">
+    <value>Monday</value>
+  </data>
+  <data name="My profile" xml:space="preserve">
+    <value>My profile</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="New Password and Confirmation Password must match" xml:space="preserve">
+    <value>New Password and Confirmation Password must match</value>
+  </data>
+  <data name="New Value" xml:space="preserve">
+    <value>New Value</value>
+  </data>
+  <data name="NewPassword" xml:space="preserve">
+    <value>New Password</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="No file chosen" xml:space="preserve">
+    <value>No file chosen</value>
+  </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>Not Found</value>
+  </data>
+  <data name="Note" xml:space="preserve">
+    <value>Note</value>
+  </data>
+  <data name="OfficePhone" xml:space="preserve">
+    <value>Office Phone</value>
+  </data>
+  <data name="OfficePhoneNumber" xml:space="preserve">
+    <value>Office Phone Number</value>
+  </data>
+  <data name="Okay" xml:space="preserve">
+    <value>Okay</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="Other" xml:space="preserve">
+    <value>Other</value>
+  </data>
+  <data name="Passport" xml:space="preserve">
+    <value>Passport</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="Passwords must match" xml:space="preserve">
+    <value>Passwords must match</value>
+  </data>
+  <data name="Past" xml:space="preserve">
+    <value>Past</value>
+  </data>
+  <data name="PastSurgeries" xml:space="preserve">
+    <value>Past Surgeries</value>
+  </data>
+  <data name="Patients" xml:space="preserve">
+    <value>Patients</value>
+  </data>
+  <data name="Pending Clinic Request" xml:space="preserve">
+    <value>Pending Clinic Request</value>
+  </data>
+  <data name="PhoneNumber" xml:space="preserve">
+    <value>Phone Number</value>
+  </data>
+  <data name="Phyisican Video" xml:space="preserve">
+    <value>Phyisican Video</value>
+  </data>
+  <data name="Physicians" xml:space="preserve">
+    <value>Physicians</value>
+  </data>
+  <data name="Please check your inbox and follow the instructions to reset your password." xml:space="preserve">
+    <value>Please check your inbox and follow the instructions to reset your password.</value>
+  </data>
+  <data name="Please contact the patient to provide you with a new link and pin." xml:space="preserve">
+    <value>Please contact the patient to provide you with a new link and pin.</value>
+  </data>
+  <data name="Please enter birthday" xml:space="preserve">
+    <value>Please enter birthday</value>
+  </data>
+  <data name="Please enter Clinic blzfileRegNo" xml:space="preserve">
+    <value>Please enter Clinic Blz File Reg No</value>
+  </data>
+  <data name="Please enter Clinic city" xml:space="preserve">
+    <value>Please enter Clinic city</value>
+  </data>
+  <data name="Please enter Clinic contact number 1" xml:space="preserve">
+    <value>Please enter Clinic contact number</value>
+  </data>
+  <data name="Please enter Clinic email" xml:space="preserve">
+    <value>Please enter Clinic email</value>
+  </data>
+  <data name="Please enter Clinic friday from hours of operation" xml:space="preserve">
+    <value>Please enter Clinic friday from hours of operation</value>
+  </data>
+  <data name="Please enter Clinic friday to hours of operation" xml:space="preserve">
+    <value>Please enter Clinic friday to hours of operation</value>
+  </data>
+  <data name="Please enter Clinic monday from hours of operation" xml:space="preserve">
+    <value>Please enter Clinic monday from hours of operation</value>
+  </data>
+  <data name="Please enter Clinic monday to hours of operation" xml:space="preserve">
+    <value>Please enter Clinic monday to hours of operation</value>
+  </data>
+  <data name="Please enter Clinic name" xml:space="preserve">
+    <value>Please enter Clinic name</value>
+  </data>
+  <data name="Please enter Clinic primary work address" xml:space="preserve">
+    <value>Please enter Clinic primary work address</value>
+  </data>
+  <data name="Please enter Clinic saturday from hours of operation" xml:space="preserve">
+    <value>Please enter Clinic saturday from hours of operation</value>
+  </data>
+  <data name="Please enter Clinic saturday to hours of operation" xml:space="preserve">
+    <value>Please enter Clinic saturday to hours of operation</value>
+  </data>
+  <data name="Please enter Clinic sunday from hours of operation" xml:space="preserve">
+    <value>Please enter Clinic sunday from hours of operation</value>
+  </data>
+  <data name="Please enter Clinic sunday to hours of operation" xml:space="preserve">
+    <value>Please enter Clinic sunday to hours of operation</value>
+  </data>
+  <data name="Please enter Clinic thursday from hours of operation" xml:space="preserve">
+    <value>Please enter Clinic thursday from hours of operation</value>
+  </data>
+  <data name="Please enter Clinic thursday to hours of operation" xml:space="preserve">
+    <value>Please enter Clinic thursday to hours of operation</value>
+  </data>
+  <data name="Please enter Clinic tuesday from hours of operation" xml:space="preserve">
+    <value>Please enter Clinic tuesday from hours of operation</value>
+  </data>
+  <data name="Please enter Clinic tuesday to hours of operation" xml:space="preserve">
+    <value>Please enter Clinic tuesday to hours of operation</value>
+  </data>
+  <data name="Please enter Clinic wednesday from hours of operation" xml:space="preserve">
+    <value>Please enter Clinic wednesday from hours of operation</value>
+  </data>
+  <data name="Please enter Clinic wednesday to hours of operation" xml:space="preserve">
+    <value>Please enter Clinic wednesday to hours of operation</value>
+  </data>
+  <data name="Please enter email address" xml:space="preserve">
+    <value>Please enter email address</value>
+  </data>
+  <data name="Please enter first name" xml:space="preserve">
+    <value>Please enter first name</value>
+  </data>
+  <data name="Please enter gender" xml:space="preserve">
+    <value>Please enter gender</value>
+  </data>
+  <data name="Please enter last name" xml:space="preserve">
+    <value>Please enter last name</value>
+  </data>
+  <data name="Please enter licence number" xml:space="preserve">
+    <value>Please enter licence number</value>
+  </data>
+  <data name="Please enter phone number" xml:space="preserve">
+    <value>Please enter phone number</value>
+  </data>
+  <data name="Please enter primary work address" xml:space="preserve">
+    <value>Please enter primary work address</value>
+  </data>
+  <data name="Please enter start date" xml:space="preserve">
+    <value>Please enter start date</value>
+  </data>
+  <data name="Please enter Title" xml:space="preserve">
+    <value>Please enter Title</value>
+  </data>
+  <data name="Please enter valid date" xml:space="preserve">
+    <value>Please enter valid date</value>
+  </data>
+  <data name="Please enter your current password" xml:space="preserve">
+    <value>Please enter your current password</value>
+  </data>
+  <data name="Please enter your date of birth" xml:space="preserve">
+    <value>Please enter your date of birth</value>
+  </data>
+  <data name="Please enter your email" xml:space="preserve">
+    <value>Please enter your email</value>
+  </data>
+  <data name="Please enter your new password" xml:space="preserve">
+    <value>Please enter your new password</value>
+  </data>
+  <data name="Please enter your password" xml:space="preserve">
+    <value>Please enter your password</value>
+  </data>
+  <data name="Please enter your pin" xml:space="preserve">
+    <value>Please enter your pin</value>
+  </data>
+  <data name="Please read and agree to the terms of use and the privacy policy" xml:space="preserve">
+    <value>Please read and agree to the terms of use and the privacy policy</value>
+  </data>
+  <data name="Please select date" xml:space="preserve">
+    <value>Please select date</value>
+  </data>
+  <data name="Please Wait" xml:space="preserve">
+    <value>Please Wait</value>
+  </data>
+  <data name="PleaseSelect" xml:space="preserve">
+    <value>Please Select</value>
+  </data>
+  <data name="PreferredMethodOfContact" xml:space="preserve">
+    <value>Preferred Method of Contact</value>
+  </data>
+  <data name="PrimaryPhysician" xml:space="preserve">
+    <value>Primary Physician</value>
+  </data>
+  <data name="PrimaryWorkAddress" xml:space="preserve">
+    <value>Primary Work Address</value>
+  </data>
+  <data name="PrimaryWorkStreetAddress" xml:space="preserve">
+    <value>Primary Work Street Address</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>Profile</value>
+  </data>
+  <data name="Race" xml:space="preserve">
+    <value>Race</value>
+  </data>
+  <data name="ReadTerms" xml:space="preserve">
+    <value>ReadTerms</value>
+  </data>
+  <data name="Reason" xml:space="preserve">
+    <value>Reason</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Recent</value>
+  </data>
+  <data name="Reject" xml:space="preserve">
+    <value>Reject</value>
+  </data>
+  <data name="Rooms" xml:space="preserve">
+    <value>Rooms</value>
+  </data>
+  <data name="Saturday" xml:space="preserve">
+    <value>Saturday</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="SecondaryPhysician" xml:space="preserve">
+    <value>Secondary Physician</value>
+  </data>
+  <data name="SecondaryPhysicianClinicName" xml:space="preserve">
+    <value>Secondary Physician Clinic Name</value>
+  </data>
+  <data name="SecondaryPhysicianName" xml:space="preserve">
+    <value>Secondary Physician Name</value>
+  </data>
+  <data name="SecondaryPhysicians" xml:space="preserve">
+    <value>Secondary Physicians</value>
+  </data>
+  <data name="SecondaryWorkAddress" xml:space="preserve">
+    <value>Secondary Work Address</value>
+  </data>
+  <data name="SecondaryWorkStreetAddress" xml:space="preserve">
+    <value>Secondary Work Street Address</value>
+  </data>
+  <data name="Select Diacom Folder" xml:space="preserve">
+    <value>Select Dicom Folder</value>
+  </data>
+  <data name="Select File" xml:space="preserve">
+    <value>Select File</value>
+  </data>
+  <data name="Send" xml:space="preserve">
+    <value>Send</value>
+  </data>
+  <data name="Send Clinic Request" xml:space="preserve">
+    <value>Send Clinic Request</value>
+  </data>
+  <data name="Service Packages" xml:space="preserve">
+    <value>Service Packages</value>
+  </data>
+  <data name="Services" xml:space="preserve">
+    <value>Services</value>
+  </data>
+  <data name="Set" xml:space="preserve">
+    <value>Set</value>
+  </data>
+  <data name="Set your password" xml:space="preserve">
+    <value>Set your password</value>
+  </data>
+  <data name="Short Summary" xml:space="preserve">
+    <value>Short Summary</value>
+  </data>
+  <data name="ShortBiography" xml:space="preserve">
+    <value>Short Biography</value>
+  </data>
+  <data name="ShortSummary" xml:space="preserve">
+    <value>Short Summary</value>
+  </data>
+  <data name="ShowFullDetail" xml:space="preserve">
+    <value>Show Full Detail</value>
+  </data>
+  <data name="SmokingEndDate" xml:space="preserve">
+    <value>Smoking End Date</value>
+  </data>
+  <data name="SmokingStartDate" xml:space="preserve">
+    <value>Smoking Start Date</value>
+  </data>
+  <data name="Sort" xml:space="preserve">
+    <value>Sort</value>
+  </data>
+  <data name="Staff" xml:space="preserve">
+    <value>Staff</value>
+  </data>
+  <data name="Start1 Date can't be bigger than End Date" xml:space="preserve">
+    <value>Start date can't be bigger than end date</value>
+  </data>
+  <data name="StartDate" xml:space="preserve">
+    <value>Start Date</value>
+  </data>
+  <data name="StreetAddress" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>Submit</value>
+  </data>
+  <data name="SubscriptionPlan" xml:space="preserve">
+    <value>Subscription Plan</value>
+  </data>
+  <data name="Sunday" xml:space="preserve">
+    <value>Sunday</value>
+  </data>
+  <data name="The resourse you requested does not exist." xml:space="preserve">
+    <value>The resourse you requested does not exist.</value>
+  </data>
+  <data name="Thursday" xml:space="preserve">
+    <value>Thursday</value>
+  </data>
+  <data name="Tuesday" xml:space="preserve">
+    <value>Tuesday</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="Upload" xml:space="preserve">
+    <value>Upload</value>
+  </data>
+  <data name="Upload Data" xml:space="preserve">
+    <value>Upload Data</value>
+  </data>
+  <data name="Upload Image" xml:space="preserve">
+    <value>Upload Image</value>
+  </data>
+  <data name="Upload Photo" xml:space="preserve">
+    <value>Upload Photo</value>
+  </data>
+  <data name="Video" xml:space="preserve">
+    <value>Video</value>
+  </data>
+  <data name="VideoFileName" xml:space="preserve">
+    <value>Video File Name</value>
+  </data>
+  <data name="ViewProfile" xml:space="preserve">
+    <value>View Profile</value>
+  </data>
+  <data name="Wednesday" xml:space="preserve">
+    <value>Wednesday</value>
+  </data>
+  <data name="Weight" xml:space="preserve">
+    <value>Weight</value>
+  </data>
+  <data name="WelcomeQuote" xml:space="preserve">
+    <value>Welcome</value>
+  </data>
+  <data name="WelcomeToHalza" xml:space="preserve">
+    <value>Welcome to Halza</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="You have entered a wrong pin code too many times." xml:space="preserve">
+    <value>You have entered a wrong pin code too many times.</value>
+  </data>
+  <data name="You must be at least 21 yeasrs old" xml:space="preserve">
+    <value>You must be at least 21 yeasrs old</value>
+  </data>
+  <data name="Your password has been set. Please{0} click here to log in{1}" xml:space="preserve">
+    <value>Your password has been set. Please {0} click here to log in {1}</value>
+  </data>
+  <data name="Your password was successfuly updated" xml:space="preserve">
+    <value>Your password was successfuly updated</value>
+  </data>
+  <data name="Your reset link is expired. Please generate a new one." xml:space="preserve">
+    <value>Your reset link is expired. Please generate a new one.</value>
+  </data>
+  <data name="ZipCode" xml:space="preserve">
+    <value>Postal Code</value>
+  </data>
+  <data name="{0}How about you{1} go back to your home page{2}?{3}" xml:space="preserve">
+    <value>{0} How about you {1} go back to your home page {2}? {3}</value>
+  </data>
+  <data name="{0}Opps.. Something went wrong during the processing of the request. We've logged the error and are alredy working on it{1}" xml:space="preserve">
+    <value>{0} Opps.. Something went wrong during the processing of the request. We've logged the error and are alredy working on it {1}</value>
+  </data>
+  <data name="{0}You can{1} go back {2}home{3}" xml:space="preserve">
+    <value>{0} You can {1} go back {2} home {3}</value>
   </data>
 </root>
