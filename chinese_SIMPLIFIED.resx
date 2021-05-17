@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -1237,7 +1237,7 @@
     <value>黑棘皮症</value>
   </data>
   <data name="Acknowledgement" xml:space="preserve">
-    <value>确认</value>
+    <value>确认 </value>
   </data>
   <data name="Acne Treatment" xml:space="preserve">
     <value>痤疮治疗</value>
@@ -1258,7 +1258,7 @@
     <value>多动症</value>
   </data>
   <data name="Admiration" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Afghanistan" xml:space="preserve">
     <value>阿富汗</value>
@@ -1375,7 +1375,7 @@
     <value>血红蛋白在动脉的血氧饱和度</value>
   </data>
   <data name="Arthritis" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Arthritis awareness month" xml:space="preserve">
     <value>关节炎意识月</value>
@@ -1426,7 +1426,7 @@
     <value>避免碳酸饮料</value>
   </data>
   <data name="avoid suntanning machines" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Away from keyboard" xml:space="preserve">
     <value>远离键盘</value>
@@ -2455,7 +2455,7 @@
     <value>眼镜</value>
   </data>
   <data name="Glaucoma" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Globulin" xml:space="preserve">
     <value>球蛋白</value>
@@ -2551,7 +2551,7 @@
     <value>Halza 要点</value>
   </data>
   <data name="Halza for iEi" xml:space="preserve">
-    <value> iEi的Halza</value>
+    <value>iEi的Halza</value>
   </data>
   <data name="Halza Founders Premium" xml:space="preserve">
     <value>Halza创立者奖品</value>
@@ -2674,7 +2674,7 @@
     <value>心率</value>
   </data>
   <data name="Heart Rhythm" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="heart transplant" xml:space="preserve">
     <value>心脏移植</value>
@@ -2800,7 +2800,7 @@
     <value>高血压</value>
   </data>
   <data name="Hyperthyroidism" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Hypotension" xml:space="preserve">
     <value>低血压</value>
@@ -2881,7 +2881,7 @@
     <value>印度尼西亚</value>
   </data>
   <data name="Indoor Sports" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Infection prevention week" xml:space="preserve">
     <value>感染预防周</value>
@@ -2941,7 +2941,7 @@
     <value>铁人三项游泳</value>
   </data>
   <data name="irregular mole" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Irritable Bowel Syndrome" xml:space="preserve">
     <value>过敏性肠综合征</value>
@@ -3070,7 +3070,7 @@
     <value>老挝</value>
   </data>
   <data name="large hat" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Last day of treatment" xml:space="preserve">
     <value>治疗的最后一天</value>
@@ -3148,7 +3148,7 @@
     <value>肝移植</value>
   </data>
   <data name="Loathing" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Lol" xml:space="preserve">
     <value>大声笑</value>
@@ -3391,10 +3391,10 @@
     <value>莫桑比克</value>
   </data>
   <data name="MRI completed" xml:space="preserve">
-    <value> 核磁共振成像完成</value>
+    <value>核磁共振成像完成</value>
   </data>
   <data name="Multiple Sclerosis" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Mum kid hug" xml:space="preserve">
     <value>妈妈和孩子拥抱</value>
@@ -3706,7 +3706,7 @@
     <value>罚款</value>
   </data>
   <data name="Personal" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Peru" xml:space="preserve">
     <value>秘鲁</value>
@@ -4177,7 +4177,7 @@
     <value>防晒霜</value>
   </data>
   <data name="Support" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Supporters" xml:space="preserve">
     <value>支持者</value>
@@ -4327,7 +4327,8 @@
     <value>这很糟糕</value>
   </data>
   <data name="This test is done to confirm Grave's Disease." xml:space="preserve">
-    <value>这项测试是为了证实弥漫性毒性甲状腺肿。</value>
+    <value> 这项测试是为了证实弥漫性毒性甲状腺肿。
+</value>
   </data>
   <data name="Thrown out of class!" xml:space="preserve">
     <value>退出课堂！</value>
@@ -4609,7 +4610,7 @@
     <value>滑水</value>
   </data>
   <data name="Water sports" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="WBC" xml:space="preserve">
     <value>白细胞</value>
@@ -6112,7 +6113,7 @@
     <value>是，保存并退出</value>
   </data>
   <data name="SaveChanges" xml:space="preserve">
-    <value>保存更改</value>
+    <value> 保存更改</value>
   </data>
   <data name="Schedule" xml:space="preserve">
     <value>时间表</value>
