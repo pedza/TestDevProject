@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CreateCopyTitle" xml:space="preserve">
+    <value>创建副本？</value>
+  </data>
+  <data name="MoveMedicineTitle" xml:space="preserve">
+    <value>要将药物移到“历史”中吗？</value>
+  </data>
+  <data name="NoMedicineHistoryTitle" xml:space="preserve">
+    <value>无药物历史</value>
+  </data>
+  <data name="DeleteMedicineTitle" xml:space="preserve">
+    <value>删除药物？</value>
+  </data>
+  <data name="MoveMedicineDescription" xml:space="preserve">
+    <value>你可以在“历史”下查看该药物。</value>
+  </data>
+  <data name="CreateCopyDescription" xml:space="preserve">
+    <value>你可以在“药物”标签下找到你的副本。</value>
+  </data>
+  <data name="NoMedicineHistoryDescription" xml:space="preserve">
+    <value>已经结束的药物会被自动移到这里。如需手动操作，请前往“药物”标签。</value>
+  </data>
+  <data name="DeleteMedicineDescription" xml:space="preserve">
+    <value>你将无法恢复。</value>
+  </data>
+  <data name="NoMedicineTitle" xml:space="preserve">
+    <value>没有可显示的药物</value>
+  </data>
+  <data name="AddMedicineDescription" xml:space="preserve">
+    <value>轻点 [Icon] 添加药物</value>
+  </data>
+</root>
