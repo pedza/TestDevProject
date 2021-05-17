@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Current" xml:space="preserve">
+    <value>当前</value>
+  </data>
+  <data name="PrimaryWorkStreetAddress" xml:space="preserve">
+    <value>主要工作街道地址</value>
+  </data>
+  <data name="Menu" xml:space="preserve">
+    <value>菜单</value>
+  </data>
+  <data name="Hours of Operation" xml:space="preserve">
+    <value>营业时间</value>
+  </data>
+  <data name="Passport" xml:space="preserve">
+    <value>护照</value>
+  </data>
+  <data name="Please enter Clinic friday to hours of operation" xml:space="preserve">
+    <value>请输入诊所周五结束营业的时间</value>
+  </data>
+  <data name="PrimaryWorkAddress" xml:space="preserve">
+    <value>主要营业地址</value>
+  </data>
+  <data name="Enter your email" xml:space="preserve">
+    <value>输入您的电子邮件</value>
+  </data>
+  <data name="Please read and agree to the terms of use and the privacy policy" xml:space="preserve">
+    <value>请阅读并同意使用条款和隐私政策</value>
+  </data>
+  <data name="About" xml:space="preserve">
+    <value>关于</value>
+  </data>
+  <data name="LicenseNumber" xml:space="preserve">
+    <value>许可编号</value>
+  </data>
+  <data name="Invite Physician" xml:space="preserve">
+    <value>邀请医师</value>
+  </data>
+  <data name="Video" xml:space="preserve">
+    <value>视频</value>
+  </data>
+  <data name="Start1 Date can't be bigger than End Date" xml:space="preserve">
+    <value>开始日期不能晚于结束日期</value>
+  </data>
+  <data name="Clinic Management" xml:space="preserve">
+    <value>诊所管理</value>
+  </data>
+  <data name="Please enter Clinic city" xml:space="preserve">
+    <value>请输入诊所所在城市</value>
+  </data>
+  <data name="Height" xml:space="preserve">
+    <value>身高</value>
+  </data>
+  <data name="Measurement date" xml:space="preserve">
+    <value>测量日期</value>
+  </data>
+  <data name="Please enter Clinic monday to hours of operation" xml:space="preserve">
+    <value>请输入诊所周一结束营业的时间</value>
+  </data>
+  <data name="MedicalSpecializations" xml:space="preserve">
+    <value>医疗专业</value>
+  </data>
+  <data name="ShortSummary" xml:space="preserve">
+    <value>概要</value>
+  </data>
+  <data name="InsuranceExpiryDate" xml:space="preserve">
+    <value>保险到期日</value>
+  </data>
+  <data name="CurrentPassword" xml:space="preserve">
+    <value>当前密码</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>详情</value>
+  </data>
+  <data name="Please enter Clinic wednesday to hours of operation" xml:space="preserve">
+    <value>请输入诊所周三结束营业的时间</value>
+  </data>
+  <data name="Weight" xml:space="preserve">
+    <value>重量</value>
+  </data>
+  <data name="MedicalSpecialization" xml:space="preserve">
+    <value>医疗专业</value>
+  </data>
+  <data name="IsSmoker" xml:space="preserve">
+    <value>吸烟</value>
+  </data>
+  <data name="Staff" xml:space="preserve">
+    <value>员工</value>
+  </data>
+  <data name="Set" xml:space="preserve">
+    <value>设置</value>
+  </data>
+  <data name="{0}Opps.. Something went wrong during the processing of the request. We've logged the error and are alredy working on it{1}" xml:space="preserve">
+    <value>{0} 糟糕。在请求处理过程中出现错误。我们已经记录该错误，并在努力解决。{1}</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>错误</value>
+  </data>
+  <data name="Please enter Title" xml:space="preserve">
+    <value>请输入标题</value>
+  </data>
+  <data name="CigarretPacksPerDay" xml:space="preserve">
+    <value>每天吸烟数量</value>
+  </data>
+  <data name="Please enter Clinic tuesday from hours of operation" xml:space="preserve">
+    <value>请输入诊所周二开始营业的时间</value>
+  </data>
+  <data name="ConfirmPassword" xml:space="preserve">
+    <value>确认密码</value>
+  </data>
+  <data name="By logging in you agree to Halza's{0} Terms of Use {1}and {2}Privacy Policy{3}" xml:space="preserve">
+    <value>登录即表示您同意 Halza 的{0}使用条款{1}和{2}隐私政策{3}</value>
+  </data>
+  <data name="Past" xml:space="preserve">
+    <value>以往</value>
+  </data>
+  <data name="Please enter Clinic saturday from hours of operation" xml:space="preserve">
+    <value>请输入诊所周六开始营业的时间</value>
+  </data>
+  <data name="DateOfBirth" xml:space="preserve">
+    <value>出生日期</value>
+  </data>
+  <data name="SecondaryWorkStreetAddress" xml:space="preserve">
+    <value>备选街道地址</value>
+  </data>
+  <data name="New Value" xml:space="preserve">
+    <value>新值</value>
+  </data>
+  <data name="Please enter Clinic email" xml:space="preserve">
+    <value>请输入诊所电子邮件地址</value>
+  </data>
+  <data name="PrimaryPhysician" xml:space="preserve">
+    <value>主治医生</value>
+  </data>
+  <data name="Add new medical data" xml:space="preserve">
+    <value>添加新的医疗数据</value>
+  </data>
+  <data name="OfficePhoneNumber" xml:space="preserve">
+    <value>办公室电话号码</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>提交</value>
+  </data>
+  <data name="Email Address" xml:space="preserve">
+    <value>电子邮件地址</value>
+  </data>
+  <data name="ZipCode" xml:space="preserve">
+    <value>区号</value>
+  </data>
+  <data name="CountryId" xml:space="preserve">
+    <value>国家</value>
+  </data>
+  <data name="Reject" xml:space="preserve">
+    <value>拒绝</value>
+  </data>
+  <data name="City" xml:space="preserve">
+    <value>城市</value>
+  </data>
+  <data name="InformPatient" xml:space="preserve">
+    <value>通知患者</value>
+  </data>
+  <data name="Saturday" xml:space="preserve">
+    <value>周六</value>
+  </data>
+  <data name="Please enter Clinic sunday to hours of operation" xml:space="preserve">
+    <value>请输入诊所周日结束营业的时间</value>
+  </data>
+  <data name="Please enter valid date" xml:space="preserve">
+    <value>请输入有效的日期</value>
+  </data>
+  <data name="SecondaryWorkAddress" xml:space="preserve">
+    <value>备选地址</value>
+  </data>
+  <data name="Please enter Clinic friday from hours of operation" xml:space="preserve">
+    <value>请输入诊所周五开始营业的时间</value>
+  </data>
+  <data name="Clinic Request" xml:space="preserve">
+    <value>诊所请求</value>
+  </data>
+  <data name="VideoFileName" xml:space="preserve">
+    <value>视频文件名称</value>
+  </data>
+  <data name="OfficePhone" xml:space="preserve">
+    <value>办公室电话</value>
+  </data>
+  <data name="DateOfRecord" xml:space="preserve">
+    <value>记录日期</value>
+  </data>
+  <data name="Send Clinic Request" xml:space="preserve">
+    <value>发送诊所请求</value>
+  </data>
+  <data name="Okay" xml:space="preserve">
+    <value>好</value>
+  </data>
+  <data name="Accept" xml:space="preserve">
+    <value>接受</value>
+  </data>
+  <data name="Forgot Password" xml:space="preserve">
+    <value>忘记密码</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>英语</value>
+  </data>
+  <data name="Create" xml:space="preserve">
+    <value>创建</value>
+  </data>
+  <data name="Please enter Clinic thursday from hours of operation" xml:space="preserve">
+    <value>请输入诊所周四开始营业的时间</value>
+  </data>
+  <data name="ViewProfile" xml:space="preserve">
+    <value>查看资料</value>
+  </data>
+  <data name="ShowFullDetail" xml:space="preserve">
+    <value>显示全部</value>
+  </data>
+  <data name="PleaseSelect" xml:space="preserve">
+    <value>请选择</value>
+  </data>
+  <data name="SecondaryPhysicians" xml:space="preserve">
+    <value>第二医师</value>
+  </data>
+  <data name="KindlyAsk" xml:space="preserve">
+    <value>询问</value>
+  </data>
+  <data name="Please enter Clinic tuesday to hours of operation" xml:space="preserve">
+    <value>请输入诊所周二结束营业的时间</value>
+  </data>
+  <data name="Tuesday" xml:space="preserve">
+    <value>周二</value>
+  </data>
+  <data name="Upload" xml:space="preserve">
+    <value>上传</value>
+  </data>
+  <data name="AddStaff" xml:space="preserve">
+    <value>添加员工</value>
+  </data>
+  <data name="Rooms" xml:space="preserve">
+    <value>房间</value>
+  </data>
+  <data name="MobilePhone" xml:space="preserve">
+    <value>手机</value>
+  </data>
+  <data name="SecondaryPhysicianName" xml:space="preserve">
+    <value>第二医师姓名</value>
+  </data>
+  <data name="WelcomeQuote" xml:space="preserve">
+    <value>欢迎</value>
+  </data>
+  <data name="Log in" xml:space="preserve">
+    <value>登录</value>
+  </data>
+  <data name="Please enter your pin" xml:space="preserve">
+    <value>请输入您的 PIN 码</value>
+  </data>
+  <data name="Monday" xml:space="preserve">
+    <value>周一</value>
+  </data>
+  <data name="AddPatient" xml:space="preserve">
+    <value>添加患者</value>
+  </data>
+  <data name="Health Parameters" xml:space="preserve">
+    <value>健康参数</value>
+  </data>
+  <data name="Your password was successfuly updated" xml:space="preserve">
+    <value>您的密码已经成功更新</value>
+  </data>
+  <data name="Sort" xml:space="preserve">
+    <value>分类</value>
+  </data>
+  <data name="LastName" xml:space="preserve">
+    <value>姓氏</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>打开</value>
+  </data>
+  <data name="Edit Medicine" xml:space="preserve">
+    <value>编辑药物</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="Send" xml:space="preserve">
+    <value>发送</value>
+  </data>
+  <data name="Please enter licence number" xml:space="preserve">
+    <value>请输入许可证编号</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>添加</value>
+  </data>
+  <data name="Other" xml:space="preserve">
+    <value>其他</value>
+  </data>
+  <data name="Medical Data" xml:space="preserve">
+    <value>医疗数据</value>
+  </data>
+  <data name="EndDate" xml:space="preserve">
+    <value>结束日期</value>
+  </data>
+  <data name="Please enter your current password" xml:space="preserve">
+    <value>请输入您的当前密码</value>
+  </data>
+  <data name="Set your password" xml:space="preserve">
+    <value>设置密码</value>
+  </data>
+  <data name="Passwords must match" xml:space="preserve">
+    <value>密码必须匹配</value>
+  </data>
+  <data name="Service Packages" xml:space="preserve">
+    <value>服务套餐</value>
+  </data>
+  <data name="Please enter Clinic wednesday from hours of operation" xml:space="preserve">
+    <value>请输入诊所周三开始营业的时间</value>
+  </data>
+  <data name="InsuranceCompany" xml:space="preserve">
+    <value>保险公司</value>
+  </data>
+  <data name="SubscriptionPlan" xml:space="preserve">
+    <value>订阅计划</value>
+  </data>
+  <data name="Click here to log in" xml:space="preserve">
+    <value>点击此处登录</value>
+  </data>
+  <data name="Please enter Clinic thursday to hours of operation" xml:space="preserve">
+    <value>请输入诊所周四营业时间</value>
+  </data>
+  <data name="Your reset link is expired. Please generate a new one." xml:space="preserve">
+    <value>您的链接已过期。请重新生成。</value>
+  </data>
+  <data name="Add Nurse" xml:space="preserve">
+    <value>添加护士</value>
+  </data>
+  <data name="You have entered a wrong pin code too many times." xml:space="preserve">
+    <value>您输入的 PIN 码错误次数已超过上限。</value>
+  </data>
+  <data name="Done" xml:space="preserve">
+    <value>完成</value>
+  </data>
+  <data name="New Password and Confirmation Password must match" xml:space="preserve">
+    <value>新密码必须与确认密码一致</value>
+  </data>
+  <data name="Please enter last name" xml:space="preserve">
+    <value>请输入姓氏</value>
+  </data>
+  <data name="ContactNumber1" xml:space="preserve">
+    <value>手机号码</value>
+  </data>
+  <data name="Are you sure you want to delete this medical data?" xml:space="preserve">
+    <value>您是否真的要删除此医疗数据？</value>
+  </data>
+  <data name="Medicine records" xml:space="preserve">
+    <value>药物记录</value>
+  </data>
+  <data name="Upload Image" xml:space="preserve">
+    <value>上传图像</value>
+  </data>
+  <data name="General" xml:space="preserve">
+    <value>一般</value>
+  </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>未找到</value>
+  </data>
+  <data name="ManagePhysician" xml:space="preserve">
+    <value>管理医师</value>
+  </data>
+  <data name="Medicine stocks" xml:space="preserve">
+    <value>剩余药物数量</value>
+  </data>
+  <data name="Please contact the patient to provide you with a new link and pin." xml:space="preserve">
+    <value>请联系患者，向您提供新链接和 PIN 码。</value>
+  </data>
+  <data name="BlzfileRegNo" xml:space="preserve">
+    <value>注册编号</value>
+  </data>
+  <data name="ContactNumber" xml:space="preserve">
+    <value>手机号码</value>
+  </data>
+  <data name="Phyisican Video" xml:space="preserve">
+    <value>医师视频</value>
+  </data>
+  <data name="Thursday" xml:space="preserve">
+    <value>周四</value>
+  </data>
+  <data name="Wednesday" xml:space="preserve">
+    <value>周三</value>
+  </data>
+  <data name="Friday" xml:space="preserve">
+    <value>周五</value>
+  </data>
+  <data name="Edit Clinic" xml:space="preserve">
+    <value>编辑诊所</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>更新</value>
+  </data>
+  <data name="Upload Data" xml:space="preserve">
+    <value>上传数据</value>
+  </data>
+  <data name="Please enter Clinic sunday from hours of operation" xml:space="preserve">
+    <value>请输入诊所周日开始营业的时间</value>
+  </data>
+  <data name="Please enter Clinic saturday to hours of operation" xml:space="preserve">
+    <value>请输入诊所周六结束营业的时间</value>
+  </data>
+  <data name="StreetAddress" xml:space="preserve">
+    <value>地址</value>
+  </data>
+  <data name="Physicians" xml:space="preserve">
+    <value>医师</value>
+  </data>
+  <data name="ConsultancySpecializations" xml:space="preserve">
+    <value>顾问专业</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>最近的</value>
+  </data>
+  <data name="Email sent" xml:space="preserve">
+    <value>电子邮件已发送</value>
+  </data>
+  <data name="Please enter your email" xml:space="preserve">
+    <value>请输入您的电子邮件地址</value>
+  </data>
+  <data name="Allergies" xml:space="preserve">
+    <value>过敏症</value>
+  </data>
+  <data name="Log out" xml:space="preserve">
+    <value>退出</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>搜索</value>
+  </data>
+  <data name="WelcomeToHalza" xml:space="preserve">
+    <value>欢迎使用 Halza</value>
+  </data>
+  <data name="No file chosen" xml:space="preserve">
+    <value>没有选择任何文件</value>
+  </data>
+  <data name="ShortBiography" xml:space="preserve">
+    <value>简短个人介绍</value>
+  </data>
+  <data name="Invalid birth date" xml:space="preserve">
+    <value>出生日期无效</value>
+  </data>
+  <data name="Female" xml:space="preserve">
+    <value>女性</value>
+  </data>
+  <data name="Reason" xml:space="preserve">
+    <value>原因</value>
+  </data>
+  <data name="Please enter Clinic monday from hours of operation" xml:space="preserve">
+    <value>请输入诊所周一开始营业的时间</value>
+  </data>
+  <data name="Edit Profile" xml:space="preserve">
+    <value>编辑资料</value>
+  </data>
+  <data name="Alphabetic" xml:space="preserve">
+    <value>字母</value>
+  </data>
+  <data name="Select Diacom Folder" xml:space="preserve">
+    <value>选择 DICOM 文件夹</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>姓名</value>
+  </data>
+  <data name="PhoneNumber" xml:space="preserve">
+    <value>电话号码</value>
+  </data>
+  <data name="HealthConditions" xml:space="preserve">
+    <value>健康状况</value>
+  </data>
+  <data name="Please enter Clinic blzfileRegNo" xml:space="preserve">
+    <value>请输入诊所 Blz 文件注册编号</value>
+  </data>
+  <data name="My profile" xml:space="preserve">
+    <value>我的档案</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>密码</value>
+  </data>
+  <data name="ReadTerms" xml:space="preserve">
+    <value>阅读条款</value>
+  </data>
+  <data name="Clinics" xml:space="preserve">
+    <value>诊所</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>资料</value>
+  </data>
+  <data name="Please enter first name" xml:space="preserve">
+    <value>请输入名字</value>
+  </data>
+  <data name="Please enter phone number" xml:space="preserve">
+    <value>请输入电话号码</value>
+  </data>
+  <data name="Please check your inbox and follow the instructions to reset your password." xml:space="preserve">
+    <value>请查看收件箱，并按照说明重设密码。</value>
+  </data>
+  <data name="SmokingEndDate" xml:space="preserve">
+    <value>戒烟日期</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>电子邮件</value>
+  </data>
+  <data name="SecondaryPhysicianClinicName" xml:space="preserve">
+    <value>第二医师所在的诊所名称</value>
+  </data>
+  <data name="InsurancePolicyNumber" xml:space="preserve">
+    <value>保单号码</value>
+  </data>
+  <data name="SmokingStartDate" xml:space="preserve">
+    <value>最早开始吸烟的日期</value>
+  </data>
+  <data name="Generate New" xml:space="preserve">
+    <value>新建</value>
+  </data>
+  <data name="Select File" xml:space="preserve">
+    <value>选择文件</value>
+  </data>
+  <data name="Medicines" xml:space="preserve">
+    <value>药物</value>
+  </data>
+  <data name="Clinic" xml:space="preserve">
+    <value>诊所</value>
+  </data>
+  <data name="Please enter start date" xml:space="preserve">
+    <value>请输入开始日期</value>
+  </data>
+  <data name="Please Wait" xml:space="preserve">
+    <value>请稍等</value>
+  </data>
+  <data name="The resourse you requested does not exist." xml:space="preserve">
+    <value>您请求的资源不存在。</value>
+  </data>
+  <data name="Please enter birthday" xml:space="preserve">
+    <value>请输入出生日期</value>
+  </data>
+  <data name="HideFullDetail" xml:space="preserve">
+    <value>隐藏全部内容</value>
+  </data>
+  <data name="Pending Clinic Request" xml:space="preserve">
+    <value>未确认诊所的请求</value>
+  </data>
+  <data name="Macedonian" xml:space="preserve">
+    <value>马其顿</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="Medications" xml:space="preserve">
+    <value>药物</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="Patients" xml:space="preserve">
+    <value>患者</value>
+  </data>
+  <data name="Medical" xml:space="preserve">
+    <value>医疗</value>
+  </data>
+  <data name="Note" xml:space="preserve">
+    <value>备注</value>
+  </data>
+  <data name="Dosage" xml:space="preserve">
+    <value>剂量</value>
+  </data>
+  <data name="Sunday" xml:space="preserve">
+    <value>周日</value>
+  </data>
+  <data name="You must be at least 21 yeasrs old" xml:space="preserve">
+    <value>您必须年满 21 周岁</value>
+  </data>
+  <data name="Please enter Clinic name" xml:space="preserve">
+    <value>请输入诊所名称</value>
+  </data>
+  <data name="Upload Photo" xml:space="preserve">
+    <value>上传照片</value>
+  </data>
+  <data name="Short Summary" xml:space="preserve">
+    <value>概要</value>
+  </data>
+  <data name="Please enter primary work address" xml:space="preserve">
+    <value>请输入主要营业地址</value>
+  </data>
+  <data name="Duration" xml:space="preserve">
+    <value>持续时间</value>
+  </data>
+  <data name="Associated Clinic" xml:space="preserve">
+    <value>关联的诊所</value>
+  </data>
+  <data name="StartDate" xml:space="preserve">
+    <value>开始日期</value>
+  </data>
+  <data name="Change Password" xml:space="preserve">
+    <value>修改密码</value>
+  </data>
+  <data name="NewPassword" xml:space="preserve">
+    <value>新密码</value>
+  </data>
+  <data name="Please enter Clinic primary work address" xml:space="preserve">
+    <value>请输入诊所的主要营业地址</value>
+  </data>
+  <data name="BloodGroup" xml:space="preserve">
+    <value>血型</value>
+  </data>
+  <data name="SecondaryPhysician" xml:space="preserve">
+    <value>第二医师</value>
+  </data>
+  <data name="PastSurgeries" xml:space="preserve">
+    <value>以往手术</value>
+  </data>
+  <data name="ConsultancySpecialization" xml:space="preserve">
+    <value>顾问专业</value>
+  </data>
+  <data name="Please enter gender" xml:space="preserve">
+    <value>请选择性别</value>
+  </data>
+  <data name="{0}You can{1} go back {2}home{3}" xml:space="preserve">
+    <value>{0}您可以{1}返回{2}家中{3}</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>家</value>
+  </data>
+  <data name="{0}How about you{1} go back to your home page{2}?{3}" xml:space="preserve">
+    <value>{0}是否{1}返回您的主页{2}? {3}</value>
+  </data>
+  <data name="Please enter your date of birth" xml:space="preserve">
+    <value>请输入您的出生日期</value>
+  </data>
+  <data name="Please enter your new password" xml:space="preserve">
+    <value>请输入您的新密码</value>
+  </data>
+  <data name="Your password has been set. Please{0} click here to log in{1}" xml:space="preserve">
+    <value>您的密码设置成功。请{0}点击此处登录{1}</value>
+  </data>
+  <data name="Clinic request has been sent" xml:space="preserve">
+    <value>诊所请求已发送</value>
+  </data>
+  <data name="Race" xml:space="preserve">
+    <value>种族</value>
+  </data>
+  <data name="Male" xml:space="preserve">
+    <value>男性</value>
+  </data>
+  <data name="Services" xml:space="preserve">
+    <value>服务</value>
+  </data>
+  <data name="Gender" xml:space="preserve">
+    <value>性别</value>
+  </data>
+  <data name="Please enter email address" xml:space="preserve">
+    <value>请输入电子邮件地址</value>
+  </data>
+  <data name="MedicineFrequency" xml:space="preserve">
+    <value>服药频率</value>
+  </data>
+  <data name="Forgot your password?" xml:space="preserve">
+    <value>忘记了密码？</value>
+  </data>
+  <data name="Please select date" xml:space="preserve">
+    <value>请选择日期</value>
+  </data>
+  <data name="FirstName" xml:space="preserve">
+    <value>名字</value>
+  </data>
+  <data name="PreferredMethodOfContact" xml:space="preserve">
+    <value>首选联系方式</value>
+  </data>
+  <data name="Please enter your password" xml:space="preserve">
+    <value>请输入您的密码</value>
+  </data>
+  <data name="Please enter Clinic contact number 1" xml:space="preserve">
+    <value>请输入诊所联系人号码</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>语言</value>
+  </data>
+  <data name="CountryName" xml:space="preserve">
+    <value>国家</value>
+  </data>
+</root>
