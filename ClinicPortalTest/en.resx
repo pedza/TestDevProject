@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -166,7 +166,7 @@
     <value>シガレットパック/日</value>
   </data>
   <data name="CityTest" xml:space="preserve">
-    <value>CityTestPedza</value>
+    <value>CityTest</value>
   </data>
   <data name="Click here to log in" xml:space="preserve">
     <value>ログインするにはここをクリックしてください</value>
