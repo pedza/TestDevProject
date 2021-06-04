@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,685 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Current" xml:space="preserve">
+    <value>Actuel</value>
+  </data>
+  <data name="PrimaryWorkStreetAddress" xml:space="preserve">
+    <value>Adresse principale (bureau)</value>
+  </data>
+  <data name="Menu" xml:space="preserve">
+    <value>Menu</value>
+  </data>
+  <data name="Hours of Operation" xml:space="preserve">
+    <value>Horaires d'ouverture</value>
+  </data>
+  <data name="Passport" xml:space="preserve">
+    <value>Passeport</value>
+  </data>
+  <data name="Please enter Clinic friday to hours of operation" xml:space="preserve">
+    <value>Veuillez saisir les horaires de fermeture du vendredi</value>
+  </data>
+  <data name="PrimaryWorkAddress" xml:space="preserve">
+    <value>Adresse professionnelle principale</value>
+  </data>
+  <data name="Enter your email" xml:space="preserve">
+    <value>Veuillez saisir votre adresse e-mail</value>
+  </data>
+  <data name="Please read and agree to the terms of use and the privacy policy" xml:space="preserve">
+    <value>Veuillez lire et accepter les conditions d'utilisation et la charte de confidentialité.</value>
+  </data>
+  <data name="About" xml:space="preserve">
+    <value>À propos</value>
+  </data>
+  <data name="LicenseNumber" xml:space="preserve">
+    <value>Numéro d'identification professionnel</value>
+  </data>
+  <data name="Invite Physician" xml:space="preserve">
+    <value>Inviter un médecin</value>
+  </data>
+  <data name="Video" xml:space="preserve">
+    <value>Vidéo</value>
+  </data>
+  <data name="Start1 Date can't be bigger than End Date" xml:space="preserve">
+    <value>La date de début ne peut pas être ultérieure à la date de fin</value>
+  </data>
+  <data name="Clinic Management" xml:space="preserve">
+    <value>Gérer les cliniques</value>
+  </data>
+  <data name="Please enter Clinic city" xml:space="preserve">
+    <value>Veuillez saisir la ville de la clinique</value>
+  </data>
+  <data name="Height" xml:space="preserve">
+    <value>Taille</value>
+  </data>
+  <data name="Measurement date" xml:space="preserve">
+    <value>Date de la mesure</value>
+  </data>
+  <data name="Please enter Clinic monday to hours of operation" xml:space="preserve">
+    <value>Veuillez saisir les horaires de fermeture du lundi</value>
+  </data>
+  <data name="MedicalSpecializations" xml:space="preserve">
+    <value>Spécialisations médicales</value>
+  </data>
+  <data name="ShortSummary" xml:space="preserve">
+    <value>Aperçu </value>
+  </data>
+  <data name="InsuranceExpiryDate" xml:space="preserve">
+    <value>Date d'expiration de l'assurance</value>
+  </data>
+  <data name="CurrentPassword" xml:space="preserve">
+    <value>Mot de passe actuel</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>Coordonnées</value>
+  </data>
+  <data name="Please enter Clinic wednesday to hours of operation" xml:space="preserve">
+    <value>Veuillez saisir les horaires de fermeture du mercredi</value>
+  </data>
+  <data name="Weight" xml:space="preserve">
+    <value>Poids</value>
+  </data>
+  <data name="MedicalSpecialization" xml:space="preserve">
+    <value>Spécialisation médicale</value>
+  </data>
+  <data name="IsSmoker" xml:space="preserve">
+    <value>Consommation de tabac</value>
+  </data>
+  <data name="Staff" xml:space="preserve">
+    <value>Personnel</value>
+  </data>
+  <data name="Set" xml:space="preserve">
+    <value>Valider</value>
+  </data>
+  <data name="{0}Opps.. Something went wrong during the processing of the request. We've logged the error and are alredy working on it{1}" xml:space="preserve">
+    <value>{0} Oups…Une erreur est survenue lors du traitement de la demande. Nous avons enregistré cette erreur et travaillons à sa résolution. {1}</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Erreur</value>
+  </data>
+  <data name="Please enter Title" xml:space="preserve">
+    <value>Veuillez saisir le titre</value>
+  </data>
+  <data name="CigarretPacksPerDay" xml:space="preserve">
+    <value>Paquet(s) de cigarettes par jour</value>
+  </data>
+  <data name="Please enter Clinic tuesday from hours of operation" xml:space="preserve">
+    <value>Veuillez saisir les horaires d'ouverture du mardi</value>
+  </data>
+  <data name="ConfirmPassword" xml:space="preserve">
+    <value>Confirmer le mot de passe</value>
+  </data>
+  <data name="By logging in you agree to Halza's{0} Terms of Use {1}and {2}Privacy Policy{3}" xml:space="preserve">
+    <value>En vous connectant, vous acceptez les Conditions d'utilisation {1} de Halza {0} et sa Charte de confidentialité {2}</value>
+  </data>
+  <data name="Past" xml:space="preserve">
+    <value>Passé</value>
+  </data>
+  <data name="Please enter Clinic saturday from hours of operation" xml:space="preserve">
+    <value>Veuillez saisir les horaires d'ouverture du samedi</value>
+  </data>
+  <data name="DateOfBirth" xml:space="preserve">
+    <value>Date de naissance</value>
+  </data>
+  <data name="SecondaryWorkStreetAddress" xml:space="preserve">
+    <value>Adresse postale   secondaire (bureau)</value>
+  </data>
+  <data name="New Value" xml:space="preserve">
+    <value>Nouvelle valeur</value>
+  </data>
+  <data name="Please enter Clinic email" xml:space="preserve">
+    <value>Veuillez saisir l'adresse e-mail de la clinique</value>
+  </data>
+  <data name="PrimaryPhysician" xml:space="preserve">
+    <value>Médecin traitant</value>
+  </data>
+  <data name="Add new medical data" xml:space="preserve">
+    <value>Ajouter une nouvelle donnée médicale</value>
+  </data>
+  <data name="OfficePhoneNumber" xml:space="preserve">
+    <value>Tél. (bureau)</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>Envoyer</value>
+  </data>
+  <data name="Email Address" xml:space="preserve">
+    <value>Adresse e-mail</value>
+  </data>
+  <data name="ZipCode" xml:space="preserve">
+    <value>Code postal</value>
+  </data>
+  <data name="CountryId" xml:space="preserve">
+    <value>Pays</value>
+  </data>
+  <data name="Reject" xml:space="preserve">
+    <value>Refuser</value>
+  </data>
+  <data name="City" xml:space="preserve">
+    <value>Ville</value>
+  </data>
+  <data name="InformPatient" xml:space="preserve">
+    <value>Informer le patient</value>
+  </data>
+  <data name="Saturday" xml:space="preserve">
+    <value>Samedi</value>
+  </data>
+  <data name="Please enter Clinic sunday to hours of operation" xml:space="preserve">
+    <value>Veuillez saisir les horaires de fermeture du dimanche</value>
+  </data>
+  <data name="Please enter valid date" xml:space="preserve">
+    <value>Veuillez saisir une date valide</value>
+  </data>
+  <data name="SecondaryWorkAddress" xml:space="preserve">
+    <value>Adresse secondaire (bureau)</value>
+  </data>
+  <data name="Please enter Clinic friday from hours of operation" xml:space="preserve">
+    <value>Veuillez saisir les horaires d'ouverture du vendredi</value>
+  </data>
+  <data name="Clinic Request" xml:space="preserve">
+    <value>Demande de clinique </value>
+  </data>
+  <data name="VideoFileName" xml:space="preserve">
+    <value>Nom du fichier vidéo</value>
+  </data>
+  <data name="OfficePhone" xml:space="preserve">
+    <value>Tél. (bureau)</value>
+  </data>
+  <data name="DateOfRecord" xml:space="preserve">
+    <value>Date de la mesure enregistrée</value>
+  </data>
+  <data name="Send Clinic Request" xml:space="preserve">
+    <value>Envoyer la demande de clinique</value>
+  </data>
+  <data name="Okay" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Accept" xml:space="preserve">
+    <value>Accepter</value>
+  </data>
+  <data name="Forgot Password" xml:space="preserve">
+    <value>Mot de passé oublié</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>Anglais</value>
+  </data>
+  <data name="Create" xml:space="preserve">
+    <value>Créer</value>
+  </data>
+  <data name="Please enter Clinic thursday from hours of operation" xml:space="preserve">
+    <value>Veuillez saisir les horaires d'ouverture du jeudi</value>
+  </data>
+  <data name="ViewProfile" xml:space="preserve">
+    <value>Voir le profil</value>
+  </data>
+  <data name="ShowFullDetail" xml:space="preserve">
+    <value>Montrer toutes les informations</value>
+  </data>
+  <data name="PleaseSelect" xml:space="preserve">
+    <value>Sélectionner</value>
+  </data>
+  <data name="SecondaryPhysicians" xml:space="preserve">
+    <value>Médecins secondaires</value>
+  </data>
+  <data name="KindlyAsk" xml:space="preserve">
+    <value>Une question ?</value>
+  </data>
+  <data name="Please enter Clinic tuesday to hours of operation" xml:space="preserve">
+    <value>Veuillez saisir les horaires de fermeture du mardi</value>
+  </data>
+  <data name="Tuesday" xml:space="preserve">
+    <value>Mardi</value>
+  </data>
+  <data name="Upload" xml:space="preserve">
+    <value>Télécharger</value>
+  </data>
+  <data name="AddStaff" xml:space="preserve">
+    <value>Ajouter personnel</value>
+  </data>
+  <data name="Rooms" xml:space="preserve">
+    <value>Chambres</value>
+  </data>
+  <data name="MobilePhone" xml:space="preserve">
+    <value>Portable</value>
+  </data>
+  <data name="SecondaryPhysicianName" xml:space="preserve">
+    <value>Nom du médecin secondaire</value>
+  </data>
+  <data name="WelcomeQuote" xml:space="preserve">
+    <value>Bienvenue</value>
+  </data>
+  <data name="Log in" xml:space="preserve">
+    <value>Connexion</value>
+  </data>
+  <data name="Please enter your pin" xml:space="preserve">
+    <value>Veuillez saisir votre code PIN</value>
+  </data>
+  <data name="Monday" xml:space="preserve">
+    <value>Lundi</value>
+  </data>
+  <data name="AddPatient" xml:space="preserve">
+    <value>Ajouter patient</value>
+  </data>
+  <data name="Health Parameters" xml:space="preserve">
+    <value>Paramètres de santé</value>
+  </data>
+  <data name="Your password was successfuly updated" xml:space="preserve">
+    <value>Mise à jour du mot de passe réussie</value>
+  </data>
+  <data name="Sort" xml:space="preserve">
+    <value>Trier</value>
+  </data>
+  <data name="LastName" xml:space="preserve">
+    <value>Nom de famille</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>Ouvrir</value>
+  </data>
+  <data name="Edit Medicine" xml:space="preserve">
+    <value>Modifier le médicament</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>Non</value>
+  </data>
+  <data name="Send" xml:space="preserve">
+    <value>Envoyer</value>
+  </data>
+  <data name="Please enter licence number" xml:space="preserve">
+    <value>Veuillez saisir votre numéro d'identification professionnel</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Ajouter</value>
+  </data>
+  <data name="Other" xml:space="preserve">
+    <value>Autre</value>
+  </data>
+  <data name="Medical Data" xml:space="preserve">
+    <value>Données médicales</value>
+  </data>
+  <data name="EndDate" xml:space="preserve">
+    <value>Date de fin</value>
+  </data>
+  <data name="Please enter your current password" xml:space="preserve">
+    <value>Veuillez saisir votre mot de passe actuel</value>
+  </data>
+  <data name="Set your password" xml:space="preserve">
+    <value>Créez votre mot de passe</value>
+  </data>
+  <data name="Passwords must match" xml:space="preserve">
+    <value>Les mots de passe doivent correspondre</value>
+  </data>
+  <data name="Service Packages" xml:space="preserve">
+    <value>Forfaits services</value>
+  </data>
+  <data name="Please enter Clinic wednesday from hours of operation" xml:space="preserve">
+    <value>Veuillez saisir les horaires d'ouverture du mercredi</value>
+  </data>
+  <data name="InsuranceCompany" xml:space="preserve">
+    <value>Compagnie d'assurance</value>
+  </data>
+  <data name="SubscriptionPlan" xml:space="preserve">
+    <value>Abonnement</value>
+  </data>
+  <data name="Click here to log in" xml:space="preserve">
+    <value>Cliquez ici pour vous connecter</value>
+  </data>
+  <data name="Please enter Clinic thursday to hours of operation" xml:space="preserve">
+    <value>Veuillez saisir les horaires de fermeture du jeudi</value>
+  </data>
+  <data name="Your reset link is expired. Please generate a new one." xml:space="preserve">
+    <value>Le lien de réinitialisation du mot de passe a expiré. Veuillez en générer un nouveau.</value>
+  </data>
+  <data name="Add Nurse" xml:space="preserve">
+    <value>Ajouter infirmier(e)</value>
+  </data>
+  <data name="You have entered a wrong pin code too many times." xml:space="preserve">
+    <value>Trop de tentatives de connexion avec un code PIN invalide.</value>
+  </data>
+  <data name="Done" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="New Password and Confirmation Password must match" xml:space="preserve">
+    <value>Les deux mots de passe doivent correspondre</value>
+  </data>
+  <data name="Please enter last name" xml:space="preserve">
+    <value>Veuillez saisir votre nom de famille</value>
+  </data>
+  <data name="ContactNumber1" xml:space="preserve">
+    <value>Portable</value>
+  </data>
+  <data name="Are you sure you want to delete this medical data?" xml:space="preserve">
+    <value>Êtes-vous sûr(e) de vouloir supprimer cette donnée médicale ?</value>
+  </data>
+  <data name="Medicine records" xml:space="preserve">
+    <value>Prise de médicaments</value>
+  </data>
+  <data name="Upload Image" xml:space="preserve">
+    <value>Télécharger l'image</value>
+  </data>
+  <data name="General" xml:space="preserve">
+    <value>Général</value>
+  </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>Introuvable</value>
+  </data>
+  <data name="ManagePhysician" xml:space="preserve">
+    <value>Gérer le profil du médecin</value>
+  </data>
+  <data name="Medicine stocks" xml:space="preserve">
+    <value>Stocks de médicaments</value>
+  </data>
+  <data name="Please contact the patient to provide you with a new link and pin." xml:space="preserve">
+    <value>Veuillez contacter le patient pour obtenir de nouveaux lien et code PIN.</value>
+  </data>
+  <data name="BlzfileRegNo" xml:space="preserve">
+    <value>Enregistrer le numéro</value>
+  </data>
+  <data name="ContactNumber" xml:space="preserve">
+    <value>Portable</value>
+  </data>
+  <data name="Phyisican Video" xml:space="preserve">
+    <value>Vidéo du médecin</value>
+  </data>
+  <data name="Thursday" xml:space="preserve">
+    <value>Jeudi</value>
+  </data>
+  <data name="Wednesday" xml:space="preserve">
+    <value>Mercredi</value>
+  </data>
+  <data name="Friday" xml:space="preserve">
+    <value>Vendredi</value>
+  </data>
+  <data name="Edit Clinic" xml:space="preserve">
+    <value>Modifier la clinique</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>Mettre à jour</value>
+  </data>
+  <data name="Upload Data" xml:space="preserve">
+    <value>Télécharger les données</value>
+  </data>
+  <data name="Please enter Clinic sunday from hours of operation" xml:space="preserve">
+    <value>Veuillez saisir les horaires d'ouverture du dimanche</value>
+  </data>
+  <data name="Please enter Clinic saturday to hours of operation" xml:space="preserve">
+    <value>Veuillez saisir les horaires de fermeture du samedi</value>
+  </data>
+  <data name="StreetAddress" xml:space="preserve">
+    <value>Adresse</value>
+  </data>
+  <data name="Physicians" xml:space="preserve">
+    <value>Médecins</value>
+  </data>
+  <data name="ConsultancySpecializations" xml:space="preserve">
+    <value>Spécialisations</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Récent</value>
+  </data>
+  <data name="Email sent" xml:space="preserve">
+    <value>E-mail envoyé</value>
+  </data>
+  <data name="Please enter your email" xml:space="preserve">
+    <value>Veuillez saisir votre adresse e-mail</value>
+  </data>
+  <data name="Allergies" xml:space="preserve">
+    <value>Allergies</value>
+  </data>
+  <data name="Log out" xml:space="preserve">
+    <value>Déconnexion</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Rechercher</value>
+  </data>
+  <data name="WelcomeToHalza" xml:space="preserve">
+    <value>Bienvenue sur Halza</value>
+  </data>
+  <data name="No file chosen" xml:space="preserve">
+    <value>Aucun fichier sélectionné</value>
+  </data>
+  <data name="ShortBiography" xml:space="preserve">
+    <value>Bio en bref</value>
+  </data>
+  <data name="Invalid birth date" xml:space="preserve">
+    <value>Date de naissance invalide</value>
+  </data>
+  <data name="Female" xml:space="preserve">
+    <value>Femme</value>
+  </data>
+  <data name="Reason" xml:space="preserve">
+    <value>Raison</value>
+  </data>
+  <data name="Please enter Clinic monday from hours of operation" xml:space="preserve">
+    <value>Veuillez saisir les horaires d'ouverture du lundi</value>
+  </data>
+  <data name="Edit Profile" xml:space="preserve">
+    <value>Modifier le profil</value>
+  </data>
+  <data name="Alphabetic" xml:space="preserve">
+    <value>Alphabétique</value>
+  </data>
+  <data name="Select Diacom Folder" xml:space="preserve">
+    <value>Sélectionner un dossier Dicom</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="PhoneNumber" xml:space="preserve">
+    <value>Numéro de téléphone</value>
+  </data>
+  <data name="HealthConditions" xml:space="preserve">
+    <value>Problèmes de santé</value>
+  </data>
+  <data name="Please enter Clinic blzfileRegNo" xml:space="preserve">
+    <value>Veuillez saisir le n° d'enregistrement du fichier Blz de la clinique</value>
+  </data>
+  <data name="My profile" xml:space="preserve">
+    <value>Mon profile</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Mot de passe</value>
+  </data>
+  <data name="ReadTerms" xml:space="preserve">
+    <value>Lire les conditions</value>
+  </data>
+  <data name="Clinics" xml:space="preserve">
+    <value>Cliniques</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>Profil</value>
+  </data>
+  <data name="Please enter first name" xml:space="preserve">
+    <value>Veuillez saisir votre prénom</value>
+  </data>
+  <data name="Please enter phone number" xml:space="preserve">
+    <value>Veuillez saisir votre numéro de téléphone</value>
+  </data>
+  <data name="Please check your inbox and follow the instructions to reset your password." xml:space="preserve">
+    <value>Veuillez consulter votre boîte aux lettres  électronique et suivre les instructions pour réinitialiser votre mot de passe.</value>
+  </data>
+  <data name="SmokingEndDate" xml:space="preserve">
+    <value>Date à laquelle vous avez arrêté de fumer</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="SecondaryPhysicianClinicName" xml:space="preserve">
+    <value>Nom de la clinique du médecin secondaire</value>
+  </data>
+  <data name="InsurancePolicyNumber" xml:space="preserve">
+    <value>Référence du contrat d'assurance</value>
+  </data>
+  <data name="SmokingStartDate" xml:space="preserve">
+    <value>Date à laquelle vous avez commencé à fumer</value>
+  </data>
+  <data name="Generate New" xml:space="preserve">
+    <value>Nouveau lien</value>
+  </data>
+  <data name="Select File" xml:space="preserve">
+    <value>Sélectionner un fichier</value>
+  </data>
+  <data name="Medicines" xml:space="preserve">
+    <value>Médicaments</value>
+  </data>
+  <data name="Clinic" xml:space="preserve">
+    <value>Clinique</value>
+  </data>
+  <data name="Please enter start date" xml:space="preserve">
+    <value>Veuillez saisir la date de début</value>
+  </data>
+  <data name="Please Wait" xml:space="preserve">
+    <value>Veuillez patienter</value>
+  </data>
+  <data name="The resourse you requested does not exist." xml:space="preserve">
+    <value>La page demandée n'existe pas.</value>
+  </data>
+  <data name="Please enter birthday" xml:space="preserve">
+    <value>Veuillez saisir votre date de naissance</value>
+  </data>
+  <data name="HideFullDetail" xml:space="preserve">
+    <value>Masquer toutes les informations</value>
+  </data>
+  <data name="Pending Clinic Request" xml:space="preserve">
+    <value>Demande d'ajout de la clinique en attente</value>
+  </data>
+  <data name="Macedonian" xml:space="preserve">
+    <value>Macédonien</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Enregistrer</value>
+  </data>
+  <data name="Medications" xml:space="preserve">
+    <value>Traitements</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="Patients" xml:space="preserve">
+    <value>Patients</value>
+  </data>
+  <data name="Medical" xml:space="preserve">
+    <value>Médical</value>
+  </data>
+  <data name="Note" xml:space="preserve">
+    <value>Note</value>
+  </data>
+  <data name="Dosage" xml:space="preserve">
+    <value>Posologie</value>
+  </data>
+  <data name="Sunday" xml:space="preserve">
+    <value>Dimanche</value>
+  </data>
+  <data name="You must be at least 21 yeasrs old" xml:space="preserve">
+    <value>Vous devez être âgé(e) d'au moins 21 ans</value>
+  </data>
+  <data name="Please enter Clinic name" xml:space="preserve">
+    <value>Veuillez saisir le nom de la clinique</value>
+  </data>
+  <data name="Upload Photo" xml:space="preserve">
+    <value>Télécharger une photo</value>
+  </data>
+  <data name="Short Summary" xml:space="preserve">
+    <value>Aperçu </value>
+  </data>
+  <data name="Please enter primary work address" xml:space="preserve">
+    <value>Veuillez saisir votre adresse professionnelle principale</value>
+  </data>
+  <data name="Duration" xml:space="preserve">
+    <value>Durée</value>
+  </data>
+  <data name="Associated Clinic" xml:space="preserve">
+    <value>Clinique associée</value>
+  </data>
+  <data name="StartDate" xml:space="preserve">
+    <value>Date de début</value>
+  </data>
+  <data name="Change Password" xml:space="preserve">
+    <value>Changer le mot de passe</value>
+  </data>
+  <data name="NewPassword" xml:space="preserve">
+    <value>Nouveau mot de passe</value>
+  </data>
+  <data name="Please enter Clinic primary work address" xml:space="preserve">
+    <value>Veuillez saisir l'adresse principale de la clinique</value>
+  </data>
+  <data name="BloodGroup" xml:space="preserve">
+    <value>Groupe sanguin</value>
+  </data>
+  <data name="SecondaryPhysician" xml:space="preserve">
+    <value>Médecin secondaire</value>
+  </data>
+  <data name="PastSurgeries" xml:space="preserve">
+    <value>Opérations chirurgicales passées</value>
+  </data>
+  <data name="ConsultancySpecialization" xml:space="preserve">
+    <value>Spécialisation</value>
+  </data>
+  <data name="Please enter gender" xml:space="preserve">
+    <value>Veuillez indiquer votre sexe</value>
+  </data>
+  <data name="{0}You can{1} go back {2}home{3}" xml:space="preserve">
+    <value>{0} Veuillez {1} revenir {2} sur la page d'accueil {3}</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Domicile</value>
+  </data>
+  <data name="{0}How about you{1} go back to your home page{2}?{3}" xml:space="preserve">
+    <value>{0} Pourquoi ne pas {1} revenir sur votre écran d'accueil {2}? {3}</value>
+  </data>
+  <data name="Please enter your date of birth" xml:space="preserve">
+    <value>Veuillez saisir votre date de naissance</value>
+  </data>
+  <data name="Please enter your new password" xml:space="preserve">
+    <value>Veuillez saisir votre nouveau mot de passe</value>
+  </data>
+  <data name="Your password has been set. Please{0} click here to log in{1}" xml:space="preserve">
+    <value>Votre mot de passe a été créé. Veuillez {0} cliquer ici pour vous connecter {1}</value>
+  </data>
+  <data name="Clinic request has been sent" xml:space="preserve">
+    <value>La demande de clinique a été envoyée</value>
+  </data>
+  <data name="Race" xml:space="preserve">
+    <value>Ethnicité</value>
+  </data>
+  <data name="Male" xml:space="preserve">
+    <value>Homme</value>
+  </data>
+  <data name="Services" xml:space="preserve">
+    <value>Services</value>
+  </data>
+  <data name="Gender" xml:space="preserve">
+    <value>Genre</value>
+  </data>
+  <data name="Please enter email address" xml:space="preserve">
+    <value>Veuillez saisir votre adresse e-mail</value>
+  </data>
+  <data name="MedicineFrequency" xml:space="preserve">
+    <value>Fréquence de la prise de médicament</value>
+  </data>
+  <data name="Forgot your password?" xml:space="preserve">
+    <value>Mot de passe oublié ?</value>
+  </data>
+  <data name="Please select date" xml:space="preserve">
+    <value>Veuillez sélectionner une date</value>
+  </data>
+  <data name="FirstName" xml:space="preserve">
+    <value>Prénom</value>
+  </data>
+  <data name="PreferredMethodOfContact" xml:space="preserve">
+    <value>Moyen de communication préféré</value>
+  </data>
+  <data name="Please enter your password" xml:space="preserve">
+    <value>Veuillez saisir votre mot de passe</value>
+  </data>
+  <data name="Please enter Clinic contact number 1" xml:space="preserve">
+    <value>Veuillez saisir le numéro de téléphone de la clinique</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Langue</value>
+  </data>
+  <data name="CountryName" xml:space="preserve">
+    <value>Pays</value>
+  </data>
 </root>
