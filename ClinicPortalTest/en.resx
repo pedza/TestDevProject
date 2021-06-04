@@ -165,9 +165,6 @@
   <data name="CigarretPacksPerDay" xml:space="preserve">
     <value>シガレットパック/日</value>
   </data>
-  <data name="City2" xml:space="preserve">
-    <value>City</value>
-  </data>
   <data name="Click here to log in" xml:space="preserve">
     <value>ログインするにはここをクリックしてください</value>
   </data>
