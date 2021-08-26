@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,5903 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ABNegative" xml:space="preserve">
+    <value>AB-</value>
+  </data>
+  <data name="ABPositive" xml:space="preserve">
+    <value>AB+</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>添加</value>
+  </data>
+  <data name="Addnewmedicaldata" xml:space="preserve">
+    <value>添加新的医疗资料</value>
+  </data>
+  <data name="AddSecondaryPhysician" xml:space="preserve">
+    <value>添加次要医生</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>地址</value>
+  </data>
+  <data name="African" xml:space="preserve">
+    <value>非洲</value>
+  </data>
+  <data name="AgeLimit" xml:space="preserve">
+    <value>年龄限制</value>
+  </data>
+  <data name="Allergies" xml:space="preserve">
+    <value>过敏症</value>
+  </data>
+  <data name="AmericanIndian" xml:space="preserve">
+    <value>美洲印第安人</value>
+  </data>
+  <data name="ANegative" xml:space="preserve">
+    <value>A-</value>
+  </data>
+  <data name="APositive" xml:space="preserve">
+    <value>A+</value>
+  </data>
+  <data name="Asian" xml:space="preserve">
+    <value>亚洲人</value>
+  </data>
+  <data name="AustralianAborigine" xml:space="preserve">
+    <value>澳大利亚原住民</value>
+  </data>
+  <data name="BirthDate" xml:space="preserve">
+    <value>生日</value>
+  </data>
+  <data name="BloodGroup" xml:space="preserve">
+    <value>血型</value>
+  </data>
+  <data name="BMI" xml:space="preserve">
+    <value>BMI</value>
+  </data>
+  <data name="BNegative" xml:space="preserve">
+    <value>B-</value>
+  </data>
+  <data name="BPositive" xml:space="preserve">
+    <value>B+</value>
+  </data>
+  <data name="Caucasian" xml:space="preserve">
+    <value>白种人</value>
+  </data>
+  <data name="Clickheretologin" xml:space="preserve">
+    <value>点选这里登入</value>
+  </data>
+  <data name="Clinic" xml:space="preserve">
+    <value>诊所</value>
+  </data>
+  <data name="ClinicId" xml:space="preserve">
+    <value>诊所</value>
+  </data>
+  <data name="ConciergePackage" xml:space="preserve">
+    <value>礼宾套组</value>
+  </data>
+  <data name="ConciergeService" xml:space="preserve">
+    <value>礼宾服务</value>
+  </data>
+  <data name="ConfirmPassword" xml:space="preserve">
+    <value>确认密码</value>
+  </data>
+  <data name="ContactNumber" xml:space="preserve">
+    <value>手机号码</value>
+  </data>
+  <data name="Country" xml:space="preserve">
+    <value>国家</value>
+  </data>
+  <data name="CountryId" xml:space="preserve">
+    <value>国家</value>
+  </data>
+  <data name="CreateAccount" xml:space="preserve">
+    <value>创建帐户</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>日期</value>
+  </data>
+  <data name="DateOfBirth" xml:space="preserve">
+    <value>生日</value>
+  </data>
+  <data name="DateOfRecord" xml:space="preserve">
+    <value>纪录日期</value>
+  </data>
+  <data name="DeleteSecondaryPhysician" xml:space="preserve">
+    <value>删除次要医生</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>叙述</value>
+  </data>
+  <data name="Duration" xml:space="preserve">
+    <value>期间</value>
+  </data>
+  <data name="EasternIndian" xml:space="preserve">
+    <value>东印度洋</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>电子邮件</value>
+  </data>
+  <data name="Emailsent" xml:space="preserve">
+    <value>电子邮件已发送</value>
+  </data>
+  <data name="EmailAddress" xml:space="preserve">
+    <value>电子邮件地址</value>
+  </data>
+  <data name="EmergencyContactNumber" xml:space="preserve">
+    <value>紧急联系电话</value>
+  </data>
+  <data name="Enteryouremail." xml:space="preserve">
+    <value>输入您的电子邮件</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>错误</value>
+  </data>
+  <data name="EveryHalzauserneedsanemailaddresstologin.Ifanyofyourfamilymembersdoesnothaveoneyet,pleasecreateone.(YoucanuseMicrosoftOutlookoranotheremailprovider)" xml:space="preserve">
+    <value>每一位Halza用户需要一个电子邮件登入。如果您的家庭成员还没有电子邮件，请创建一个。(您可以使用Outlook或其他的电子邮件)</value>
+  </data>
+  <data name="ExpiryDate" xml:space="preserve">
+    <value>失效日期</value>
+  </data>
+  <data name="Family" xml:space="preserve">
+    <value>家庭</value>
+  </data>
+  <data name="FamilyMember" xml:space="preserve">
+    <value>家庭成员</value>
+  </data>
+  <data name="FamilyProfile" xml:space="preserve">
+    <value>家庭档案</value>
+  </data>
+  <data name="FeedbackMessage" xml:space="preserve">
+    <value>回馈讯息</value>
+  </data>
+  <data name="Female" xml:space="preserve">
+    <value>女性</value>
+  </data>
+  <data name="FirstName" xml:space="preserve">
+    <value>名字</value>
+  </data>
+  <data name="Forgotyourpassword?" xml:space="preserve">
+    <value>忘记密码?</value>
+  </data>
+  <data name="Gender" xml:space="preserve">
+    <value>性别</value>
+  </data>
+  <data name="Gohome" xml:space="preserve">
+    <value>回家</value>
+  </data>
+  <data name="HeadofFamily" xml:space="preserve">
+    <value>户长</value>
+  </data>
+  <data name="HealthConditions" xml:space="preserve">
+    <value>健康状况</value>
+  </data>
+  <data name="Height" xml:space="preserve">
+    <value>身高</value>
+  </data>
+  <data name="Hispanic" xml:space="preserve">
+    <value>西班牙裔</value>
+  </data>
+  <data name="Hours" xml:space="preserve">
+    <value>时数</value>
+  </data>
+  <data name="HoursBought" xml:space="preserve">
+    <value>购买时数</value>
+  </data>
+  <data name="Ihavereadandagreedto{0}thetermsofuse{1}andthe{2}privacypolicy{3}" xml:space="preserve">
+    <value>我已阅读并同意(0)使用条款(1)及(2)隐私权政策</value>
+  </data>
+  <data name="Individual" xml:space="preserve">
+    <value>个人</value>
+  </data>
+  <data name="IndividualHoursleft" xml:space="preserve">
+    <value>个人剩馀时间</value>
+  </data>
+  <data name="Individualsmustbe21yearsoldorabove.Minorscanberegisteredwhenyousubscribetoafamilyplan.Contactusatyoung.adult@Halza.comtoreceiveadviceandtailoredoptionsoryourfamily." xml:space="preserve">
+    <value>个人需年满21岁以上。未成年人可以订阅家族计划便可注册。联系我们young.adult@Halza.com已收到建议及量身订作的选择或您的家人</value>
+  </data>
+  <data name="InsuranceCompany" xml:space="preserve">
+    <value>保险公司</value>
+  </data>
+  <data name="InsuranceExpiryDate" xml:space="preserve">
+    <value>保险到期日</value>
+  </data>
+  <data name="InsurancePolicyNumber" xml:space="preserve">
+    <value>保单号码</value>
+  </data>
+  <data name="Invalidbirthdate" xml:space="preserve">
+    <value>无效的生日日期</value>
+  </data>
+  <data name="Invite" xml:space="preserve">
+    <value>邀请</value>
+  </data>
+  <data name="IsSmoker" xml:space="preserve">
+    <value>吸烟</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>语言</value>
+  </data>
+  <data name="LastName" xml:space="preserve">
+    <value>姓氏</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>登录</value>
+  </data>
+  <data name="Logout" xml:space="preserve">
+    <value>退出</value>
+  </data>
+  <data name="Male" xml:space="preserve">
+    <value>男性</value>
+  </data>
+  <data name="MdoName" xml:space="preserve">
+    <value>Mdo姓名</value>
+  </data>
+  <data name="MedicalData" xml:space="preserve">
+    <value>医疗资料</value>
+  </data>
+  <data name="Melanesian" xml:space="preserve">
+    <value>美拉尼西亚</value>
+  </data>
+  <data name="Micronesian" xml:space="preserve">
+    <value>密克罗尼西亚人</value>
+  </data>
+  <data name="MobilePhone" xml:space="preserve">
+    <value>手机号码</value>
+  </data>
+  <data name="MyProfile" xml:space="preserve">
+    <value>我的档案</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>姓名</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>下一步</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="NotFound" xml:space="preserve">
+    <value>未找到</value>
+  </data>
+  <data name="Note" xml:space="preserve">
+    <value>備註</value>
+  </data>
+  <data name="NumberOfFamilyMembers" xml:space="preserve">
+    <value>您家中的成员有几位?</value>
+  </data>
+  <data name="Ok" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="Okay" xml:space="preserve">
+    <value>好</value>
+  </data>
+  <data name="ONegative" xml:space="preserve">
+    <value>O-</value>
+  </data>
+  <data name="OPositive" xml:space="preserve">
+    <value>O+</value>
+  </data>
+  <data name="Other" xml:space="preserve">
+    <value>其他</value>
+  </data>
+  <data name="Passport" xml:space="preserve">
+    <value>护照/身分证号码</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>密码</value>
+  </data>
+  <data name="Passwordsmustmatch" xml:space="preserve">
+    <value>密码必须符合</value>
+  </data>
+  <data name="PastSurgeries" xml:space="preserve">
+    <value>以往手术</value>
+  </data>
+  <data name="PatientName" xml:space="preserve">
+    <value>病患姓名</value>
+  </data>
+  <data name="Pay" xml:space="preserve">
+    <value>付款</value>
+  </data>
+  <data name="Payment" xml:space="preserve">
+    <value>付款</value>
+  </data>
+  <data name="PaymentOccurence" xml:space="preserve">
+    <value>付款事件</value>
+  </data>
+  <data name="Pleasecheckyourinboxandfollowtheinstructionstoresetyourpassword" xml:space="preserve">
+    <value>请确认您的收件箱并跟随指示重设您的密码</value>
+  </data>
+  <data name="PleaseenterTitle" xml:space="preserve">
+    <value>请输入标题</value>
+  </data>
+  <data name="Pleaseenteryourdateofbirth" xml:space="preserve">
+    <value>请输入您的生日</value>
+  </data>
+  <data name="Pleaseenteryouremail" xml:space="preserve">
+    <value>请输入您的电子邮件</value>
+  </data>
+  <data name="Pleaseenteryourfirstname" xml:space="preserve">
+    <value>请输入您的名字</value>
+  </data>
+  <data name="Pleaseenteryourlastname" xml:space="preserve">
+    <value>请输入您的姓氏</value>
+  </data>
+  <data name="Pleaseenteryourpassword" xml:space="preserve">
+    <value>请输入您的密码</value>
+  </data>
+  <data name="PleasenowselecttheConsiergeservicethatsuitsyourneedsthebest" xml:space="preserve">
+    <value>现在请选择最适合您需求的礼宾服务</value>
+  </data>
+  <data name="Pleasenowselectthesubscriptionplanthatsuitsyourneedsthebest." xml:space="preserve">
+    <value>现在请选择最符合您需求的订阅计划</value>
+  </data>
+  <data name="Pleasereadandagreetothetermsofuseandtheprivacypolicy" xml:space="preserve">
+    <value>请阅读并同意使用条款及隐私权政策</value>
+  </data>
+  <data name="Pleaseselectdate" xml:space="preserve">
+    <value>请选择日期</value>
+  </data>
+  <data name="PleaseWait" xml:space="preserve">
+    <value>请稍后</value>
+  </data>
+  <data name="Polynesian" xml:space="preserve">
+    <value>玻利尼西亚</value>
+  </data>
+  <data name="PostalCode" xml:space="preserve">
+    <value>邮递区号</value>
+  </data>
+  <data name="PreferredMethodOfContact" xml:space="preserve">
+    <value>首选的联络方式</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>价格</value>
+  </data>
+  <data name="PriceCorrections" xml:space="preserve">
+    <value>价格更正</value>
+  </data>
+  <data name="PrimaryClinicId" xml:space="preserve">
+    <value>主要诊所</value>
+  </data>
+  <data name="PrimaryPhysicianId" xml:space="preserve">
+    <value>主治医生</value>
+  </data>
+  <data name="Print" xml:space="preserve">
+    <value>打印</value>
+  </data>
+  <data name="Profile" xml:space="preserve">
+    <value>资料</value>
+  </data>
+  <data name="PurchaseService" xml:space="preserve">
+    <value>购买服务</value>
+  </data>
+  <data name="Race" xml:space="preserve">
+    <value>比赛</value>
+  </data>
+  <data name="ReadTerms" xml:space="preserve">
+    <value>阅读条款</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="SecondaryPhysician" xml:space="preserve">
+    <value>第二医师</value>
+  </data>
+  <data name="SecondaryPhysicians" xml:space="preserve">
+    <value>第二医师</value>
+  </data>
+  <data name="SecondaryPhysId" xml:space="preserve">
+    <value>第二医师</value>
+  </data>
+  <data name="SelectDiacomFolder" xml:space="preserve">
+    <value>选择Dicom档案夹</value>
+  </data>
+  <data name="SelectFile" xml:space="preserve">
+    <value>选择档案</value>
+  </data>
+  <data name="SelectyourConciergeservice" xml:space="preserve">
+    <value>选择您的礼宾服务</value>
+  </data>
+  <data name="Selectyoursubscription" xml:space="preserve">
+    <value>选择你的订阅</value>
+  </data>
+  <data name="Service" xml:space="preserve">
+    <value>服务</value>
+  </data>
+  <data name="ServiceHistory" xml:space="preserve">
+    <value>服务纪录</value>
+  </data>
+  <data name="ServiceInformation" xml:space="preserve">
+    <value>服务资讯</value>
+  </data>
+  <data name="Services" xml:space="preserve">
+    <value>服务</value>
+  </data>
+  <data name="Set" xml:space="preserve">
+    <value>设定</value>
+  </data>
+  <data name="Setpassword" xml:space="preserve">
+    <value>设定密码</value>
+  </data>
+  <data name="Setyourpassword" xml:space="preserve">
+    <value>设定您的密码</value>
+  </data>
+  <data name="SharedhoursLeft" xml:space="preserve">
+    <value>共享剩馀时间</value>
+  </data>
+  <data name="SmokingEndDate" xml:space="preserve">
+    <value>吸菸結束日期</value>
+  </data>
+  <data name="SmokingStartDate" xml:space="preserve">
+    <value>吸菸开始日期</value>
+  </data>
+  <data name="StreetAddress" xml:space="preserve">
+    <value>地址</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>提交</value>
+  </data>
+  <data name="SubscriptionPackageType" xml:space="preserve">
+    <value>订阅套组类型</value>
+  </data>
+  <data name="SubscriptionPlan" xml:space="preserve">
+    <value>哪一种计划您想订阅呢?</value>
+  </data>
+  <data name="SubscriptionPlanId" xml:space="preserve">
+    <value>订阅计画</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>成功</value>
+  </data>
+  <data name="Summary" xml:space="preserve">
+    <value>总结</value>
+  </data>
+  <data name="ThankyouforchoosingHalza!" xml:space="preserve">
+    <value>感谢您选择Halza!</value>
+  </data>
+  <data name="Thankyouforsubscribingtotheconciergeservice!" xml:space="preserve">
+    <value>感谢您订阅礼宾服务!</value>
+  </data>
+  <data name="Thankyouforyourfeedback!" xml:space="preserve">
+    <value>感谢您的回馈意见!</value>
+  </data>
+  <data name="ThankYouForChoosingHalza" xml:space="preserve">
+    <value>感谢您选择Halza!</value>
+  </data>
+  <data name="ThankYouForChoosingHalzaSubTitle" xml:space="preserve">
+    <value>我们很高兴您今天已经准备好和我们一同掌管您的健康。首先，让我们创建您的帐户。</value>
+  </data>
+  <data name="TotalFamilyMembers" xml:space="preserve">
+    <value>家庭总成员</value>
+  </data>
+  <data name="TotalUpload" xml:space="preserve">
+    <value>总上传</value>
+  </data>
+  <data name="TotalCost" xml:space="preserve">
+    <value>总花费</value>
+  </data>
+  <data name="TotalCostWithVat" xml:space="preserve">
+    <value>到期款项:</value>
+  </data>
+  <data name="TransactionHistory" xml:space="preserve">
+    <value>交易纪录</value>
+  </data>
+  <data name="UploadMedicalFile" xml:space="preserve">
+    <value>上传医疗档案</value>
+  </data>
+  <data name="UploadPhoto" xml:space="preserve">
+    <value>上传照片</value>
+  </data>
+  <data name="UserName" xml:space="preserve">
+    <value>用户名称</value>
+  </data>
+  <data name="ViewService" xml:space="preserve">
+    <value>观看服务</value>
+  </data>
+  <data name="Wearegladyouarereadytotakecontrolofyourhealthwithustoday.First,letscreateyouraccount." xml:space="preserve">
+    <value>我们很高兴您今天已经准备好和我们一同掌管您的健康。首先，让我们创建您的帐户。</value>
+  </data>
+  <data name="Wewillgetbacktoyoushortly." xml:space="preserve">
+    <value>我们将尽快回复您</value>
+  </data>
+  <data name="Weight" xml:space="preserve">
+    <value>重量</value>
+  </data>
+  <data name="WelcometoHalza" xml:space="preserve">
+    <value>欢迎来到Halza</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="Youdon'thaveanaccountyet?" xml:space="preserve">
+    <value>您尚未拥有帐户吗?</value>
+  </data>
+  <data name="Youhavesuccessfullyaddedthefollowing:" xml:space="preserve">
+    <value>您已成功添加以下內容:</value>
+  </data>
+  <data name="Youmustbeatleast21yeasrsold" xml:space="preserve">
+    <value>您必须年满21岁</value>
+  </data>
+  <data name="Yourpasswordhasbeenset.Please{0}Clickheretologin{1}" xml:space="preserve">
+    <value>您的密码已设定。请{0}点选这里登入{1}</value>
+  </data>
+  <data name="ZipCode" xml:space="preserve">
+    <value>邮递区号</value>
+  </data>
+  <data name="About" xml:space="preserve">
+    <value>关于</value>
+  </data>
+  <data name="Accept" xml:space="preserve">
+    <value>接受</value>
+  </data>
+  <data name="AddNurse" xml:space="preserve">
+    <value>添加护士</value>
+  </data>
+  <data name="AddPatient" xml:space="preserve">
+    <value>添加患者</value>
+  </data>
+  <data name="AddStaff" xml:space="preserve">
+    <value>添加员工</value>
+  </data>
+  <data name="Alphabetic" xml:space="preserve">
+    <value>字母</value>
+  </data>
+  <data name="Areyousureyouwanttodeletethismedicaldata?" xml:space="preserve">
+    <value>您是否真的要删除此医疗数据？</value>
+  </data>
+  <data name="AssociatedClinic" xml:space="preserve">
+    <value>关联的诊所</value>
+  </data>
+  <data name="BlzfileRegNo" xml:space="preserve">
+    <value>注册编号</value>
+  </data>
+  <data name="BylogginginyouagreetoHalza's{0}TermsofUse{1}and{2}PrivacyPolicy{3}" xml:space="preserve">
+    <value>登录即表示您同意 Halza 的{0}使用条款{1}和{2}隐私政策{3}</value>
+  </data>
+  <data name="ChangePassword" xml:space="preserve">
+    <value>修改密码</value>
+  </data>
+  <data name="CigarretPacksPerDay" xml:space="preserve">
+    <value>每天吸烟数量</value>
+  </data>
+  <data name="City" xml:space="preserve">
+    <value>城市</value>
+  </data>
+  <data name="ClinicManagement" xml:space="preserve">
+    <value>诊所管理</value>
+  </data>
+  <data name="ClinicRequest" xml:space="preserve">
+    <value>诊所请求</value>
+  </data>
+  <data name="Clinicrequesthasbeensent" xml:space="preserve">
+    <value>诊所请求已发送</value>
+  </data>
+  <data name="Clinics" xml:space="preserve">
+    <value>诊所</value>
+  </data>
+  <data name="ConsultancySpecialization" xml:space="preserve">
+    <value>顾问专业</value>
+  </data>
+  <data name="ConsultancySpecializations" xml:space="preserve">
+    <value>顾问专业</value>
+  </data>
+  <data name="ContactNumber1" xml:space="preserve">
+    <value>手机号码</value>
+  </data>
+  <data name="CountryName" xml:space="preserve">
+    <value>国家</value>
+  </data>
+  <data name="Create" xml:space="preserve">
+    <value>创建</value>
+  </data>
+  <data name="Current" xml:space="preserve">
+    <value>当前</value>
+  </data>
+  <data name="CurrentPassword" xml:space="preserve">
+    <value>当前密码</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>详情</value>
+  </data>
+  <data name="Done" xml:space="preserve">
+    <value>完成</value>
+  </data>
+  <data name="Dosage" xml:space="preserve">
+    <value>剂量</value>
+  </data>
+  <data name="EditClinic" xml:space="preserve">
+    <value>编辑诊所</value>
+  </data>
+  <data name="EditMedicine" xml:space="preserve">
+    <value>编辑药物</value>
+  </data>
+  <data name="EditProfile" xml:space="preserve">
+    <value>编辑资料</value>
+  </data>
+  <data name="EndDate" xml:space="preserve">
+    <value>结束日期</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>英语</value>
+  </data>
+  <data name="Enteryouremail" xml:space="preserve">
+    <value>输入您的电子邮件</value>
+  </data>
+  <data name="ForgotPassword" xml:space="preserve">
+    <value>忘记密码</value>
+  </data>
+  <data name="Friday" xml:space="preserve">
+    <value>周五</value>
+  </data>
+  <data name="General" xml:space="preserve">
+    <value>一般</value>
+  </data>
+  <data name="GenerateNew" xml:space="preserve">
+    <value>新建</value>
+  </data>
+  <data name="HealthParameters" xml:space="preserve">
+    <value>健康参数</value>
+  </data>
+  <data name="HideFullDetail" xml:space="preserve">
+    <value>隐藏全部内容</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>家</value>
+  </data>
+  <data name="HoursofOperation" xml:space="preserve">
+    <value>营业时间</value>
+  </data>
+  <data name="InformPatient" xml:space="preserve">
+    <value>通知患者</value>
+  </data>
+  <data name="InvitePhysician" xml:space="preserve">
+    <value>邀请医师</value>
+  </data>
+  <data name="KindlyAsk" xml:space="preserve">
+    <value>询问</value>
+  </data>
+  <data name="LicenseNumber" xml:space="preserve">
+    <value>许可编号</value>
+  </data>
+  <data name="Macedonian" xml:space="preserve">
+    <value>马其顿</value>
+  </data>
+  <data name="ManagePhysician" xml:space="preserve">
+    <value>管理医师</value>
+  </data>
+  <data name="Measurementdate" xml:space="preserve">
+    <value>测量日期</value>
+  </data>
+  <data name="Medical" xml:space="preserve">
+    <value>医疗</value>
+  </data>
+  <data name="MedicalSpecialization" xml:space="preserve">
+    <value>医疗专业</value>
+  </data>
+  <data name="MedicalSpecializations" xml:space="preserve">
+    <value>医疗专业</value>
+  </data>
+  <data name="Medications" xml:space="preserve">
+    <value>药物</value>
+  </data>
+  <data name="Medicinerecords" xml:space="preserve">
+    <value>药物记录</value>
+  </data>
+  <data name="Medicinestocks" xml:space="preserve">
+    <value>剩余药物数量</value>
+  </data>
+  <data name="MedicineFrequency" xml:space="preserve">
+    <value>服药频率</value>
+  </data>
+  <data name="Medicines" xml:space="preserve">
+    <value>药物</value>
+  </data>
+  <data name="Menu" xml:space="preserve">
+    <value>菜单</value>
+  </data>
+  <data name="Monday" xml:space="preserve">
+    <value>周一</value>
+  </data>
+  <data name="NewPasswordandConfirmationPasswordmustmatch" xml:space="preserve">
+    <value>新密码必须与确认密码一致</value>
+  </data>
+  <data name="NewValue" xml:space="preserve">
+    <value>新值</value>
+  </data>
+  <data name="NewPassword" xml:space="preserve">
+    <value>新密码</value>
+  </data>
+  <data name="Nofilechosen" xml:space="preserve">
+    <value>没有选择任何文件</value>
+  </data>
+  <data name="OfficePhone" xml:space="preserve">
+    <value>办公室电话</value>
+  </data>
+  <data name="OfficePhoneNumber" xml:space="preserve">
+    <value>办公室电话号码</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>打开</value>
+  </data>
+  <data name="Past" xml:space="preserve">
+    <value>以往</value>
+  </data>
+  <data name="Patients" xml:space="preserve">
+    <value>患者</value>
+  </data>
+  <data name="PendingClinicRequest" xml:space="preserve">
+    <value>未确认诊所的请求</value>
+  </data>
+  <data name="PhoneNumber" xml:space="preserve">
+    <value>电话号码</value>
+  </data>
+  <data name="PhyisicanVideo" xml:space="preserve">
+    <value>医师视频</value>
+  </data>
+  <data name="Physicians" xml:space="preserve">
+    <value>医师</value>
+  </data>
+  <data name="Pleasecheckyourinboxandfollowtheinstructionstoresetyourpassword." xml:space="preserve">
+    <value>请查看收件箱，并按照说明重设密码。</value>
+  </data>
+  <data name="Pleasecontactthepatienttoprovideyouwithanewlinkandpin." xml:space="preserve">
+    <value>请联系患者，向您提供新链接和 PIN 码。</value>
+  </data>
+  <data name="Pleaseenterbirthday" xml:space="preserve">
+    <value>请输入出生日期</value>
+  </data>
+  <data name="PleaseenterClinicblzfileRegNo" xml:space="preserve">
+    <value>请输入诊所 Blz 文件注册编号</value>
+  </data>
+  <data name="PleaseenterCliniccity" xml:space="preserve">
+    <value>请输入诊所所在城市</value>
+  </data>
+  <data name="PleaseenterCliniccontactnumber1" xml:space="preserve">
+    <value>请输入诊所联系人号码</value>
+  </data>
+  <data name="PleaseenterClinicemail" xml:space="preserve">
+    <value>请输入诊所电子邮件地址</value>
+  </data>
+  <data name="PleaseenterClinicfridayfromhoursofoperation" xml:space="preserve">
+    <value>请输入诊所周五开始营业的时间</value>
+  </data>
+  <data name="PleaseenterClinicfridaytohoursofoperation" xml:space="preserve">
+    <value>请输入诊所周五结束营业的时间</value>
+  </data>
+  <data name="PleaseenterClinicmondayfromhoursofoperation" xml:space="preserve">
+    <value>请输入诊所周一开始营业的时间</value>
+  </data>
+  <data name="PleaseenterClinicmondaytohoursofoperation" xml:space="preserve">
+    <value>请输入诊所周一结束营业的时间</value>
+  </data>
+  <data name="PleaseenterClinicname" xml:space="preserve">
+    <value>请输入诊所名称</value>
+  </data>
+  <data name="PleaseenterClinicprimaryworkaddress" xml:space="preserve">
+    <value>请输入诊所的主要营业地址</value>
+  </data>
+  <data name="PleaseenterClinicsaturdayfromhoursofoperation" xml:space="preserve">
+    <value>请输入诊所周六开始营业的时间</value>
+  </data>
+  <data name="PleaseenterClinicsaturdaytohoursofoperation" xml:space="preserve">
+    <value>请输入诊所周六结束营业的时间</value>
+  </data>
+  <data name="PleaseenterClinicsundayfromhoursofoperation" xml:space="preserve">
+    <value>请输入诊所周日开始营业的时间</value>
+  </data>
+  <data name="PleaseenterClinicsundaytohoursofoperation" xml:space="preserve">
+    <value>请输入诊所周日结束营业的时间</value>
+  </data>
+  <data name="PleaseenterClinicthursdayfromhoursofoperation" xml:space="preserve">
+    <value>请输入诊所周四开始营业的时间</value>
+  </data>
+  <data name="PleaseenterClinicthursdaytohoursofoperation" xml:space="preserve">
+    <value>请输入诊所周四营业时间</value>
+  </data>
+  <data name="PleaseenterClinictuesdayfromhoursofoperation" xml:space="preserve">
+    <value>请输入诊所周二开始营业的时间</value>
+  </data>
+  <data name="PleaseenterClinictuesdaytohoursofoperation" xml:space="preserve">
+    <value>请输入诊所周二结束营业的时间</value>
+  </data>
+  <data name="PleaseenterClinicwednesdayfromhoursofoperation" xml:space="preserve">
+    <value>请输入诊所周三开始营业的时间</value>
+  </data>
+  <data name="PleaseenterClinicwednesdaytohoursofoperation" xml:space="preserve">
+    <value>请输入诊所周三结束营业的时间</value>
+  </data>
+  <data name="Pleaseenteremailaddress" xml:space="preserve">
+    <value>请输入电子邮件地址</value>
+  </data>
+  <data name="Pleaseenterfirstname" xml:space="preserve">
+    <value>请输入名字</value>
+  </data>
+  <data name="Pleaseentergender" xml:space="preserve">
+    <value>请选择性别</value>
+  </data>
+  <data name="Pleaseenterlastname" xml:space="preserve">
+    <value>请输入姓氏</value>
+  </data>
+  <data name="Pleaseenterlicencenumber" xml:space="preserve">
+    <value>请输入许可证编号</value>
+  </data>
+  <data name="Pleaseenterphonenumber" xml:space="preserve">
+    <value>请输入电话号码</value>
+  </data>
+  <data name="Pleaseenterprimaryworkaddress" xml:space="preserve">
+    <value>请输入主要营业地址</value>
+  </data>
+  <data name="Pleaseenterstartdate" xml:space="preserve">
+    <value>请输入开始日期</value>
+  </data>
+  <data name="Pleaseentervaliddate" xml:space="preserve">
+    <value>请输入有效的日期</value>
+  </data>
+  <data name="Pleaseenteryourcurrentpassword" xml:space="preserve">
+    <value>请输入您的当前密码</value>
+  </data>
+  <data name="Pleaseenteryournewpassword" xml:space="preserve">
+    <value>请输入您的新密码</value>
+  </data>
+  <data name="Pleaseenteryourpin" xml:space="preserve">
+    <value>请输入您的 PIN 码</value>
+  </data>
+  <data name="PleaseSelect" xml:space="preserve">
+    <value>请选择</value>
+  </data>
+  <data name="PrimaryPhysician" xml:space="preserve">
+    <value>主治医生</value>
+  </data>
+  <data name="PrimaryWorkAddress" xml:space="preserve">
+    <value>主要营业地址</value>
+  </data>
+  <data name="PrimaryWorkStreetAddress" xml:space="preserve">
+    <value>主要工作街道地址</value>
+  </data>
+  <data name="Reason" xml:space="preserve">
+    <value>原因</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>最近的</value>
+  </data>
+  <data name="Reject" xml:space="preserve">
+    <value>拒绝</value>
+  </data>
+  <data name="Rooms" xml:space="preserve">
+    <value>房间</value>
+  </data>
+  <data name="Saturday" xml:space="preserve">
+    <value>周六</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>搜索</value>
+  </data>
+  <data name="SecondaryPhysicianClinicName" xml:space="preserve">
+    <value>第二医师所在的诊所名称</value>
+  </data>
+  <data name="SecondaryPhysicianName" xml:space="preserve">
+    <value>第二医师姓名</value>
+  </data>
+  <data name="SecondaryWorkAddress" xml:space="preserve">
+    <value>备选地址</value>
+  </data>
+  <data name="SecondaryWorkStreetAddress" xml:space="preserve">
+    <value>备选街道地址</value>
+  </data>
+  <data name="Send" xml:space="preserve">
+    <value>发送</value>
+  </data>
+  <data name="SendClinicRequest" xml:space="preserve">
+    <value>发送诊所请求</value>
+  </data>
+  <data name="ServicePackages" xml:space="preserve">
+    <value>服务套餐</value>
+  </data>
+  <data name="ShortSummary" xml:space="preserve">
+    <value>概要</value>
+  </data>
+  <data name="ShortBiography" xml:space="preserve">
+    <value>简短个人介绍</value>
+  </data>
+  <data name="ShowFullDetail" xml:space="preserve">
+    <value>显示全部</value>
+  </data>
+  <data name="Sort" xml:space="preserve">
+    <value>分类</value>
+  </data>
+  <data name="Staff" xml:space="preserve">
+    <value>员工</value>
+  </data>
+  <data name="Start1Datecan'tbebiggerthanEndDate" xml:space="preserve">
+    <value>开始日期不能晚于结束日期</value>
+  </data>
+  <data name="StartDate" xml:space="preserve">
+    <value>开始日期</value>
+  </data>
+  <data name="Sunday" xml:space="preserve">
+    <value>周日</value>
+  </data>
+  <data name="Theresourseyourequesteddoesnotexist." xml:space="preserve">
+    <value>您请求的资源不存在。</value>
+  </data>
+  <data name="Thursday" xml:space="preserve">
+    <value>周四</value>
+  </data>
+  <data name="Tuesday" xml:space="preserve">
+    <value>周二</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>更新</value>
+  </data>
+  <data name="Upload" xml:space="preserve">
+    <value>上传</value>
+  </data>
+  <data name="UploadData" xml:space="preserve">
+    <value>上传数据</value>
+  </data>
+  <data name="UploadImage" xml:space="preserve">
+    <value>上传图像</value>
+  </data>
+  <data name="Video" xml:space="preserve">
+    <value>视频</value>
+  </data>
+  <data name="VideoFileName" xml:space="preserve">
+    <value>视频文件名称</value>
+  </data>
+  <data name="ViewProfile" xml:space="preserve">
+    <value>查看资料</value>
+  </data>
+  <data name="Wednesday" xml:space="preserve">
+    <value>周三</value>
+  </data>
+  <data name="WelcomeQuote" xml:space="preserve">
+    <value>欢迎</value>
+  </data>
+  <data name="Youhaveenteredawrongpincodetoomanytimes." xml:space="preserve">
+    <value>您输入的 PIN 码错误次数已超过上限。</value>
+  </data>
+  <data name="Yourpasswordwassuccessfulyupdated" xml:space="preserve">
+    <value>您的密码已经成功更新</value>
+  </data>
+  <data name="Yourresetlinkisexpired.Pleasegenerateanewone." xml:space="preserve">
+    <value>您的链接已过期。请重新生成。</value>
+  </data>
+  <data name="{0}Howaboutyou{1}gobacktoyourhomepage{2}?{3}" xml:space="preserve">
+    <value>{0}是否{1}返回您的主页{2}? {3}</value>
+  </data>
+  <data name="{0}Opps..Somethingwentwrongduringtheprocessingoftherequest.We'veloggedtheerrorandarealredyworkingonit{1}" xml:space="preserve">
+    <value>{0} 糟糕。在请求处理过程中出现错误。我们已经记录该错误，并在努力解决。{1}</value>
+  </data>
+  <data name="{0}Youcan{1}goback{2}home{3}" xml:space="preserve">
+    <value>{0}您可以{1}返回{2}家中{3}</value>
+  </data>
+  <data name="Acceptance" xml:space="preserve">
+    <value>接受</value>
+  </data>
+  <data name="AddConciergeProfile" xml:space="preserve">
+    <value>添加礼宾档案</value>
+  </data>
+  <data name="AddnewConcierge" xml:space="preserve">
+    <value>添加新的礼宾</value>
+  </data>
+  <data name="Addnewsubscriber" xml:space="preserve">
+    <value>添加新的订阅户</value>
+  </data>
+  <data name="Adult" xml:space="preserve">
+    <value>成人</value>
+  </data>
+  <data name="Agealert" xml:space="preserve">
+    <value>年龄警报</value>
+  </data>
+  <data name="AnnualBill" xml:space="preserve">
+    <value>年度帐款</value>
+  </data>
+  <data name="AnnualBillAfterPromo" xml:space="preserve">
+    <value>促销后的年度帐单</value>
+  </data>
+  <data name="AreyousureyouwanttodeletetheConcierge?" xml:space="preserve">
+    <value>您确认要删除这个礼宾吗?</value>
+  </data>
+  <data name="AssociatedSubscribers" xml:space="preserve">
+    <value>相关订户</value>
+  </data>
+  <data name="Billinginformation" xml:space="preserve">
+    <value>帐单讯息</value>
+  </data>
+  <data name="buyservicepackages" xml:space="preserve">
+    <value>购买服务套组</value>
+  </data>
+  <data name="Change" xml:space="preserve">
+    <value>更改</value>
+  </data>
+  <data name="Childrenbelowageof6" xml:space="preserve">
+    <value>6岁以下儿童</value>
+  </data>
+  <data name="Click" xml:space="preserve">
+    <value>点选</value>
+  </data>
+  <data name="Click{0}OK{1}andyouaregoingtoupdatethatprofile" xml:space="preserve">
+    <value>点选{0} OK {1}并且您正前往更新档案</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="Concierge" xml:space="preserve">
+    <value>礼宾</value>
+  </data>
+  <data name="ConciergeList" xml:space="preserve">
+    <value>礼宾服务列表</value>
+  </data>
+  <data name="ConciergeProfile" xml:space="preserve">
+    <value>礼宾档案</value>
+  </data>
+  <data name="ConciergePurchaseService" xml:space="preserve">
+    <value>礼宾购买服务</value>
+  </data>
+  <data name="Concierge[0]Package" xml:space="preserve">
+    <value>礼宾{0}套组</value>
+  </data>
+  <data name="ConciergeClinics" xml:space="preserve">
+    <value>礼宾诊所</value>
+  </data>
+  <data name="ConfirmDelete" xml:space="preserve">
+    <value>确认删除</value>
+  </data>
+  <data name="CountryResidenceId" xml:space="preserve">
+    <value>居住国家</value>
+  </data>
+  <data name="DataAndTime" xml:space="preserve">
+    <value>日期及时间</value>
+  </data>
+  <data name="Deleteanyway" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="DesiredWeight" xml:space="preserve">
+    <value>理想体重</value>
+  </data>
+  <data name="DietaryRestructions" xml:space="preserve">
+    <value>饮食控制</value>
+  </data>
+  <data name="Doyouwanttodeletethisconciergeanyway?" xml:space="preserve">
+    <value>您想删除这个礼宾吗?</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>编辑</value>
+  </data>
+  <data name="ExpirationDate" xml:space="preserve">
+    <value>失效日期</value>
+  </data>
+  <data name="FamilyEmailContact" xml:space="preserve">
+    <value>家庭联繫电子邮件</value>
+  </data>
+  <data name="Follower" xml:space="preserve">
+    <value>粉丝</value>
+  </data>
+  <data name="Generatecost" xml:space="preserve">
+    <value>产生成本</value>
+  </data>
+  <data name="GeneratedByEmail" xml:space="preserve">
+    <value>由电子邮件产生</value>
+  </data>
+  <data name="GeneratedBy" xml:space="preserve">
+    <value>由…产生</value>
+  </data>
+  <data name="goback" xml:space="preserve">
+    <value>返回</value>
+  </data>
+  <data name="gobacktoyourhomepage" xml:space="preserve">
+    <value>回到您的首页</value>
+  </data>
+  <data name="HealthFACTR" xml:space="preserve">
+    <value>健康因素</value>
+  </data>
+  <data name="HomeNumber" xml:space="preserve">
+    <value>家用电话号码</value>
+  </data>
+  <data name="Id" xml:space="preserve">
+    <value>帐号</value>
+  </data>
+  <data name="ListAssociatedSubscribers" xml:space="preserve">
+    <value>相关订户列表</value>
+  </data>
+  <data name="ListConcierges" xml:space="preserve">
+    <value>列出礼宾服务</value>
+  </data>
+  <data name="Listofprospects" xml:space="preserve">
+    <value>期望列表</value>
+  </data>
+  <data name="Listofsubscribers" xml:space="preserve">
+    <value>订户列表</value>
+  </data>
+  <data name="MobileNumber" xml:space="preserve">
+    <value>手机号码</value>
+  </data>
+  <data name="Package" xml:space="preserve">
+    <value>套組</value>
+  </data>
+  <data name="PackageName" xml:space="preserve">
+    <value>套组名称</value>
+  </data>
+  <data name="Packagessold" xml:space="preserve">
+    <value>套组售出</value>
+  </data>
+  <data name="PackageStatus" xml:space="preserve">
+    <value>套组状态</value>
+  </data>
+  <data name="PaymentOptions" xml:space="preserve">
+    <value>付款选项</value>
+  </data>
+  <data name="PerformanceofaConcierge" xml:space="preserve">
+    <value>礼宾的表现</value>
+  </data>
+  <data name="Pleaseenteremail" xml:space="preserve">
+    <value>请输入电子邮件</value>
+  </data>
+  <data name="Pleaseenteryourpasswordagain" xml:space="preserve">
+    <value>请再次输入您的密码</value>
+  </data>
+  <data name="PleasemakesurewehaveobtainedparentalconsentbeforetheUserbuysthesubscription." xml:space="preserve">
+    <value>在用户购买订阅前，请确认我们已获得双亲同意</value>
+  </data>
+  <data name="PleaseselectServicePackage" xml:space="preserve">
+    <value>请选择服务套组</value>
+  </data>
+  <data name="PreparedBy" xml:space="preserve">
+    <value>由…编制</value>
+  </data>
+  <data name="PrimaryClinic" xml:space="preserve">
+    <value>主要诊所</value>
+  </data>
+  <data name="PrivacyPolicy." xml:space="preserve">
+    <value>隐私权政策</value>
+  </data>
+  <data name="PromoCode" xml:space="preserve">
+    <value>促销代码</value>
+  </data>
+  <data name="Prospects" xml:space="preserve">
+    <value>预期</value>
+  </data>
+  <data name="QuoteNumber" xml:space="preserve">
+    <value>报价编号</value>
+  </data>
+  <data name="Remove" xml:space="preserve">
+    <value>移除</value>
+  </data>
+  <data name="ResidenceCountryId" xml:space="preserve">
+    <value>居住国家</value>
+  </data>
+  <data name="ServiceName" xml:space="preserve">
+    <value>服务名称</value>
+  </data>
+  <data name="Shared" xml:space="preserve">
+    <value>共享</value>
+  </data>
+  <data name="Statistics" xml:space="preserve">
+    <value>统计分析</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>状态</value>
+  </data>
+  <data name="Subscribers" xml:space="preserve">
+    <value>订阅户</value>
+  </data>
+  <data name="Subscription" xml:space="preserve">
+    <value>订阅</value>
+  </data>
+  <data name="Subscriptionsold" xml:space="preserve">
+    <value>订阅售出</value>
+  </data>
+  <data name="SubscriptionPlans" xml:space="preserve">
+    <value>订阅计画</value>
+  </data>
+  <data name="SubscriptionType" xml:space="preserve">
+    <value>订阅类型</value>
+  </data>
+  <data name="TermsofUse" xml:space="preserve">
+    <value>使用条款</value>
+  </data>
+  <data name="ThedateofbirthenteredsuggeststhattheUserisbelowthelegalageof21." xml:space="preserve">
+    <value>生日日期输入建议为用户在法定年龄21岁以下</value>
+  </data>
+  <data name="Thetransactionisinprogress,pleasedonotnavigateawayfromthiswindow" xml:space="preserve">
+    <value>交易正在进行中，请不要离开此视窗</value>
+  </data>
+  <data name="TotalAmount" xml:space="preserve">
+    <value>总数</value>
+  </data>
+  <data name="TotalCostAfterPromo" xml:space="preserve">
+    <value>促销后的总花费</value>
+  </data>
+  <data name="Units" xml:space="preserve">
+    <value>单元</value>
+  </data>
+  <data name="Userwithsameemailexistandhassubscription!" xml:space="preserve">
+    <value>相同电子邮件的用户已存在并有订阅</value>
+  </data>
+  <data name="Userwithsameemailexistandis{0}Follower{1}" xml:space="preserve">
+    <value>用户已存在相同电子邮件并且事{0}追随者{1}</value>
+  </data>
+  <data name="viewconciergeservice" xml:space="preserve">
+    <value>观看礼宾服务</value>
+  </data>
+  <data name="We'veloggedtheerrorandarealredyworkingonit." xml:space="preserve">
+    <value>我们已经记录错误并已经在处理了</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>欢迎</value>
+  </data>
+  <data name="WelcomeToConciergePortal" xml:space="preserve">
+    <value>欢迎来到礼宾入口</value>
+  </data>
+  <data name="WelcometoHalzaConciergePortal" xml:space="preserve">
+    <value>欢迎来到Halza礼宾入口</value>
+  </data>
+  <data name="{0}Howaboutyou{1}gobacktoyourhomepage?{2}{3}" xml:space="preserve">
+    <value>{0} 你如何{1}回到您的首页?{2}{3}</value>
+  </data>
+  <data name="{0}Youcan{1}goback{2}andcontinueworkingonsomethingelsewhilewehandleit{3}" xml:space="preserve">
+    <value>{0}您可以{1}返回{2}并在我们处理时继续处理其他地方</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="1HourConciergeService" xml:space="preserve">
+    <value>1小时礼宾服务</value>
+  </data>
+  <data name="Adiabetesmarker" xml:space="preserve">
+    <value>糖尿病标记</value>
+  </data>
+  <data name="Ahemoglobin-bindingproteinproducedbytheliver." xml:space="preserve">
+    <value>由肝脏产生的血红蛋白结合蛋白。</value>
+  </data>
+  <data name="Aplasmaproteinproducedbytheliverthatisfoundintheblood." xml:space="preserve">
+    <value>在血液中由肝脏产生的血浆蛋白。</value>
+  </data>
+  <data name="AproteinassociatedwithHDLparticles." xml:space="preserve">
+    <value>与HDL颗粒相关的蛋白质。</value>
+  </data>
+  <data name="Atransaminaseenzyme" xml:space="preserve">
+    <value>谷丙转氨酶</value>
+  </data>
+  <data name="A&amp;E" xml:space="preserve">
+    <value>A＆E</value>
+  </data>
+  <data name="A/GRatio" xml:space="preserve">
+    <value>A/G 比率</value>
+  </data>
+  <data name="AbdominalPain" xml:space="preserve">
+    <value>腹痛</value>
+  </data>
+  <data name="acanthosisnigricans" xml:space="preserve">
+    <value>黑棘皮症</value>
+  </data>
+  <data name="Acknowledgement" xml:space="preserve">
+    <value>确认</value>
+  </data>
+  <data name="AcneTreatment" xml:space="preserve">
+    <value>痤疮治疗</value>
+  </data>
+  <data name="Action" xml:space="preserve">
+    <value>操作</value>
+  </data>
+  <data name="Activity" xml:space="preserve">
+    <value>活动</value>
+  </data>
+  <data name="actualfatcontentinthebody" xml:space="preserve">
+    <value>体内的实际脂肪含量</value>
+  </data>
+  <data name="Acupuncture" xml:space="preserve">
+    <value>针刺疗法</value>
+  </data>
+  <data name="ADHD" xml:space="preserve">
+    <value>多动症</value>
+  </data>
+  <data name="Afghanistan" xml:space="preserve">
+    <value>阿富汗</value>
+  </data>
+  <data name="Age-RelatedMacularDegeneration" xml:space="preserve">
+    <value>老年性黄斑变性</value>
+  </data>
+  <data name="Aggressive" xml:space="preserve">
+    <value>激进</value>
+  </data>
+  <data name="Albania" xml:space="preserve">
+    <value>阿尔巴尼亚</value>
+  </data>
+  <data name="Albumin" xml:space="preserve">
+    <value>白蛋白</value>
+  </data>
+  <data name="Algeria" xml:space="preserve">
+    <value>阿尔及利亚</value>
+  </data>
+  <data name="AlkalinePhosphatase" xml:space="preserve">
+    <value>碱性磷酸酶</value>
+  </data>
+  <data name="Allergictoseafood" xml:space="preserve">
+    <value>对海鲜过敏</value>
+  </data>
+  <data name="Alone" xml:space="preserve">
+    <value>单独</value>
+  </data>
+  <data name="Alpha2Macroglobulin" xml:space="preserve">
+    <value>Alpha 2巨球蛋白</value>
+  </data>
+  <data name="AlphaFetoprotein(AFP)" xml:space="preserve">
+    <value>α-胎儿蛋白（AFP）</value>
+  </data>
+  <data name="Alzheimer'sDisease" xml:space="preserve">
+    <value>阿尔茨海默病</value>
+  </data>
+  <data name="Alzheimer'sLost" xml:space="preserve">
+    <value>阿尔茨海默病患者失蹤</value>
+  </data>
+  <data name="Alzheimer'smisplaced" xml:space="preserve">
+    <value>痴呆症错位</value>
+  </data>
+  <data name="Amazed" xml:space="preserve">
+    <value>吃惊</value>
+  </data>
+  <data name="Amazement" xml:space="preserve">
+    <value>惊讶</value>
+  </data>
+  <data name="Amountofredcellstovolumeofwholebloodsample" xml:space="preserve">
+    <value>红血球在全血样本中的体积</value>
+  </data>
+  <data name="Anappleaday" xml:space="preserve">
+    <value>一天一个苹果</value>
+  </data>
+  <data name="Anenzymeproducedbytheliver" xml:space="preserve">
+    <value>由肝脏产生的酶</value>
+  </data>
+  <data name="Anaemia" xml:space="preserve">
+    <value>贫血</value>
+  </data>
+  <data name="Analysisunderway" xml:space="preserve">
+    <value>正在进行分析</value>
+  </data>
+  <data name="Anchors" xml:space="preserve">
+    <value>锚</value>
+  </data>
+  <data name="Andorra" xml:space="preserve">
+    <value>安道尔</value>
+  </data>
+  <data name="Angel" xml:space="preserve">
+    <value>天使</value>
+  </data>
+  <data name="Angola" xml:space="preserve">
+    <value>安哥拉</value>
+  </data>
+  <data name="Angry" xml:space="preserve">
+    <value>愤怒</value>
+  </data>
+  <data name="Annoyed" xml:space="preserve">
+    <value>懊恼</value>
+  </data>
+  <data name="AnorexiaNervosa" xml:space="preserve">
+    <value>神经性厌食症</value>
+  </data>
+  <data name="Anotherformofcholesterol" xml:space="preserve">
+    <value>胆固醇的另一种形式</value>
+  </data>
+  <data name="Anticipation" xml:space="preserve">
+    <value>预期</value>
+  </data>
+  <data name="AntiguaandBarbuda" xml:space="preserve">
+    <value>安提瓜和巴布达</value>
+  </data>
+  <data name="AnxietyDisorders" xml:space="preserve">
+    <value>焦虑性障碍</value>
+  </data>
+  <data name="ApolipoproteinA1" xml:space="preserve">
+    <value>载脂蛋白A1</value>
+  </data>
+  <data name="Aprilfool'sday" xml:space="preserve">
+    <value>愚人节</value>
+  </data>
+  <data name="Argentina" xml:space="preserve">
+    <value>阿根廷</value>
+  </data>
+  <data name="Armenia" xml:space="preserve">
+    <value>亚美尼亚</value>
+  </data>
+  <data name="Arrogant" xml:space="preserve">
+    <value>傲慢</value>
+  </data>
+  <data name="arterialoxygensaturationofhaemoglobin" xml:space="preserve">
+    <value>血红蛋白在动脉的血氧饱和度</value>
+  </data>
+  <data name="Arthritisawarenessmonth" xml:space="preserve">
+    <value>关节炎意识月</value>
+  </data>
+  <data name="Asanadjunctinthediagnosisofautoimmunethyroiddiseases" xml:space="preserve">
+    <value>作为自身免疫性甲状腺疾病诊断的辅助手段</value>
+  </data>
+  <data name="Ashamed" xml:space="preserve">
+    <value>羞愧</value>
+  </data>
+  <data name="Assistance" xml:space="preserve">
+    <value>帮助</value>
+  </data>
+  <data name="Asthma" xml:space="preserve">
+    <value>哮喘</value>
+  </data>
+  <data name="AsthmaWheezing" xml:space="preserve">
+    <value>哮喘喘鳴</value>
+  </data>
+  <data name="Astonishment" xml:space="preserve">
+    <value>惊愕</value>
+  </data>
+  <data name="AtTheOffice" xml:space="preserve">
+    <value>在办公室里</value>
+  </data>
+  <data name="Attentiveness" xml:space="preserve">
+    <value>注意力</value>
+  </data>
+  <data name="Australia" xml:space="preserve">
+    <value>澳大利亚</value>
+  </data>
+  <data name="Austria" xml:space="preserve">
+    <value>奥地利</value>
+  </data>
+  <data name="Averagevolumeofredcellinblood" xml:space="preserve">
+    <value>血液中红血球的平均体积</value>
+  </data>
+  <data name="avoidbedtimesnacking" xml:space="preserve">
+    <value>避免睡前吃零食</value>
+  </data>
+  <data name="avoidcaffeinedrinks" xml:space="preserve">
+    <value>避免咖啡因饮料</value>
+  </data>
+  <data name="avoidcitrusfruits" xml:space="preserve">
+    <value>避免柑橘类水果</value>
+  </data>
+  <data name="avoidfizzydrinks" xml:space="preserve">
+    <value>避免碳酸饮料</value>
+  </data>
+  <data name="Awayfromkeyboard" xml:space="preserve">
+    <value>远离键盘</value>
+  </data>
+  <data name="Awe" xml:space="preserve">
+    <value>敬畏</value>
+  </data>
+  <data name="Azerbaijan" xml:space="preserve">
+    <value>阿塞拜疆</value>
+  </data>
+  <data name="Backinaction" xml:space="preserve">
+    <value>返回繼續行动</value>
+  </data>
+  <data name="Backtokeyboard" xml:space="preserve">
+    <value>回到键盘</value>
+  </data>
+  <data name="Backtoroomtorest" xml:space="preserve">
+    <value>回到房间休息</value>
+  </data>
+  <data name="Backache" xml:space="preserve">
+    <value>腰痛</value>
+  </data>
+  <data name="badbreath" xml:space="preserve">
+    <value>口臭</value>
+  </data>
+  <data name="Bafflement" xml:space="preserve">
+    <value>困惑</value>
+  </data>
+  <data name="Bagofice" xml:space="preserve">
+    <value>一袋冰</value>
+  </data>
+  <data name="Bahamas" xml:space="preserve">
+    <value>巴哈马群岛</value>
+  </data>
+  <data name="Bahrain" xml:space="preserve">
+    <value>巴林岛</value>
+  </data>
+  <data name="Bali'sdayofsilence" xml:space="preserve">
+    <value>巴厘岛的沉默日</value>
+  </data>
+  <data name="Bangladesh" xml:space="preserve">
+    <value>孟加拉国</value>
+  </data>
+  <data name="Barbados" xml:space="preserve">
+    <value>巴巴多斯</value>
+  </data>
+  <data name="Basketballcharging" xml:space="preserve">
+    <value>篮球帶球撞人</value>
+  </data>
+  <data name="BasketballDrive" xml:space="preserve">
+    <value>篮球切入</value>
+  </data>
+  <data name="Basophil" xml:space="preserve">
+    <value>嗜碱性粒细胞</value>
+  </data>
+  <data name="Bathing(F)" xml:space="preserve">
+    <value>沐浴（女）</value>
+  </data>
+  <data name="Bathing(M)" xml:space="preserve">
+    <value>沐浴（男）</value>
+  </data>
+  <data name="Bathingkid" xml:space="preserve">
+    <value>洗澡的孩子</value>
+  </data>
+  <data name="Beautiful" xml:space="preserve">
+    <value>美丽</value>
+  </data>
+  <data name="Belarus" xml:space="preserve">
+    <value>白俄罗斯</value>
+  </data>
+  <data name="Belgium" xml:space="preserve">
+    <value>比利时</value>
+  </data>
+  <data name="Belize" xml:space="preserve">
+    <value>伯利兹</value>
+  </data>
+  <data name="Benin" xml:space="preserve">
+    <value>贝宁</value>
+  </data>
+  <data name="BFFPremium" xml:space="preserve">
+    <value>BFF 奖品</value>
+  </data>
+  <data name="Bhutan" xml:space="preserve">
+    <value>不丹</value>
+  </data>
+  <data name="Bilirubin,Total" xml:space="preserve">
+    <value>胆红素，总量</value>
+  </data>
+  <data name="Bingeeating" xml:space="preserve">
+    <value>暴饮暴食</value>
+  </data>
+  <data name="Bitemynails" xml:space="preserve">
+    <value>咬我的指甲</value>
+  </data>
+  <data name="Bleedinggums" xml:space="preserve">
+    <value>牙龈出血</value>
+  </data>
+  <data name="Blessed" xml:space="preserve">
+    <value>幸福</value>
+  </data>
+  <data name="Blood" xml:space="preserve">
+    <value>血液</value>
+  </data>
+  <data name="BloodinUrine" xml:space="preserve">
+    <value>尿液中的血液</value>
+  </data>
+  <data name="BloodPressure" xml:space="preserve">
+    <value>血压</value>
+  </data>
+  <data name="BlurredVision" xml:space="preserve">
+    <value>模糊的视野</value>
+  </data>
+  <data name="Blushing(F)" xml:space="preserve">
+    <value>发白（F）</value>
+  </data>
+  <data name="Blushing(M)" xml:space="preserve">
+    <value>发红（M）</value>
+  </data>
+  <data name="Body" xml:space="preserve">
+    <value>体部</value>
+  </data>
+  <data name="Bodyaches" xml:space="preserve">
+    <value>身体疼痛</value>
+  </data>
+  <data name="BodyFat%" xml:space="preserve">
+    <value>体脂肪 %</value>
+  </data>
+  <data name="BodyFatPercentage" xml:space="preserve">
+    <value>体脂肪百分比</value>
+  </data>
+  <data name="BodyOdour" xml:space="preserve">
+    <value>体味</value>
+  </data>
+  <data name="BodyTemperature" xml:space="preserve">
+    <value>体温</value>
+  </data>
+  <data name="Bolivia" xml:space="preserve">
+    <value>玻利维亚</value>
+  </data>
+  <data name="Bone&amp;Joint" xml:space="preserve">
+    <value>骨骼和关节</value>
+  </data>
+  <data name="BoneCancer" xml:space="preserve">
+    <value>骨癌</value>
+  </data>
+  <data name="BosniaandHerzegovina" xml:space="preserve">
+    <value>波斯尼亚和黑塞哥维那</value>
+  </data>
+  <data name="Botoxforyou" xml:space="preserve">
+    <value>给你的肉毒杆菌</value>
+  </data>
+  <data name="Botswana" xml:space="preserve">
+    <value>博茨瓦纳</value>
+  </data>
+  <data name="Bowling(F)" xml:space="preserve">
+    <value>保龄球（F）</value>
+  </data>
+  <data name="Bowling(M)" xml:space="preserve">
+    <value>保龄球（M）</value>
+  </data>
+  <data name="Boyhugsboy" xml:space="preserve">
+    <value>男孩拥抱男孩</value>
+  </data>
+  <data name="Boyhugsgirl" xml:space="preserve">
+    <value>男孩拥抱女孩</value>
+  </data>
+  <data name="Braces" xml:space="preserve">
+    <value>背带</value>
+  </data>
+  <data name="Brazil" xml:space="preserve">
+    <value>巴西</value>
+  </data>
+  <data name="BreakitupBoys!" xml:space="preserve">
+    <value>男孩們分开来！</value>
+  </data>
+  <data name="BreastCancer" xml:space="preserve">
+    <value>乳腺癌</value>
+  </data>
+  <data name="BreastCancerAwareness:rockclimbing" xml:space="preserve">
+    <value>乳腺癌意识：攀岩</value>
+  </data>
+  <data name="Breastcancerawarenessmonth#1" xml:space="preserve">
+    <value>乳腺癌意识月＃1</value>
+  </data>
+  <data name="Breastcancerawarenessmonth#2" xml:space="preserve">
+    <value>乳腺癌意识月＃2</value>
+  </data>
+  <data name="Breastcancerawarenessmonth#3" xml:space="preserve">
+    <value>乳腺癌意识月＃3</value>
+  </data>
+  <data name="Breastcancerawarenessmonth#4" xml:space="preserve">
+    <value>乳腺癌意识月＃4</value>
+  </data>
+  <data name="Breastcancertumormarker" xml:space="preserve">
+    <value>乳腺癌肿瘤血液腫瘤標記</value>
+  </data>
+  <data name="BreastCancer:Applyingmakeup" xml:space="preserve">
+    <value>乳腺癌：化妆</value>
+  </data>
+  <data name="BreastCancer:Check" xml:space="preserve">
+    <value>乳腺癌：检查</value>
+  </data>
+  <data name="BreastFeeding" xml:space="preserve">
+    <value>母乳喂养</value>
+  </data>
+  <data name="BrokenArm#1" xml:space="preserve">
+    <value>手臂骨折＃1</value>
+  </data>
+  <data name="BrokenArm#2" xml:space="preserve">
+    <value>手臂骨折＃2</value>
+  </data>
+  <data name="BrokenBones" xml:space="preserve">
+    <value>骨折</value>
+  </data>
+  <data name="Brokenfinger" xml:space="preserve">
+    <value>手指骨折</value>
+  </data>
+  <data name="Brokenleg" xml:space="preserve">
+    <value>断腿</value>
+  </data>
+  <data name="BrokenNose" xml:space="preserve">
+    <value>鼻子骨折</value>
+  </data>
+  <data name="Brokentoe" xml:space="preserve">
+    <value>脚趾破损</value>
+  </data>
+  <data name="Bronchitis" xml:space="preserve">
+    <value>支气管炎</value>
+  </data>
+  <data name="Brunei" xml:space="preserve">
+    <value>文莱</value>
+  </data>
+  <data name="Bulgaria" xml:space="preserve">
+    <value>保加利亚</value>
+  </data>
+  <data name="BulimiaNervosa" xml:space="preserve">
+    <value>神经性暴食症</value>
+  </data>
+  <data name="Bungeejumping" xml:space="preserve">
+    <value>蹦极</value>
+  </data>
+  <data name="BurkinaFaso" xml:space="preserve">
+    <value>布基纳法索</value>
+  </data>
+  <data name="Burma(Myanmar)" xml:space="preserve">
+    <value>缅甸</value>
+  </data>
+  <data name="Burundi" xml:space="preserve">
+    <value>布隆迪</value>
+  </data>
+  <data name="Butt" xml:space="preserve">
+    <value>臀部</value>
+  </data>
+  <data name="C-ReactiveProtein(CRP)" xml:space="preserve">
+    <value>C反应蛋白（CRP）</value>
+  </data>
+  <data name="CA125" xml:space="preserve">
+    <value>CA 125</value>
+  </data>
+  <data name="CA15.3" xml:space="preserve">
+    <value>癌抗原15-3</value>
+  </data>
+  <data name="CA19.9" xml:space="preserve">
+    <value>CA 19.9</value>
+  </data>
+  <data name="CA27.29" xml:space="preserve">
+    <value>CA 27.29</value>
+  </data>
+  <data name="Calcitonin" xml:space="preserve">
+    <value>降钙素</value>
+  </data>
+  <data name="Calcium" xml:space="preserve">
+    <value>钙</value>
+  </data>
+  <data name="Calf" xml:space="preserve">
+    <value>小腿肚</value>
+  </data>
+  <data name="Cambodia" xml:space="preserve">
+    <value>柬埔寨</value>
+  </data>
+  <data name="Cameroon" xml:space="preserve">
+    <value>喀麦隆</value>
+  </data>
+  <data name="CanIpickupyourmedication?" xml:space="preserve">
+    <value>我可以拿起你的药物吗？</value>
+  </data>
+  <data name="Canada" xml:space="preserve">
+    <value>加拿大</value>
+  </data>
+  <data name="CancerAntigen" xml:space="preserve">
+    <value>癌症抗原</value>
+  </data>
+  <data name="Canoeing" xml:space="preserve">
+    <value>划独木舟</value>
+  </data>
+  <data name="CapeVerde" xml:space="preserve">
+    <value>佛得角</value>
+  </data>
+  <data name="Care" xml:space="preserve">
+    <value>关心</value>
+  </data>
+  <data name="Caregivers" xml:space="preserve">
+    <value>护理员</value>
+  </data>
+  <data name="Caring" xml:space="preserve">
+    <value>关怀</value>
+  </data>
+  <data name="CarotidArteryDisease" xml:space="preserve">
+    <value>颈动脉疾病</value>
+  </data>
+  <data name="CarpalTunnelSyndrome" xml:space="preserve">
+    <value>腕管综合症</value>
+  </data>
+  <data name="Cataractawarenessmonth" xml:space="preserve">
+    <value>白内障意识月</value>
+  </data>
+  <data name="Cataracts" xml:space="preserve">
+    <value>白内障</value>
+  </data>
+  <data name="Caution" xml:space="preserve">
+    <value>警告</value>
+  </data>
+  <data name="CEA" xml:space="preserve">
+    <value>CEA</value>
+  </data>
+  <data name="Celebrating" xml:space="preserve">
+    <value>庆祝</value>
+  </data>
+  <data name="CentralAfricanRepublic" xml:space="preserve">
+    <value>中非共和国</value>
+  </data>
+  <data name="CervicalCancer" xml:space="preserve">
+    <value>宫颈癌</value>
+  </data>
+  <data name="Chad" xml:space="preserve">
+    <value>乍得</value>
+  </data>
+  <data name="Checkbloodpressure" xml:space="preserve">
+    <value>检查血压</value>
+  </data>
+  <data name="Checkbloodwork" xml:space="preserve">
+    <value>检查血液工作</value>
+  </data>
+  <data name="Checksugarlevel" xml:space="preserve">
+    <value>检查含糖水平</value>
+  </data>
+  <data name="Checktemperature" xml:space="preserve">
+    <value>检查温度</value>
+  </data>
+  <data name="Checkthefunctionofthekidneys" xml:space="preserve">
+    <value>检查肾脏的功能</value>
+  </data>
+  <data name="Checkweight" xml:space="preserve">
+    <value>检查体重</value>
+  </data>
+  <data name="Chemotherapy" xml:space="preserve">
+    <value>化疗</value>
+  </data>
+  <data name="Chickensoup?" xml:space="preserve">
+    <value>鸡汤？</value>
+  </data>
+  <data name="Childrenbelowageof18" xml:space="preserve">
+    <value>18岁以下的儿童</value>
+  </data>
+  <data name="Chile" xml:space="preserve">
+    <value>智利</value>
+  </data>
+  <data name="China" xml:space="preserve">
+    <value>中国</value>
+  </data>
+  <data name="ChineseNewYear#1" xml:space="preserve">
+    <value>中国新年＃1</value>
+  </data>
+  <data name="ChineseNewYear#2" xml:space="preserve">
+    <value>中国新年＃2</value>
+  </data>
+  <data name="ChineseNewYear#3" xml:space="preserve">
+    <value>中国新年＃3</value>
+  </data>
+  <data name="ChineseNewYear#4" xml:space="preserve">
+    <value>中国新年＃4</value>
+  </data>
+  <data name="ChineseNewYear#5" xml:space="preserve">
+    <value>中国新年＃5</value>
+  </data>
+  <data name="ChineseNewYear#6" xml:space="preserve">
+    <value>中国新年＃6</value>
+  </data>
+  <data name="ChineseNewYear#7" xml:space="preserve">
+    <value>中国新年＃7</value>
+  </data>
+  <data name="Chloride" xml:space="preserve">
+    <value>氧化物</value>
+  </data>
+  <data name="Cholesterol" xml:space="preserve">
+    <value>胆固醇</value>
+  </data>
+  <data name="Cholesterol/HDLratio" xml:space="preserve">
+    <value>胆固醇/ HDL比例</value>
+  </data>
+  <data name="Christmas#1" xml:space="preserve">
+    <value>圣诞节＃1</value>
+  </data>
+  <data name="Christmas#2" xml:space="preserve">
+    <value>圣诞节＃2</value>
+  </data>
+  <data name="Christmas#3" xml:space="preserve">
+    <value>圣诞节＃3</value>
+  </data>
+  <data name="Christmas#4" xml:space="preserve">
+    <value>圣诞节＃4</value>
+  </data>
+  <data name="Christmas#5" xml:space="preserve">
+    <value>圣诞节＃5</value>
+  </data>
+  <data name="Christmas#6" xml:space="preserve">
+    <value>圣诞节＃6</value>
+  </data>
+  <data name="Christmas#8" xml:space="preserve">
+    <value>圣诞节＃8</value>
+  </data>
+  <data name="Christmas#9" xml:space="preserve">
+    <value>圣诞节＃9</value>
+  </data>
+  <data name="Clap" xml:space="preserve">
+    <value>拍</value>
+  </data>
+  <data name="Cliffdiving" xml:space="preserve">
+    <value>悬崖跳水</value>
+  </data>
+  <data name="Cold" xml:space="preserve">
+    <value>冷</value>
+  </data>
+  <data name="Cold#1" xml:space="preserve">
+    <value>感冒＃1</value>
+  </data>
+  <data name="Cold#2" xml:space="preserve">
+    <value>感冒＃2</value>
+  </data>
+  <data name="Colombia" xml:space="preserve">
+    <value>哥伦比亚</value>
+  </data>
+  <data name="ColonCancer" xml:space="preserve">
+    <value>结肠癌</value>
+  </data>
+  <data name="Combinationofbothgoodandbadcholesterol" xml:space="preserve">
+    <value>好的和坏的胆固醇结合</value>
+  </data>
+  <data name="Comoros" xml:space="preserve">
+    <value>科摩罗</value>
+  </data>
+  <data name="Complaining" xml:space="preserve">
+    <value>抱怨</value>
+  </data>
+  <data name="Comprisesbothalbuminandglobulin" xml:space="preserve">
+    <value>包括白蛋白和球蛋白</value>
+  </data>
+  <data name="Confident" xml:space="preserve">
+    <value>信心</value>
+  </data>
+  <data name="Confused" xml:space="preserve">
+    <value>困惑</value>
+  </data>
+  <data name="Congo,Dem.Rep.of" xml:space="preserve">
+    <value>刚果 民主共和国</value>
+  </data>
+  <data name="Congo,Rep.of" xml:space="preserve">
+    <value>刚果共和国</value>
+  </data>
+  <data name="Congrats" xml:space="preserve">
+    <value>恭喜</value>
+  </data>
+  <data name="Conjunctivitis" xml:space="preserve">
+    <value>结膜炎</value>
+  </data>
+  <data name="Constipated" xml:space="preserve">
+    <value>大便干燥</value>
+  </data>
+  <data name="ConstrictingofAirways" xml:space="preserve">
+    <value>航空公司的限制</value>
+  </data>
+  <data name="ContactLens" xml:space="preserve">
+    <value>隐形眼镜</value>
+  </data>
+  <data name="Contactthedoctor" xml:space="preserve">
+    <value>联系医生</value>
+  </data>
+  <data name="Contactthehospital" xml:space="preserve">
+    <value>联系医院</value>
+  </data>
+  <data name="Contactthenurse" xml:space="preserve">
+    <value>联系护士</value>
+  </data>
+  <data name="Contempt" xml:space="preserve">
+    <value>鄙视</value>
+  </data>
+  <data name="Cooldown(m)" xml:space="preserve">
+    <value>冷却（m）</value>
+  </data>
+  <data name="Coolyourtesticles" xml:space="preserve">
+    <value>冷却你的睾丸</value>
+  </data>
+  <data name="COPD" xml:space="preserve">
+    <value>慢性阻塞性肺疾病</value>
+  </data>
+  <data name="COPDawarenessmonth" xml:space="preserve">
+    <value>COPD（慢性阻塞性肺病）意识月</value>
+  </data>
+  <data name="Coping" xml:space="preserve">
+    <value>应对</value>
+  </data>
+  <data name="CornealInfection" xml:space="preserve">
+    <value>角膜感染</value>
+  </data>
+  <data name="CosmeticSurgery" xml:space="preserve">
+    <value>整容手术</value>
+  </data>
+  <data name="CostaRica" xml:space="preserve">
+    <value>哥斯达黎加</value>
+  </data>
+  <data name="Cough" xml:space="preserve">
+    <value>咳嗽</value>
+  </data>
+  <data name="Coveryournose,mouth" xml:space="preserve">
+    <value>捂住鼻子、嘴巴</value>
+  </data>
+  <data name="CPK(total)" xml:space="preserve">
+    <value>肌酸磷酸激酶（总量）</value>
+  </data>
+  <data name="Crazy" xml:space="preserve">
+    <value>疯狂</value>
+  </data>
+  <data name="Creatinine" xml:space="preserve">
+    <value>肌酸酐</value>
+  </data>
+  <data name="Croatia" xml:space="preserve">
+    <value>克罗地亚</value>
+  </data>
+  <data name="Crush" xml:space="preserve">
+    <value>粉碎</value>
+  </data>
+  <data name="Crutches" xml:space="preserve">
+    <value>拐杖</value>
+  </data>
+  <data name="Cry" xml:space="preserve">
+    <value>哭</value>
+  </data>
+  <data name="Cuba" xml:space="preserve">
+    <value>古巴</value>
+  </data>
+  <data name="Cycle" xml:space="preserve">
+    <value>周期</value>
+  </data>
+  <data name="Cyprus" xml:space="preserve">
+    <value>塞浦路斯</value>
+  </data>
+  <data name="CzechRepublic" xml:space="preserve">
+    <value>捷克共和国</value>
+  </data>
+  <data name="Côted'Ivoire" xml:space="preserve">
+    <value>科特迪瓦</value>
+  </data>
+  <data name="Dadkidhug" xml:space="preserve">
+    <value>爸爸和孩子拥抱</value>
+  </data>
+  <data name="Dancing" xml:space="preserve">
+    <value>跳舞</value>
+  </data>
+  <data name="DancingII" xml:space="preserve">
+    <value>跳舞II</value>
+  </data>
+  <data name="DarkSkin" xml:space="preserve">
+    <value>黝黑的皮肤</value>
+  </data>
+  <data name="Dates" xml:space="preserve">
+    <value>日期</value>
+  </data>
+  <data name="Deepavali/Diwali#1" xml:space="preserve">
+    <value>屠妖节/排灯节＃1</value>
+  </data>
+  <data name="Deepavali/Diwali#2" xml:space="preserve">
+    <value>屠妖节/排灯节＃2</value>
+  </data>
+  <data name="Defense" xml:space="preserve">
+    <value>防御</value>
+  </data>
+  <data name="Dementia" xml:space="preserve">
+    <value>痴呆症</value>
+  </data>
+  <data name="Denmark" xml:space="preserve">
+    <value>丹麦</value>
+  </data>
+  <data name="Dental" xml:space="preserve">
+    <value>口腔</value>
+  </data>
+  <data name="Depressed" xml:space="preserve">
+    <value>抑郁</value>
+  </data>
+  <data name="Depression" xml:space="preserve">
+    <value>抑郁症</value>
+  </data>
+  <data name="DiabetesType1" xml:space="preserve">
+    <value>1型糖尿病</value>
+  </data>
+  <data name="DiabetesType2" xml:space="preserve">
+    <value>2型糖尿病</value>
+  </data>
+  <data name="DiabeticRetinopathy" xml:space="preserve">
+    <value>糖尿病视网膜病变</value>
+  </data>
+  <data name="Diastolic" xml:space="preserve">
+    <value>舒张压</value>
+  </data>
+  <data name="Dietrestrictions" xml:space="preserve">
+    <value>饮食限制</value>
+  </data>
+  <data name="DifficultyReading" xml:space="preserve">
+    <value>阅读困难</value>
+  </data>
+  <data name="dirtyhandscontactlens" xml:space="preserve">
+    <value>脏手触碰隐形眼镜</value>
+  </data>
+  <data name="Disappointed" xml:space="preserve">
+    <value>失望</value>
+  </data>
+  <data name="Disbelief" xml:space="preserve">
+    <value>怀疑</value>
+  </data>
+  <data name="Disgusted" xml:space="preserve">
+    <value>厌恶的</value>
+  </data>
+  <data name="Distracted" xml:space="preserve">
+    <value>分心</value>
+  </data>
+  <data name="Diving" xml:space="preserve">
+    <value>潜水</value>
+  </data>
+  <data name="Diving#2" xml:space="preserve">
+    <value>潜水＃2</value>
+  </data>
+  <data name="Dizziness/Syncope" xml:space="preserve">
+    <value>眩晕/晕厥</value>
+  </data>
+  <data name="Djibouti" xml:space="preserve">
+    <value>吉布提</value>
+  </data>
+  <data name="Doyouliketohaveflowers?" xml:space="preserve">
+    <value>你喜欢鲜花吗？</value>
+  </data>
+  <data name="Doyouliketohavesweets?" xml:space="preserve">
+    <value>你喜欢吃甜食吗？</value>
+  </data>
+  <data name="Doyouwantamagazine?" xml:space="preserve">
+    <value>你想要一本杂志吗？</value>
+  </data>
+  <data name="DoctorVisit" xml:space="preserve">
+    <value>医生访问</value>
+  </data>
+  <data name="Doctor'sappointment2" xml:space="preserve">
+    <value>医生预约2</value>
+  </data>
+  <data name="Dominica" xml:space="preserve">
+    <value>多米尼加</value>
+  </data>
+  <data name="DominicanRepublic" xml:space="preserve">
+    <value>多米尼加共和国</value>
+  </data>
+  <data name="Don'tscratch2" xml:space="preserve">
+    <value>不要划伤2</value>
+  </data>
+  <data name="Dragonboating" xml:space="preserve">
+    <value>划龙舟</value>
+  </data>
+  <data name="Drained" xml:space="preserve">
+    <value>排水</value>
+  </data>
+  <data name="Drawingblood" xml:space="preserve">
+    <value>抽血</value>
+  </data>
+  <data name="Drawingbloodwork" xml:space="preserve">
+    <value>画出血液工作</value>
+  </data>
+  <data name="Drinkfluids" xml:space="preserve">
+    <value>喝饮料</value>
+  </data>
+  <data name="Drinkplentyoffluids" xml:space="preserve">
+    <value>多喝水</value>
+  </data>
+  <data name="Drinking" xml:space="preserve">
+    <value>饮用</value>
+  </data>
+  <data name="DryingHands" xml:space="preserve">
+    <value>干手</value>
+  </data>
+  <data name="Dubaiworldcup" xml:space="preserve">
+    <value>迪拜世界杯</value>
+  </data>
+  <data name="Dull" xml:space="preserve">
+    <value>平淡</value>
+  </data>
+  <data name="DulledColours" xml:space="preserve">
+    <value>平淡的颜色</value>
+  </data>
+  <data name="Dustinghands" xml:space="preserve">
+    <value>除尘的手</value>
+  </data>
+  <data name="Earache" xml:space="preserve">
+    <value>耳朵疼</value>
+  </data>
+  <data name="EastTimor" xml:space="preserve">
+    <value>东帝汶</value>
+  </data>
+  <data name="Easter#1" xml:space="preserve">
+    <value>复活节＃1</value>
+  </data>
+  <data name="Easter#2" xml:space="preserve">
+    <value>复活节＃2</value>
+  </data>
+  <data name="Easter#3" xml:space="preserve">
+    <value>复活节＃3</value>
+  </data>
+  <data name="Easter#4" xml:space="preserve">
+    <value>复活节＃4</value>
+  </data>
+  <data name="Easter#5" xml:space="preserve">
+    <value>复活节＃5</value>
+  </data>
+  <data name="Eating" xml:space="preserve">
+    <value>吃</value>
+  </data>
+  <data name="Eatingdisordersawarenessweek#1" xml:space="preserve">
+    <value>饮食失调意识周＃1</value>
+  </data>
+  <data name="Eatingdisordersawarenessweek#2" xml:space="preserve">
+    <value>饮食失调意识周＃2</value>
+  </data>
+  <data name="Eatingdisordersawarenessweek#3" xml:space="preserve">
+    <value>饮食失调意识周＃3</value>
+  </data>
+  <data name="Eatinghealthymakesmehappy" xml:space="preserve">
+    <value>健康饮食让我开心</value>
+  </data>
+  <data name="Eatsupbacteriaandotherharmfulparticlesinbody" xml:space="preserve">
+    <value>吃掉体内的细菌和其他有害粒</value>
+  </data>
+  <data name="Ecuador" xml:space="preserve">
+    <value>厄瓜多尔</value>
+  </data>
+  <data name="Eczema" xml:space="preserve">
+    <value>湿疹</value>
+  </data>
+  <data name="Egypt" xml:space="preserve">
+    <value>埃及</value>
+  </data>
+  <data name="Ehlers-DanlosSyndrome" xml:space="preserve">
+    <value>Ehlers-Danlos综合症</value>
+  </data>
+  <data name="ElSalvador" xml:space="preserve">
+    <value>萨尔瓦多</value>
+  </data>
+  <data name="Electrolytethatexcretedbykidney" xml:space="preserve">
+    <value>由肾脏排出的电解质</value>
+  </data>
+  <data name="Electrolytethatmirrorssodiumlevels" xml:space="preserve">
+    <value>反映钠水平的电解质</value>
+  </data>
+  <data name="Electrolytethatregulatesbody'swater" xml:space="preserve">
+    <value>调节身体水分的电解质</value>
+  </data>
+  <data name="Emotion" xml:space="preserve">
+    <value>情感</value>
+  </data>
+  <data name="Encounteredheavydownpour(m)" xml:space="preserve">
+    <value>遇到倾盆大雨（m）</value>
+  </data>
+  <data name="Encouragement" xml:space="preserve">
+    <value>鼓励</value>
+  </data>
+  <data name="Endofgym" xml:space="preserve">
+    <value>结束健身房</value>
+  </data>
+  <data name="Endofmessage" xml:space="preserve">
+    <value>消息结束</value>
+  </data>
+  <data name="Energized" xml:space="preserve">
+    <value>激励的</value>
+  </data>
+  <data name="Enjoydoingsportsinschool" xml:space="preserve">
+    <value>喜欢在学校做运动</value>
+  </data>
+  <data name="Enjoyedabriskwalk(F)" xml:space="preserve">
+    <value>喜欢轻快的散步（女）</value>
+  </data>
+  <data name="Enjoyedabriskwalk(M)" xml:space="preserve">
+    <value>喜欢轻快的散步（男）</value>
+  </data>
+  <data name="Enjoyedawalkinthesun(F)" xml:space="preserve">
+    <value>喜欢在阳光下散步（女）</value>
+  </data>
+  <data name="Enjoyedawalkinthesun(M)" xml:space="preserve">
+    <value>喜欢在阳光下散步（男）</value>
+  </data>
+  <data name="Enzyme" xml:space="preserve">
+    <value>酶</value>
+  </data>
+  <data name="Enzymefoundinboneandliver" xml:space="preserve">
+    <value>在骨骼和肝脏中发现的酶</value>
+  </data>
+  <data name="Enzymefoundmainlyinheart,brainandskeletalmuscle" xml:space="preserve">
+    <value>酶主要存在于心脏，大脑和骨骼肌中</value>
+  </data>
+  <data name="Eosinophil" xml:space="preserve">
+    <value>嗜酸性粒细胞</value>
+  </data>
+  <data name="EquatorialGuinea" xml:space="preserve">
+    <value>赤道几内亚</value>
+  </data>
+  <data name="Eritrea" xml:space="preserve">
+    <value>厄立特里亚国</value>
+  </data>
+  <data name="ErythrocyteSedimentationRate(ESR)" xml:space="preserve">
+    <value>红血球沉降率（ESR）</value>
+  </data>
+  <data name="Estonia" xml:space="preserve">
+    <value>爱沙尼亚</value>
+  </data>
+  <data name="Ethiopia" xml:space="preserve">
+    <value>埃塞俄比亚</value>
+  </data>
+  <data name="Everyone" xml:space="preserve">
+    <value>大家</value>
+  </data>
+  <data name="Examtime" xml:space="preserve">
+    <value>考试时间</value>
+  </data>
+  <data name="Excuseme" xml:space="preserve">
+    <value>打扰一下</value>
+  </data>
+  <data name="Expressions" xml:space="preserve">
+    <value>表达</value>
+  </data>
+  <data name="Eyes" xml:space="preserve">
+    <value>眼睛</value>
+  </data>
+  <data name="Fabulous#1" xml:space="preserve">
+    <value>很棒的＃1</value>
+  </data>
+  <data name="Fabulous#2" xml:space="preserve">
+    <value>很棒的＃2</value>
+  </data>
+  <data name="Failedmyexam" xml:space="preserve">
+    <value>我的考试失败了</value>
+  </data>
+  <data name="FastingGlucose" xml:space="preserve">
+    <value>空腹葡萄糖</value>
+  </data>
+  <data name="Fathersday#1" xml:space="preserve">
+    <value>父亲节＃1</value>
+  </data>
+  <data name="Fathersday#2" xml:space="preserve">
+    <value>父亲节＃2</value>
+  </data>
+  <data name="Fathersday#3" xml:space="preserve">
+    <value>父亲节＃3</value>
+  </data>
+  <data name="Fathersday#4" xml:space="preserve">
+    <value>父亲节＃4</value>
+  </data>
+  <data name="Fathersday#5" xml:space="preserve">
+    <value>父亲节＃5</value>
+  </data>
+  <data name="Fathersday#6" xml:space="preserve">
+    <value>父亲节＃6</value>
+  </data>
+  <data name="Fatigue" xml:space="preserve">
+    <value>疲劳</value>
+  </data>
+  <data name="fattyliver" xml:space="preserve">
+    <value>脂肪肝</value>
+  </data>
+  <data name="FBC" xml:space="preserve">
+    <value>FBC</value>
+  </data>
+  <data name="Fear" xml:space="preserve">
+    <value>恐惧</value>
+  </data>
+  <data name="Fedup" xml:space="preserve">
+    <value>厌烦</value>
+  </data>
+  <data name="Feelingloved(hospitalvisit)1" xml:space="preserve">
+    <value>感受被爱（医院访问）1</value>
+  </data>
+  <data name="Feelingloved(hospitalvisit)2" xml:space="preserve">
+    <value>感到被爱（医院访问）2</value>
+  </data>
+  <data name="Femalefriendshug" xml:space="preserve">
+    <value>女性朋友拥抱</value>
+  </data>
+  <data name="FEV1" xml:space="preserve">
+    <value>FEV1</value>
+  </data>
+  <data name="FEV1/FVC" xml:space="preserve">
+    <value>FEV1 / FVC</value>
+  </data>
+  <data name="Fever" xml:space="preserve">
+    <value>发热</value>
+  </data>
+  <data name="Fight" xml:space="preserve">
+    <value>斗争</value>
+  </data>
+  <data name="Fighton(F)" xml:space="preserve">
+    <value>斗争（女）</value>
+  </data>
+  <data name="Fighton(M)" xml:space="preserve">
+    <value>斗争（男）</value>
+  </data>
+  <data name="Fiji" xml:space="preserve">
+    <value>斐济</value>
+  </data>
+  <data name="FilingNails" xml:space="preserve">
+    <value>銼指甲</value>
+  </data>
+  <data name="Fingerscrossed" xml:space="preserve">
+    <value>手指交叉</value>
+  </data>
+  <data name="Finishedmywalk(F)" xml:space="preserve">
+    <value>完成散步（女）</value>
+  </data>
+  <data name="Finishedmywalk(m)" xml:space="preserve">
+    <value>完成散步（男）</value>
+  </data>
+  <data name="Finland" xml:space="preserve">
+    <value>芬兰</value>
+  </data>
+  <data name="Flowersforyou(M)" xml:space="preserve">
+    <value>给你的鲜花（女）</value>
+  </data>
+  <data name="Flowersforyou&lt;3(F)" xml:space="preserve">
+    <value>给你的鲜花&lt;3（男）</value>
+  </data>
+  <data name="FluidIntake" xml:space="preserve">
+    <value>液体摄取</value>
+  </data>
+  <data name="FluidOutput" xml:space="preserve">
+    <value>液体输出</value>
+  </data>
+  <data name="Flushing" xml:space="preserve">
+    <value>冲洗</value>
+  </data>
+  <data name="Foot" xml:space="preserve">
+    <value>脚</value>
+  </data>
+  <data name="ForcedExpiratoryVolumein1sec" xml:space="preserve">
+    <value>在1秒用力呼气容积</value>
+  </data>
+  <data name="France" xml:space="preserve">
+    <value>法国</value>
+  </data>
+  <data name="FreeKick,Soccer" xml:space="preserve">
+    <value>任意球，足球</value>
+  </data>
+  <data name="FreeT4" xml:space="preserve">
+    <value>游离甲状腺素</value>
+  </data>
+  <data name="FrequentUrination" xml:space="preserve">
+    <value>尿频</value>
+  </data>
+  <data name="FrequentUrinationatNight" xml:space="preserve">
+    <value>经常在晚上排尿</value>
+  </data>
+  <data name="FVC" xml:space="preserve">
+    <value>FVC</value>
+  </data>
+  <data name="FYI" xml:space="preserve">
+    <value>FYI</value>
+  </data>
+  <data name="Gabon" xml:space="preserve">
+    <value>加蓬</value>
+  </data>
+  <data name="Gambia" xml:space="preserve">
+    <value>冈比亚</value>
+  </data>
+  <data name="Gamma-glutamylTransferase" xml:space="preserve">
+    <value>γ-谷氨酰转移酶</value>
+  </data>
+  <data name="GastroesophagealRefluxDisease" xml:space="preserve">
+    <value>胃食管反流病</value>
+  </data>
+  <data name="Georgia" xml:space="preserve">
+    <value>格鲁吉亚</value>
+  </data>
+  <data name="Germany" xml:space="preserve">
+    <value>德国</value>
+  </data>
+  <data name="GestationalDiabetes" xml:space="preserve">
+    <value>妊娠糖尿病</value>
+  </data>
+  <data name="GetChecked1" xml:space="preserve">
+    <value>获得检查1</value>
+  </data>
+  <data name="Getchecked2" xml:space="preserve">
+    <value>已检查2</value>
+  </data>
+  <data name="Ghana" xml:space="preserve">
+    <value>加纳</value>
+  </data>
+  <data name="Giftlove" xml:space="preserve">
+    <value>爱的礼物</value>
+  </data>
+  <data name="Girlhugsgirl" xml:space="preserve">
+    <value>女孩拥抱女孩</value>
+  </data>
+  <data name="Giveredcellsitscolour" xml:space="preserve">
+    <value>给红血球颜色</value>
+  </data>
+  <data name="Giveroflove" xml:space="preserve">
+    <value>爱的赐予者</value>
+  </data>
+  <data name="Giverofstrength" xml:space="preserve">
+    <value>给予力量</value>
+  </data>
+  <data name="Givinglove" xml:space="preserve">
+    <value>给予爱</value>
+  </data>
+  <data name="Glasses" xml:space="preserve">
+    <value>眼镜</value>
+  </data>
+  <data name="Globulin" xml:space="preserve">
+    <value>球蛋白</value>
+  </data>
+  <data name="Glucose" xml:space="preserve">
+    <value>葡萄糖</value>
+  </data>
+  <data name="Goal!Soccer" xml:space="preserve">
+    <value>目标！ 足球</value>
+  </data>
+  <data name="Goalkeeping" xml:space="preserve">
+    <value>守门</value>
+  </data>
+  <data name="Goingtowork" xml:space="preserve">
+    <value>去上班</value>
+  </data>
+  <data name="Goiter" xml:space="preserve">
+    <value>甲状腺肿</value>
+  </data>
+  <data name="Golf(F)" xml:space="preserve">
+    <value>高尔夫（女）</value>
+  </data>
+  <data name="Golf(M)" xml:space="preserve">
+    <value>高尔夫（男）</value>
+  </data>
+  <data name="Goodnight" xml:space="preserve">
+    <value>晚安</value>
+  </data>
+  <data name="Goodschoolday" xml:space="preserve">
+    <value>上学的好日子</value>
+  </data>
+  <data name="Grateful" xml:space="preserve">
+    <value>感激</value>
+  </data>
+  <data name="Graves'Disease" xml:space="preserve">
+    <value>格雷夫斯病</value>
+  </data>
+  <data name="Greece" xml:space="preserve">
+    <value>希腊</value>
+  </data>
+  <data name="Grenada" xml:space="preserve">
+    <value>格林纳达</value>
+  </data>
+  <data name="Grin" xml:space="preserve">
+    <value>微笑</value>
+  </data>
+  <data name="Guatemala" xml:space="preserve">
+    <value>危地马拉</value>
+  </data>
+  <data name="GuideDog" xml:space="preserve">
+    <value>导盲犬</value>
+  </data>
+  <data name="Guinea" xml:space="preserve">
+    <value>几内亚</value>
+  </data>
+  <data name="Guinea-Bissau" xml:space="preserve">
+    <value>几内亚比绍</value>
+  </data>
+  <data name="Guyana" xml:space="preserve">
+    <value>圭亚那</value>
+  </data>
+  <data name="Haematocrit(PCV)" xml:space="preserve">
+    <value>血细胞比容（PCV）</value>
+  </data>
+  <data name="Haematology/FBC" xml:space="preserve">
+    <value>血液/空腹血糖</value>
+  </data>
+  <data name="Haemoglobin/Hb" xml:space="preserve">
+    <value>血红蛋白/Hb</value>
+  </data>
+  <data name="Haiti" xml:space="preserve">
+    <value>海地</value>
+  </data>
+  <data name="Halloween#1" xml:space="preserve">
+    <value>万圣节＃1</value>
+  </data>
+  <data name="Halloween#2" xml:space="preserve">
+    <value>万圣节＃2</value>
+  </data>
+  <data name="Halloween#3" xml:space="preserve">
+    <value>万圣节＃3</value>
+  </data>
+  <data name="Halloween#4" xml:space="preserve">
+    <value>万圣节＃4</value>
+  </data>
+  <data name="Halloween#5" xml:space="preserve">
+    <value>万圣节＃5</value>
+  </data>
+  <data name="Halloween#6" xml:space="preserve">
+    <value>万圣节＃6</value>
+  </data>
+  <data name="HalzaEssential" xml:space="preserve">
+    <value>Halza 要点</value>
+  </data>
+  <data name="HalzaforiEi" xml:space="preserve">
+    <value> iEi的Halza</value>
+  </data>
+  <data name="HalzaFoundersPremium" xml:space="preserve">
+    <value>Halza创立者奖品</value>
+  </data>
+  <data name="HalzaPremium" xml:space="preserve">
+    <value>Halza奖品</value>
+  </data>
+  <data name="Halza4HealthCallTeam" xml:space="preserve">
+    <value>Halza4健康呼叫小组 </value>
+  </data>
+  <data name="Halza4LERCTeam" xml:space="preserve">
+    <value>Halza4LERCTeam</value>
+  </data>
+  <data name="Halza4MCTeam" xml:space="preserve">
+    <value>Halza4MCTeam</value>
+  </data>
+  <data name="Halza4TMCEssential" xml:space="preserve">
+    <value>Halza4 基本TMC </value>
+  </data>
+  <data name="Halza4TMCPremium" xml:space="preserve">
+    <value>Halza4 優質TMC</value>
+  </data>
+  <data name="Halza4TMCTeam" xml:space="preserve">
+    <value>Halza4TMC团队</value>
+  </data>
+  <data name="Halza4TMCx" xml:space="preserve">
+    <value>Halza5TMCx</value>
+  </data>
+  <data name="HalzaMarketing" xml:space="preserve">
+    <value>Halza营销</value>
+  </data>
+  <data name="HandSanitizer" xml:space="preserve">
+    <value>洗手液</value>
+  </data>
+  <data name="Hands" xml:space="preserve">
+    <value>手</value>
+  </data>
+  <data name="Handshakef)" xml:space="preserve">
+    <value>握手f）</value>
+  </data>
+  <data name="Hanginthere" xml:space="preserve">
+    <value>坚持下去</value>
+  </data>
+  <data name="Hanginthere!(m)" xml:space="preserve">
+    <value>坚持下去！ （男）</value>
+  </data>
+  <data name="Hangingoutinthemall" xml:space="preserve">
+    <value>在商场闲逛</value>
+  </data>
+  <data name="Happy" xml:space="preserve">
+    <value>幸福</value>
+  </data>
+  <data name="Happyanniversary" xml:space="preserve">
+    <value>周年快乐</value>
+  </data>
+  <data name="Happyanniversary(xalcohol)" xml:space="preserve">
+    <value>结婚周年快乐（x酒精）</value>
+  </data>
+  <data name="HappyBirthday" xml:space="preserve">
+    <value>生日快乐</value>
+  </data>
+  <data name="HappyBirthdayll" xml:space="preserve">
+    <value>生日快乐ll</value>
+  </data>
+  <data name="HappyEid" xml:space="preserve">
+    <value>快乐的开斋节</value>
+  </data>
+  <data name="HappyNewYear#1" xml:space="preserve">
+    <value>新年快乐＃1</value>
+  </data>
+  <data name="HappyNewYear#2" xml:space="preserve">
+    <value>新年快乐＃2</value>
+  </data>
+  <data name="HappyNewYear#5" xml:space="preserve">
+    <value>新年快乐＃5</value>
+  </data>
+  <data name="HappyNewYear#6" xml:space="preserve">
+    <value>新年快乐＃6</value>
+  </data>
+  <data name="Haptoglobin" xml:space="preserve">
+    <value>结合珠蛋白</value>
+  </data>
+  <data name="Hashimoto'sDisease" xml:space="preserve">
+    <value>慢性甲状腺炎</value>
+  </data>
+  <data name="Haveagoodrest(F)" xml:space="preserve">
+    <value>好好休息（女）</value>
+  </data>
+  <data name="Haveagoodrest(M)" xml:space="preserve">
+    <value>好好休息（男）</value>
+  </data>
+  <data name="HayFever" xml:space="preserve">
+    <value>枯草热</value>
+  </data>
+  <data name="HbA1c" xml:space="preserve">
+    <value>糖化血红蛋白</value>
+  </data>
+  <data name="HCT(PCV)" xml:space="preserve">
+    <value>HCT（PCV）</value>
+  </data>
+  <data name="HDL" xml:space="preserve">
+    <value>HDL</value>
+  </data>
+  <data name="He'shot!" xml:space="preserve">
+    <value>他帅呆了！</value>
+  </data>
+  <data name="Head" xml:space="preserve">
+    <value>头</value>
+  </data>
+  <data name="HealthyAdvice" xml:space="preserve">
+    <value>健康建议</value>
+  </data>
+  <data name="HearingAids" xml:space="preserve">
+    <value>助听器</value>
+  </data>
+  <data name="HeartDisease" xml:space="preserve">
+    <value>心脏病</value>
+  </data>
+  <data name="HeartRate" xml:space="preserve">
+    <value>心率</value>
+  </data>
+  <data name="hearttransplant" xml:space="preserve">
+    <value>心脏移植</value>
+  </data>
+  <data name="Heartbroken" xml:space="preserve">
+    <value>心碎</value>
+  </data>
+  <data name="HeatStroke" xml:space="preserve">
+    <value>中暑</value>
+  </data>
+  <data name="Heatingpad" xml:space="preserve">
+    <value>加热垫</value>
+  </data>
+  <data name="Help" xml:space="preserve">
+    <value>帮助</value>
+  </data>
+  <data name="HELP!" xml:space="preserve">
+    <value>救命！</value>
+  </data>
+  <data name="Helpless" xml:space="preserve">
+    <value>无助</value>
+  </data>
+  <data name="Helpstostopbleedinginbody" xml:space="preserve">
+    <value>有助于止血</value>
+  </data>
+  <data name="HepatitisA" xml:space="preserve">
+    <value>甲型肝炎</value>
+  </data>
+  <data name="HepatitisB" xml:space="preserve">
+    <value>乙型肝炎</value>
+  </data>
+  <data name="HepatitisC" xml:space="preserve">
+    <value>丙型肝炎</value>
+  </data>
+  <data name="hiccupsandburps" xml:space="preserve">
+    <value>打嗝和打饱嗝儿</value>
+  </data>
+  <data name="HighCholestrol" xml:space="preserve">
+    <value>高胆固醇</value>
+  </data>
+  <data name="HighlevelsleadtoGout" xml:space="preserve">
+    <value>高水平导致痛风</value>
+  </data>
+  <data name="Hip" xml:space="preserve">
+    <value>臀部</value>
+  </data>
+  <data name="HipDysplasia" xml:space="preserve">
+    <value>髋关节发育不良</value>
+  </data>
+  <data name="Hippie" xml:space="preserve">
+    <value>嬉皮士</value>
+  </data>
+  <data name="Hives" xml:space="preserve">
+    <value>麻疹</value>
+  </data>
+  <data name="Homocysteine" xml:space="preserve">
+    <value>同型半胱氨酸</value>
+  </data>
+  <data name="Honduras" xml:space="preserve">
+    <value>洪都拉斯</value>
+  </data>
+  <data name="HongKong" xml:space="preserve">
+    <value>香港</value>
+  </data>
+  <data name="Hooray" xml:space="preserve">
+    <value>万岁</value>
+  </data>
+  <data name="Hopeful" xml:space="preserve">
+    <value>有希望</value>
+  </data>
+  <data name="Hospital" xml:space="preserve">
+    <value>医院</value>
+  </data>
+  <data name="HospitalCare" xml:space="preserve">
+    <value>医院护理</value>
+  </data>
+  <data name="Hospital/ClinicEvent" xml:space="preserve">
+    <value>医院/诊所事件</value>
+  </data>
+  <data name="Hospitalization" xml:space="preserve">
+    <value>住院治疗</value>
+  </data>
+  <data name="How'boutacookie?" xml:space="preserve">
+    <value>来块曲奇饼干怎么样？</value>
+  </data>
+  <data name="Hug" xml:space="preserve">
+    <value>拥抱</value>
+  </data>
+  <data name="Hug#1" xml:space="preserve">
+    <value>拥抱＃1</value>
+  </data>
+  <data name="Hug#3180" xml:space="preserve">
+    <value>拥抱＃3 180</value>
+  </data>
+  <data name="Hug#4180" xml:space="preserve">
+    <value>拥抱＃4 180</value>
+  </data>
+  <data name="HuggingaPatient" xml:space="preserve">
+    <value>抱着病人</value>
+  </data>
+  <data name="hugs" xml:space="preserve">
+    <value>拥抱</value>
+  </data>
+  <data name="hugsagain" xml:space="preserve">
+    <value>再次拥抱</value>
+  </data>
+  <data name="Huh" xml:space="preserve">
+    <value>呵呵</value>
+  </data>
+  <data name="Hungary" xml:space="preserve">
+    <value>匈牙利</value>
+  </data>
+  <data name="Hungry" xml:space="preserve">
+    <value>饥饿</value>
+  </data>
+  <data name="Hurt" xml:space="preserve">
+    <value>伤害</value>
+  </data>
+  <data name="Hyperlipidaemia" xml:space="preserve">
+    <value>高脂血症</value>
+  </data>
+  <data name="Hypertension" xml:space="preserve">
+    <value>高血压</value>
+  </data>
+  <data name="Hypotension" xml:space="preserve">
+    <value>低血压</value>
+  </data>
+  <data name="Hypothyroidism" xml:space="preserve">
+    <value>甲状腺功能减退症</value>
+  </data>
+  <data name="Hystericallaughing" xml:space="preserve">
+    <value>歇斯底里的笑声</value>
+  </data>
+  <data name="Iamdrenched" xml:space="preserve">
+    <value>我湿透了</value>
+  </data>
+  <data name="Iloveyou" xml:space="preserve">
+    <value>我爱你</value>
+  </data>
+  <data name="Iloveyou(kiss)" xml:space="preserve">
+    <value>我喜欢你（吻）</value>
+  </data>
+  <data name="I'mfull" xml:space="preserve">
+    <value>我饱了</value>
+  </data>
+  <data name="I'mindetention" xml:space="preserve">
+    <value>我被拘留了</value>
+  </data>
+  <data name="I'msosorry" xml:space="preserve">
+    <value>我很抱歉</value>
+  </data>
+  <data name="I'mstuffed" xml:space="preserve">
+    <value>我吃饱了</value>
+  </data>
+  <data name="Iceskating" xml:space="preserve">
+    <value>溜冰</value>
+  </data>
+  <data name="Iceland" xml:space="preserve">
+    <value>冰岛</value>
+  </data>
+  <data name="Idk" xml:space="preserve">
+    <value>Idk</value>
+  </data>
+  <data name="IfIremembercorrectly" xml:space="preserve">
+    <value>如果我没记错的话</value>
+  </data>
+  <data name="Importantcomponentforlevelofcholesterolinblood" xml:space="preserve">
+    <value>血液中胆固醇水平的重要组成部分</value>
+  </data>
+  <data name="Importantmineralforboneandteethformation" xml:space="preserve">
+    <value>形成骨和牙齿的重要矿物质</value>
+  </data>
+  <data name="Importantmineralforgoodhealth" xml:space="preserve">
+    <value>对健康重要的矿物质</value>
+  </data>
+  <data name="Impressed" xml:space="preserve">
+    <value>印象深刻</value>
+  </data>
+  <data name="Inlove" xml:space="preserve">
+    <value>恋爱</value>
+  </data>
+  <data name="Inmyopinion" xml:space="preserve">
+    <value>在我看来</value>
+  </data>
+  <data name="Instudyhall" xml:space="preserve">
+    <value>在书房里</value>
+  </data>
+  <data name="Inthetoilet" xml:space="preserve">
+    <value>在厕所里</value>
+  </data>
+  <data name="Indexthatmeasuresamountofhaemoglobininrelationtosizeofcells" xml:space="preserve">
+    <value>测量与紅血球大小相关的血红蛋白量的指标</value>
+  </data>
+  <data name="Indexthatmeasuresweightofhaemoglobininredcell" xml:space="preserve">
+    <value>测量紅血球中血红蛋白重量的指标</value>
+  </data>
+  <data name="India" xml:space="preserve">
+    <value>印度</value>
+  </data>
+  <data name="Indonesia" xml:space="preserve">
+    <value>印度尼西亚</value>
+  </data>
+  <data name="Infectionpreventionweek" xml:space="preserve">
+    <value>感染预防周</value>
+  </data>
+  <data name="Inflammation" xml:space="preserve">
+    <value>炎症</value>
+  </data>
+  <data name="InflammationMarkers" xml:space="preserve">
+    <value>炎症指标</value>
+  </data>
+  <data name="Inflammationofthejoints" xml:space="preserve">
+    <value>关节炎症</value>
+  </data>
+  <data name="Inhaler" xml:space="preserve">
+    <value>吸入器</value>
+  </data>
+  <data name="Injection" xml:space="preserve">
+    <value>注射</value>
+  </data>
+  <data name="InsulinResistance" xml:space="preserve">
+    <value>胰岛素抗药性</value>
+  </data>
+  <data name="Internationaldayoffamily" xml:space="preserve">
+    <value>国际家庭日</value>
+  </data>
+  <data name="Internationaldayofolderspersons" xml:space="preserve">
+    <value>国际橄榄球日</value>
+  </data>
+  <data name="Internationaldayofpeace" xml:space="preserve">
+    <value>国际和平日</value>
+  </data>
+  <data name="Internationalnurse'sday#1" xml:space="preserve">
+    <value>国际护士节＃1</value>
+  </data>
+  <data name="Internationalnurse'sday#2" xml:space="preserve">
+    <value>国际护士节＃2</value>
+  </data>
+  <data name="Internationalwomen'sday" xml:space="preserve">
+    <value>国际妇女节</value>
+  </data>
+  <data name="Iran" xml:space="preserve">
+    <value>伊朗</value>
+  </data>
+  <data name="Iraq" xml:space="preserve">
+    <value>伊拉克</value>
+  </data>
+  <data name="Ireland" xml:space="preserve">
+    <value>爱尔兰</value>
+  </data>
+  <data name="IronmanCycling" xml:space="preserve">
+    <value>铁人三项骑自行车</value>
+  </data>
+  <data name="ironmanrunning" xml:space="preserve">
+    <value>铁人三项跑步</value>
+  </data>
+  <data name="ironmanswimming" xml:space="preserve">
+    <value>铁人三项游泳</value>
+  </data>
+  <data name="IrritableBowelSyndrome" xml:space="preserve">
+    <value>过敏性肠综合征</value>
+  </data>
+  <data name="Irritated" xml:space="preserve">
+    <value>恼怒的</value>
+  </data>
+  <data name="Isabiomarkerfoundinblood,urine,orbodytissuesthatcanbeelevatedbythepresenceofoneormoretypesofcancer." xml:space="preserve">
+    <value>在血液，尿液或身体组织中发现的生物标志物可以通过一种或多种癌症的存在而升高。</value>
+  </data>
+  <data name="Isusedtocheckthefunctionofthethyroidgland" xml:space="preserve">
+    <value>用于检查甲状腺的功能</value>
+  </data>
+  <data name="Israel" xml:space="preserve">
+    <value>以色列</value>
+  </data>
+  <data name="Itisadiagnosticprocedureusedtoevaluatelungfunction" xml:space="preserve">
+    <value>它是用于评估肺功能的诊断程序</value>
+  </data>
+  <data name="Itisalarge“sticky”lipoproteinparticlewhichismadeintheliver" xml:space="preserve">
+    <value>它是一种大的“粘性”脂蛋白颗粒，在肝脏中制成</value>
+  </data>
+  <data name="Itisthemaximalflowachievedduringthemaximallyforcedexpiration" xml:space="preserve">
+    <value>它是在最大强制呼气期间达到的最大流量</value>
+  </data>
+  <data name="ItistheratioofFEV1 toFVC" xml:space="preserve">
+    <value>是FEV1与FVC的比率</value>
+  </data>
+  <data name="It'scold" xml:space="preserve">
+    <value>天气很冷</value>
+  </data>
+  <data name="It'snevertooearlyorlatetoworktowardsbeingthehealthiestyou." xml:space="preserve">
+    <value>努力成为最健康的人，永远不会太早或太晚。</value>
+  </data>
+  <data name="Italy" xml:space="preserve">
+    <value>意大利</value>
+  </data>
+  <data name="Itchy" xml:space="preserve">
+    <value>发痒的</value>
+  </data>
+  <data name="Itchy2" xml:space="preserve">
+    <value>发痒的2</value>
+  </data>
+  <data name="Jamaica" xml:space="preserve">
+    <value>牙买加</value>
+  </data>
+  <data name="Japan" xml:space="preserve">
+    <value>日本</value>
+  </data>
+  <data name="Jogginginpark/street" xml:space="preserve">
+    <value>在公园/街道慢跑</value>
+  </data>
+  <data name="Jordan" xml:space="preserve">
+    <value>约旦</value>
+  </data>
+  <data name="Joy" xml:space="preserve">
+    <value>喜悦</value>
+  </data>
+  <data name="Jumpshot,Basketball" xml:space="preserve">
+    <value>跳投，篮球</value>
+  </data>
+  <data name="Kazakhstan" xml:space="preserve">
+    <value>哈萨克斯坦</value>
+  </data>
+  <data name="Keepconnected,stayhealthy" xml:space="preserve">
+    <value>保持联系，保持健康</value>
+  </data>
+  <data name="Keepcool" xml:space="preserve">
+    <value>保持凉爽</value>
+  </data>
+  <data name="KeepNailsTrimmed" xml:space="preserve">
+    <value>保持指甲修剪</value>
+  </data>
+  <data name="Kenya" xml:space="preserve">
+    <value>肯尼亚</value>
+  </data>
+  <data name="Kid" xml:space="preserve">
+    <value>小孩</value>
+  </data>
+  <data name="Kidney" xml:space="preserve">
+    <value>肾脏</value>
+  </data>
+  <data name="KidneyCancer" xml:space="preserve">
+    <value>肾癌</value>
+  </data>
+  <data name="KidneyDisease" xml:space="preserve">
+    <value>肾病</value>
+  </data>
+  <data name="KidneyFunction" xml:space="preserve">
+    <value>肾功能</value>
+  </data>
+  <data name="KidneyStones" xml:space="preserve">
+    <value>肾结石</value>
+  </data>
+  <data name="kidneytransplant" xml:space="preserve">
+    <value>肾移植</value>
+  </data>
+  <data name="Kiribati" xml:space="preserve">
+    <value>基里巴斯</value>
+  </data>
+  <data name="Knee" xml:space="preserve">
+    <value>膝盖</value>
+  </data>
+  <data name="Knownasthe'bad'cholesterol" xml:space="preserve">
+    <value>被称为“坏”的胆固醇</value>
+  </data>
+  <data name="Knownasthe'good'cholesterol" xml:space="preserve">
+    <value>被称为“好”的胆固醇</value>
+  </data>
+  <data name="Korea,North" xml:space="preserve">
+    <value>朝鲜</value>
+  </data>
+  <data name="Korea,South" xml:space="preserve">
+    <value>韩国</value>
+  </data>
+  <data name="Kuwait" xml:space="preserve">
+    <value>科威特</value>
+  </data>
+  <data name="Kyrgyzstan" xml:space="preserve">
+    <value>吉尔吉斯斯坦</value>
+  </data>
+  <data name="Labourday" xml:space="preserve">
+    <value>劳动节</value>
+  </data>
+  <data name="Laos" xml:space="preserve">
+    <value>老挝</value>
+  </data>
+  <data name="Lastdayoftreatment" xml:space="preserve">
+    <value>治疗的最后一天</value>
+  </data>
+  <data name="Latvia" xml:space="preserve">
+    <value>拉脱维亚</value>
+  </data>
+  <data name="Laughing" xml:space="preserve">
+    <value>笑</value>
+  </data>
+  <data name="LDL" xml:space="preserve">
+    <value>LDL</value>
+  </data>
+  <data name="Lebanon" xml:space="preserve">
+    <value>黎巴嫩</value>
+  </data>
+  <data name="LegsSwelling" xml:space="preserve">
+    <value>腿部肿胀</value>
+  </data>
+  <data name="LERCEssential" xml:space="preserve">
+    <value>基本LERC</value>
+  </data>
+  <data name="LERCPremium" xml:space="preserve">
+    <value>優質LERC</value>
+  </data>
+  <data name="Lesotho" xml:space="preserve">
+    <value>莱索托</value>
+  </data>
+  <data name="Leukaemia" xml:space="preserve">
+    <value>白血病</value>
+  </data>
+  <data name="Liberia" xml:space="preserve">
+    <value>利比里亚</value>
+  </data>
+  <data name="Libya" xml:space="preserve">
+    <value>利比亚</value>
+  </data>
+  <data name="Liechtenstein" xml:space="preserve">
+    <value>列支敦斯登</value>
+  </data>
+  <data name="Lipoprotein(a)" xml:space="preserve">
+    <value>脂蛋白（a）</value>
+  </data>
+  <data name="Listeningto(advice)" xml:space="preserve">
+    <value>听从（建议）</value>
+  </data>
+  <data name="Listeningto(music)" xml:space="preserve">
+    <value>听（音乐）</value>
+  </data>
+  <data name="Lithuania" xml:space="preserve">
+    <value>立陶宛</value>
+  </data>
+  <data name="Livelongandprosper" xml:space="preserve">
+    <value>健康长寿且繁荣昌盛</value>
+  </data>
+  <data name="Liver" xml:space="preserve">
+    <value>肝脏</value>
+  </data>
+  <data name="Liver/Ovarycancerantigen" xml:space="preserve">
+    <value>肝/卵巢癌抗原</value>
+  </data>
+  <data name="liverbiopsy" xml:space="preserve">
+    <value>肝脏活组织检查</value>
+  </data>
+  <data name="LiverCancer" xml:space="preserve">
+    <value>肝癌</value>
+  </data>
+  <data name="LiverDiseases" xml:space="preserve">
+    <value>肝病</value>
+  </data>
+  <data name="LiverFunction" xml:space="preserve">
+    <value>肝功能</value>
+  </data>
+  <data name="livertransplant" xml:space="preserve">
+    <value>肝移植</value>
+  </data>
+  <data name="Lol" xml:space="preserve">
+    <value>大声笑</value>
+  </data>
+  <data name="Lol#2" xml:space="preserve">
+    <value>大声笑＃2</value>
+  </data>
+  <data name="Lol#3" xml:space="preserve">
+    <value>大声笑＃3</value>
+  </data>
+  <data name="Lonely" xml:space="preserve">
+    <value>孤独</value>
+  </data>
+  <data name="LooseTeeth" xml:space="preserve">
+    <value>宽松的牙齿</value>
+  </data>
+  <data name="Love" xml:space="preserve">
+    <value>爱</value>
+  </data>
+  <data name="Loveyou" xml:space="preserve">
+    <value>爱你</value>
+  </data>
+  <data name="Lovershug" xml:space="preserve">
+    <value>恋人拥抱</value>
+  </data>
+  <data name="Lowimpactaerobicclass" xml:space="preserve">
+    <value>低冲击有氧类</value>
+  </data>
+  <data name="Lowerbackpain" xml:space="preserve">
+    <value>下腰背痛</value>
+  </data>
+  <data name="Lucky" xml:space="preserve">
+    <value>幸运</value>
+  </data>
+  <data name="LungCancer" xml:space="preserve">
+    <value>肺癌</value>
+  </data>
+  <data name="lungtransplant" xml:space="preserve">
+    <value>肺移植</value>
+  </data>
+  <data name="Luxembourg" xml:space="preserve">
+    <value>卢森堡</value>
+  </data>
+  <data name="LymeDisease" xml:space="preserve">
+    <value>莱姆病</value>
+  </data>
+  <data name="Lymphocyte" xml:space="preserve">
+    <value>淋巴细胞</value>
+  </data>
+  <data name="Lymphoma" xml:space="preserve">
+    <value>淋巴瘤</value>
+  </data>
+  <data name="Macedonia" xml:space="preserve">
+    <value>马其顿</value>
+  </data>
+  <data name="Mad" xml:space="preserve">
+    <value>疯狂</value>
+  </data>
+  <data name="Madagascar" xml:space="preserve">
+    <value>马达加斯加</value>
+  </data>
+  <data name="Maincarbohydrateusedforenergy" xml:space="preserve">
+    <value>碳水化合物主要用于能量</value>
+  </data>
+  <data name="Mainproductofproteinmetabolism" xml:space="preserve">
+    <value>蛋白质代谢的主要产物</value>
+  </data>
+  <data name="Makehealthychoices1" xml:space="preserve">
+    <value>做出健康的选择1</value>
+  </data>
+  <data name="Makehealthychoices2" xml:space="preserve">
+    <value>做出健康的选择2</value>
+  </data>
+  <data name="Malawi" xml:space="preserve">
+    <value>马拉维</value>
+  </data>
+  <data name="Malaysia" xml:space="preserve">
+    <value>马来西亚</value>
+  </data>
+  <data name="Maldives" xml:space="preserve">
+    <value>马尔代夫</value>
+  </data>
+  <data name="Malefriendshug" xml:space="preserve">
+    <value>男性朋友拥抱</value>
+  </data>
+  <data name="Mali" xml:space="preserve">
+    <value>马里</value>
+  </data>
+  <data name="Malta" xml:space="preserve">
+    <value>马耳他</value>
+  </data>
+  <data name="MarfanSyndrome" xml:space="preserve">
+    <value>马凡综合症</value>
+  </data>
+  <data name="MarshallIslands" xml:space="preserve">
+    <value>马绍尔群岛</value>
+  </data>
+  <data name="MaulidurRasul/MawlidAl-Nabi" xml:space="preserve">
+    <value>Maulidur Ra​​sul / Mawlid Al-Nabi</value>
+  </data>
+  <data name="Mauritania" xml:space="preserve">
+    <value>毛里塔尼亚</value>
+  </data>
+  <data name="Mauritius" xml:space="preserve">
+    <value>毛里求斯</value>
+  </data>
+  <data name="MCH" xml:space="preserve">
+    <value>MCH</value>
+  </data>
+  <data name="MCHC" xml:space="preserve">
+    <value>MCHC</value>
+  </data>
+  <data name="MCV" xml:space="preserve">
+    <value>MCV</value>
+  </data>
+  <data name="measurementaroundtheneck" xml:space="preserve">
+    <value>围绕在脖子上测量</value>
+  </data>
+  <data name="measurementaroundthewaist" xml:space="preserve">
+    <value>围绕在腰部测量</value>
+  </data>
+  <data name="Measurements" xml:space="preserve">
+    <value>测量</value>
+  </data>
+  <data name="Measurementsofcertainareas" xml:space="preserve">
+    <value>某些区域的测量</value>
+  </data>
+  <data name="Measurestheavailable,unboundamountofthyroxineinthebloodstream" xml:space="preserve">
+    <value>测量血液中可用的、未结合的甲状腺素量</value>
+  </data>
+  <data name="Measuresthetotalamountofthyroxinecirculatinginthebloodstream" xml:space="preserve">
+    <value>测量血液中循环的甲状腺素总量</value>
+  </data>
+  <data name="Measurestotalamountoftriiodothyroninecirculatinginbloodstream" xml:space="preserve">
+    <value>测量血液中循环的三碘甲腺原氨酸的总量</value>
+  </data>
+  <data name="Medication:bandaids" xml:space="preserve">
+    <value>药物治疗：绷带</value>
+  </data>
+  <data name="Medication:IV" xml:space="preserve">
+    <value>药物治疗：IV</value>
+  </data>
+  <data name="Medication:pills" xml:space="preserve">
+    <value>药物治疗：药丸</value>
+  </data>
+  <data name="Medication:syrups" xml:space="preserve">
+    <value>药物治疗：糖浆</value>
+  </data>
+  <data name="Medication:vaccines" xml:space="preserve">
+    <value>药物治疗：疫苗</value>
+  </data>
+  <data name="MedicentresConciergeService" xml:space="preserve">
+    <value>医疗中心礼宾服务</value>
+  </data>
+  <data name="MedicentresEssential" xml:space="preserve">
+    <value>基本Medicentres</value>
+  </data>
+  <data name="MedicentresPremium" xml:space="preserve">
+    <value>優質Medicentres</value>
+  </data>
+  <data name="Meditation" xml:space="preserve">
+    <value>冥想</value>
+  </data>
+  <data name="Meeting(Someone)" xml:space="preserve">
+    <value>遇见（某人）</value>
+  </data>
+  <data name="Melanoma/Skincancerpreventionmonth1" xml:space="preserve">
+    <value>黑色素瘤/皮肤癌预防月1</value>
+  </data>
+  <data name="Melanoma/Skincancerpreventionmonth2" xml:space="preserve">
+    <value>黑色素瘤/皮肤癌预防月2</value>
+  </data>
+  <data name="Meningitis" xml:space="preserve">
+    <value>脑膜炎</value>
+  </data>
+  <data name="Mexico" xml:space="preserve">
+    <value>墨西哥</value>
+  </data>
+  <data name="Micronesia" xml:space="preserve">
+    <value>密克罗尼西亚</value>
+  </data>
+  <data name="Missing2" xml:space="preserve">
+    <value>错过2</value>
+  </data>
+  <data name="MissingYouToo" xml:space="preserve">
+    <value>想念你</value>
+  </data>
+  <data name="Moldova" xml:space="preserve">
+    <value>摩尔多瓦</value>
+  </data>
+  <data name="Monaco" xml:space="preserve">
+    <value>摩纳哥</value>
+  </data>
+  <data name="Mongolia" xml:space="preserve">
+    <value>蒙古</value>
+  </data>
+  <data name="Monocyte" xml:space="preserve">
+    <value>单核细胞</value>
+  </data>
+  <data name="Montenegro" xml:space="preserve">
+    <value>黑山共和国</value>
+  </data>
+  <data name="Morocco" xml:space="preserve">
+    <value>摩洛哥</value>
+  </data>
+  <data name="Mother'sDay#1" xml:space="preserve">
+    <value>母亲节＃1</value>
+  </data>
+  <data name="Mother'sDay#2" xml:space="preserve">
+    <value>母亲节＃2</value>
+  </data>
+  <data name="Mother'sDay#3" xml:space="preserve">
+    <value>母亲节＃3</value>
+  </data>
+  <data name="Mother'sDay#4" xml:space="preserve">
+    <value>母亲节＃4</value>
+  </data>
+  <data name="Mother'sDay#5" xml:space="preserve">
+    <value>母亲节＃5</value>
+  </data>
+  <data name="Mother'sDay#6" xml:space="preserve">
+    <value>母亲节＃6</value>
+  </data>
+  <data name="Motivated" xml:space="preserve">
+    <value>启发</value>
+  </data>
+  <data name="MotorNeuronDisease" xml:space="preserve">
+    <value>运动神经元病</value>
+  </data>
+  <data name="MotorizedWheelchair" xml:space="preserve">
+    <value>电动轮椅</value>
+  </data>
+  <data name="Mountainclimbing" xml:space="preserve">
+    <value>登山</value>
+  </data>
+  <data name="MovingAbroad" xml:space="preserve">
+    <value>移居国外</value>
+  </data>
+  <data name="Mozambique" xml:space="preserve">
+    <value>莫桑比克</value>
+  </data>
+  <data name="MRIcompleted" xml:space="preserve">
+    <value> 核磁共振成像完成</value>
+  </data>
+  <data name="Mumkidhug" xml:space="preserve">
+    <value>妈妈和孩子拥抱</value>
+  </data>
+  <data name="Musclecramp" xml:space="preserve">
+    <value>肌肉痉挛</value>
+  </data>
+  <data name="Muscular" xml:space="preserve">
+    <value>肌肉发达</value>
+  </data>
+  <data name="Musictherapy" xml:space="preserve">
+    <value>音乐疗法</value>
+  </data>
+  <data name="MyRocks" xml:space="preserve">
+    <value>我的好友</value>
+  </data>
+  <data name="Myeloma" xml:space="preserve">
+    <value>骨髓瘤</value>
+  </data>
+  <data name="Namibia" xml:space="preserve">
+    <value>纳米比亚</value>
+  </data>
+  <data name="Nationalcholesteroleducationmonth" xml:space="preserve">
+    <value>全国胆固醇教育月</value>
+  </data>
+  <data name="Nauru" xml:space="preserve">
+    <value>瑙鲁</value>
+  </data>
+  <data name="NeckCircumference" xml:space="preserve">
+    <value>颈部周长</value>
+  </data>
+  <data name="Needaride?" xml:space="preserve">
+    <value>需要搭便车？</value>
+  </data>
+  <data name="Nepal" xml:space="preserve">
+    <value>尼泊尔</value>
+  </data>
+  <data name="Nervous" xml:space="preserve">
+    <value>紧张</value>
+  </data>
+  <data name="Netherlands" xml:space="preserve">
+    <value>荷兰</value>
+  </data>
+  <data name="Neurofibromatosis,Type1" xml:space="preserve">
+    <value>神经纤维瘤病，1型</value>
+  </data>
+  <data name="Neurofibromatosis,Type2" xml:space="preserve">
+    <value>神经纤维瘤病，2型</value>
+  </data>
+  <data name="NeurologicalDisorders" xml:space="preserve">
+    <value>神经系统疾病</value>
+  </data>
+  <data name="Neutrophil" xml:space="preserve">
+    <value>中性粒细胞</value>
+  </data>
+  <data name="NewZealand" xml:space="preserve">
+    <value>新西兰</value>
+  </data>
+  <data name="Nicaragua" xml:space="preserve">
+    <value>尼加拉瓜</value>
+  </data>
+  <data name="Niger" xml:space="preserve">
+    <value>尼日尔</value>
+  </data>
+  <data name="Nigeria" xml:space="preserve">
+    <value>尼日利亚</value>
+  </data>
+  <data name="Nightshift?hangon!(F)" xml:space="preserve">
+    <value>夜班？不要挂断！ （女）</value>
+  </data>
+  <data name="Nightmare" xml:space="preserve">
+    <value>恶梦</value>
+  </data>
+  <data name="NoAppetite" xml:space="preserve">
+    <value>没有胃口</value>
+  </data>
+  <data name="Nocycling" xml:space="preserve">
+    <value>没骑自行车</value>
+  </data>
+  <data name="Nosmoking" xml:space="preserve">
+    <value>禁止抽烟</value>
+  </data>
+  <data name="Nontissuespecificcancerantigen-lungs,GItract" xml:space="preserve">
+    <value>非组织特异性癌抗原 - 肺，胃肠道</value>
+  </data>
+  <data name="Norway" xml:space="preserve">
+    <value>挪威</value>
+  </data>
+  <data name="Notavailable" xml:space="preserve">
+    <value>无法使用</value>
+  </data>
+  <data name="NotsurehowIdidonmyexam" xml:space="preserve">
+    <value>不确定我在考试中的表现如何</value>
+  </data>
+  <data name="NOYB" xml:space="preserve">
+    <value>NOYB</value>
+  </data>
+  <data name="numberofbreathsonetakeswithingaperiodoftime" xml:space="preserve">
+    <value>一段时间内需要的呼吸次数</value>
+  </data>
+  <data name="numberoftimestheheartbeatswithinaperiodoftime" xml:space="preserve">
+    <value>心脏在一段时间内跳动的次数</value>
+  </data>
+  <data name="nurse(F)" xml:space="preserve">
+    <value>护士（F）</value>
+  </data>
+  <data name="nurse(M)" xml:space="preserve">
+    <value>护士（M）</value>
+  </data>
+  <data name="Nurses" xml:space="preserve">
+    <value>护士</value>
+  </data>
+  <data name="Nursesareangels(F)" xml:space="preserve">
+    <value>护士是天使（女）</value>
+  </data>
+  <data name="Nursesareangels(M)" xml:space="preserve">
+    <value>护士是天使（男）</value>
+  </data>
+  <data name="Obesity" xml:space="preserve">
+    <value>肥胖症</value>
+  </data>
+  <data name="OfftoA&amp;E" xml:space="preserve">
+    <value>去A＆E</value>
+  </data>
+  <data name="Offtoct-scan" xml:space="preserve">
+    <value>关闭ct-scan（ct扫描）</value>
+  </data>
+  <data name="OfftoMRI" xml:space="preserve">
+    <value>关闭核磁共振成像</value>
+  </data>
+  <data name="Offtomydailyankleexercise(f)" xml:space="preserve">
+    <value>去做我的日常踝关节运动（女）</value>
+  </data>
+  <data name="Offtomydailyankleexercise(m)" xml:space="preserve">
+    <value>去做我的日常踝关节运动（男）</value>
+  </data>
+  <data name="Offtomydailyarmexercise(f)" xml:space="preserve">
+    <value>去做我的日常手臂锻炼（女）</value>
+  </data>
+  <data name="Offtomydailyarmexercise(m)" xml:space="preserve">
+    <value>去做我的日常手臂锻炼（男）</value>
+  </data>
+  <data name="Offtomydailybackexercise(f)" xml:space="preserve">
+    <value>去做我的日常背部锻炼（女）</value>
+  </data>
+  <data name="Offtomydailybackexercise(m)" xml:space="preserve">
+    <value>去做我的日常背部锻炼（男）</value>
+  </data>
+  <data name="Offtomydailycoreexercise(F)" xml:space="preserve">
+    <value>去做我的日常核心练习（女）</value>
+  </data>
+  <data name="Offtomydailyexercise(f)" xml:space="preserve">
+    <value>我每天的运动（f）</value>
+  </data>
+  <data name="Offtomydailyexercise(m)" xml:space="preserve">
+    <value>去做我的日常锻炼（男）</value>
+  </data>
+  <data name="Offtomydailyhandexercise(m)" xml:space="preserve">
+    <value>去做我的日常手部锻炼（男）</value>
+  </data>
+  <data name="Offtomydailyhipexercise(f)" xml:space="preserve">
+    <value>去做我的日常髋关节运动（女）</value>
+  </data>
+  <data name="Offtomydailyhipexercise(m)" xml:space="preserve">
+    <value>去做我的日常臀部锻炼（男）</value>
+  </data>
+  <data name="Offtomydailykneeexercise(m)" xml:space="preserve">
+    <value>去做我的日常膝盖运动（男）</value>
+  </data>
+  <data name="Offtomydailyneckexercise(f)" xml:space="preserve">
+    <value>去做我的日常颈部运动（女）</value>
+  </data>
+  <data name="Offtomydailyneckexercise(m)" xml:space="preserve">
+    <value>去做我的日常颈部运动（男）</value>
+  </data>
+  <data name="Offtomydailyshoulderexercise(f)" xml:space="preserve">
+    <value>去做我的日常肩部运动（女）</value>
+  </data>
+  <data name="Offtomydailyshoulderexercise(m)" xml:space="preserve">
+    <value>去做我的日常肩部运动（男）</value>
+  </data>
+  <data name="Offtomydailywristexercise(F)" xml:space="preserve">
+    <value>去做我的日常手腕锻炼（女）</value>
+  </data>
+  <data name="Offtomydailywristexercise(m)" xml:space="preserve">
+    <value>去做我的日常手腕锻炼（男）</value>
+  </data>
+  <data name="Offtomysupportgroup" xml:space="preserve">
+    <value>去我的支持小组</value>
+  </data>
+  <data name="Offtomysupportgroup:alcoholabuse" xml:space="preserve">
+    <value>去我的支持小组：酒精滥用</value>
+  </data>
+  <data name="Offtomysupportgroup:children" xml:space="preserve">
+    <value>去我的支持小组：孩子</value>
+  </data>
+  <data name="Offtothebar" xml:space="preserve">
+    <value>去酒吧</value>
+  </data>
+  <data name="Offtoultrasound:thyroid" xml:space="preserve">
+    <value>去超声波：甲状腺</value>
+  </data>
+  <data name="Offtoultrasoundspregnancy" xml:space="preserve">
+    <value>去超声波怀孕</value>
+  </data>
+  <data name="Offtox-ray" xml:space="preserve">
+    <value>去X射线</value>
+  </data>
+  <data name="Offside,Soccer" xml:space="preserve">
+    <value>越位，足球</value>
+  </data>
+  <data name="Ok?" xml:space="preserve">
+    <value>好？</value>
+  </data>
+  <data name="Oman" xml:space="preserve">
+    <value>阿曼</value>
+  </data>
+  <data name="Omg" xml:space="preserve">
+    <value>我的天啊</value>
+  </data>
+  <data name="Ontheotherhand" xml:space="preserve">
+    <value>另一方面</value>
+  </data>
+  <data name="Oneofthe5componentofWBC" xml:space="preserve">
+    <value>WBC的5个组成部分之一</value>
+  </data>
+  <data name="Oneoftheantibodythatfightsinfection" xml:space="preserve">
+    <value>抗感染的抗体之一</value>
+  </data>
+  <data name="Osteoporosis" xml:space="preserve">
+    <value>骨质疏松症</value>
+  </data>
+  <data name="OtherTest" xml:space="preserve">
+    <value>其他测试</value>
+  </data>
+  <data name="OtherTests" xml:space="preserve">
+    <value>其他测试</value>
+  </data>
+  <data name="Outdoorsports" xml:space="preserve">
+    <value>户外运动</value>
+  </data>
+  <data name="OvarianCancer" xml:space="preserve">
+    <value>卵巢癌</value>
+  </data>
+  <data name="OveractiveBladder" xml:space="preserve">
+    <value>过度活跃的膀胱</value>
+  </data>
+  <data name="OxygenSaturation" xml:space="preserve">
+    <value>血氧饱和度</value>
+  </data>
+  <data name="Pain" xml:space="preserve">
+    <value>疼痛</value>
+  </data>
+  <data name="PainScale" xml:space="preserve">
+    <value>疼痛分级</value>
+  </data>
+  <data name="Painwithchewingandbiting" xml:space="preserve">
+    <value>咀嚼和咬的痛楚</value>
+  </data>
+  <data name="Pakistan" xml:space="preserve">
+    <value>巴基斯坦</value>
+  </data>
+  <data name="Palau" xml:space="preserve">
+    <value>帕劳群岛</value>
+  </data>
+  <data name="Panama" xml:space="preserve">
+    <value>巴拿马</value>
+  </data>
+  <data name="PancreaticCancer" xml:space="preserve">
+    <value>胰腺癌</value>
+  </data>
+  <data name="Paperwork(F)" xml:space="preserve">
+    <value>文书工作（女）</value>
+  </data>
+  <data name="Paperwork(M)" xml:space="preserve">
+    <value>文书工作（男）</value>
+  </data>
+  <data name="PapuaNewGuinea" xml:space="preserve">
+    <value>巴布亚新几内亚</value>
+  </data>
+  <data name="Paragliding" xml:space="preserve">
+    <value>滑翔伞</value>
+  </data>
+  <data name="Paraguay" xml:space="preserve">
+    <value>巴拉圭</value>
+  </data>
+  <data name="Parameterstrackedduringhospitalization" xml:space="preserve">
+    <value>住院期间追踪的参数</value>
+  </data>
+  <data name="PardonMe" xml:space="preserve">
+    <value>请原谅我</value>
+  </data>
+  <data name="Parkinson'sDisease" xml:space="preserve">
+    <value>帕金森病</value>
+  </data>
+  <data name="Passed" xml:space="preserve">
+    <value>通过</value>
+  </data>
+  <data name="Passover" xml:space="preserve">
+    <value>逾越节</value>
+  </data>
+  <data name="PeaceSign" xml:space="preserve">
+    <value>和平标志</value>
+  </data>
+  <data name="PEFR" xml:space="preserve">
+    <value>PEFR</value>
+  </data>
+  <data name="Penalty" xml:space="preserve">
+    <value>罚款</value>
+  </data>
+  <data name="Peru" xml:space="preserve">
+    <value>秘鲁</value>
+  </data>
+  <data name="Philippines" xml:space="preserve">
+    <value>菲律宾</value>
+  </data>
+  <data name="Phosphate" xml:space="preserve">
+    <value>磷酸盐</value>
+  </data>
+  <data name="Physicaltherapy" xml:space="preserve">
+    <value>物理疗法</value>
+  </data>
+  <data name="Pickingupyourmedication" xml:space="preserve">
+    <value>拿起你的药物</value>
+  </data>
+  <data name="Pinching" xml:space="preserve">
+    <value>捏着</value>
+  </data>
+  <data name="Pissedoff" xml:space="preserve">
+    <value>惹恼了</value>
+  </data>
+  <data name="Platelets" xml:space="preserve">
+    <value>血小板</value>
+  </data>
+  <data name="Playing" xml:space="preserve">
+    <value>播放</value>
+  </data>
+  <data name="Please" xml:space="preserve">
+    <value>请</value>
+  </data>
+  <data name="Pneumonia" xml:space="preserve">
+    <value>肺炎</value>
+  </data>
+  <data name="Poland" xml:space="preserve">
+    <value>波兰</value>
+  </data>
+  <data name="Portugal" xml:space="preserve">
+    <value>葡萄牙</value>
+  </data>
+  <data name="Potassium" xml:space="preserve">
+    <value>钾</value>
+  </data>
+  <data name="Pray" xml:space="preserve">
+    <value>祈祷</value>
+  </data>
+  <data name="PRC" xml:space="preserve">
+    <value>中华人民共和国</value>
+  </data>
+  <data name="Prediabetes" xml:space="preserve">
+    <value>糖尿病前期</value>
+  </data>
+  <data name="pregnant" xml:space="preserve">
+    <value>怀孕</value>
+  </data>
+  <data name="PremiumConciergeService" xml:space="preserve">
+    <value>高级礼宾服务</value>
+  </data>
+  <data name="Probingcane" xml:space="preserve">
+    <value>探测手杖</value>
+  </data>
+  <data name="ProstateCancer" xml:space="preserve">
+    <value>前列腺癌</value>
+  </data>
+  <data name="Prostatecancermonth" xml:space="preserve">
+    <value>前列腺癌月</value>
+  </data>
+  <data name="ProstateSpecificAntigen(PSA)" xml:space="preserve">
+    <value>前列腺特异性抗原（PSA）</value>
+  </data>
+  <data name="Prostatitis" xml:space="preserve">
+    <value>前列腺炎</value>
+  </data>
+  <data name="ProstheticArm" xml:space="preserve">
+    <value>假肢</value>
+  </data>
+  <data name="ProtectagainstUV(tennis)" xml:space="preserve">
+    <value>防紫外线（网球）</value>
+  </data>
+  <data name="Proud" xml:space="preserve">
+    <value>骄傲</value>
+  </data>
+  <data name="PuffyFace&amp;EnlargedTongue" xml:space="preserve">
+    <value>面部浮肿及舌肿大</value>
+  </data>
+  <data name="PullingtheShirt" xml:space="preserve">
+    <value>拉衬衫</value>
+  </data>
+  <data name="Qatar" xml:space="preserve">
+    <value>卡塔尔</value>
+  </data>
+  <data name="Radiotherapy" xml:space="preserve">
+    <value>放射治疗</value>
+  </data>
+  <data name="Ranintoadownpour" xml:space="preserve">
+    <value>跑进一场倾盆大雨</value>
+  </data>
+  <data name="RapidPulse" xml:space="preserve">
+    <value>脉速</value>
+  </data>
+  <data name="Rash" xml:space="preserve">
+    <value>皮疹</value>
+  </data>
+  <data name="RBC" xml:space="preserve">
+    <value>RBC</value>
+  </data>
+  <data name="RDW" xml:space="preserve">
+    <value>RDW</value>
+  </data>
+  <data name="Reading" xml:space="preserve">
+    <value>读</value>
+  </data>
+  <data name="RedCard,Soccer" xml:space="preserve">
+    <value>红牌，足球</value>
+  </data>
+  <data name="Rehab(walking)" xml:space="preserve">
+    <value>康复（步行）</value>
+  </data>
+  <data name="RehabTreatment" xml:space="preserve">
+    <value>康复治疗</value>
+  </data>
+  <data name="Relaxed" xml:space="preserve">
+    <value>轻松</value>
+  </data>
+  <data name="Relieved" xml:space="preserve">
+    <value>安心</value>
+  </data>
+  <data name="Remember" xml:space="preserve">
+    <value>记得</value>
+  </data>
+  <data name="Remembertoeat(F)" xml:space="preserve">
+    <value>记得吃饭（女）</value>
+  </data>
+  <data name="Remembertoeat(M)" xml:space="preserve">
+    <value>记得吃饭（男）</value>
+  </data>
+  <data name="Remembering" xml:space="preserve">
+    <value>记住</value>
+  </data>
+  <data name="Remorse" xml:space="preserve">
+    <value>悔过</value>
+  </data>
+  <data name="Remorseful" xml:space="preserve">
+    <value>懊</value>
+  </data>
+  <data name="Reportcard:fail" xml:space="preserve">
+    <value>成绩单：失败</value>
+  </data>
+  <data name="Reportcard:pass" xml:space="preserve">
+    <value>成绩单：通过</value>
+  </data>
+  <data name="RespiratoryRate" xml:space="preserve">
+    <value>呼吸频率</value>
+  </data>
+  <data name="Restwell" xml:space="preserve">
+    <value>好好休息</value>
+  </data>
+  <data name="RetinalDetachment" xml:space="preserve">
+    <value>视网膜脱落</value>
+  </data>
+  <data name="Returningback" xml:space="preserve">
+    <value>回来了</value>
+  </data>
+  <data name="RheumatoidFactor" xml:space="preserve">
+    <value>类风湿因子</value>
+  </data>
+  <data name="ROFL" xml:space="preserve">
+    <value>ROFL</value>
+  </data>
+  <data name="Rolleyes" xml:space="preserve">
+    <value>翻白眼</value>
+  </data>
+  <data name="Rollerskating(Adult)" xml:space="preserve">
+    <value>轮滑（成人）</value>
+  </data>
+  <data name="RollerskatingChild" xml:space="preserve">
+    <value>轮滑儿童</value>
+  </data>
+  <data name="Romania" xml:space="preserve">
+    <value>罗马尼亚</value>
+  </data>
+  <data name="Rootcanal" xml:space="preserve">
+    <value>牙根</value>
+  </data>
+  <data name="Rowing" xml:space="preserve">
+    <value>划船</value>
+  </data>
+  <data name="RSVP" xml:space="preserve">
+    <value>请回复</value>
+  </data>
+  <data name="Runningoutside" xml:space="preserve">
+    <value>跑到外面</value>
+  </data>
+  <data name="Russia" xml:space="preserve">
+    <value>俄罗斯</value>
+  </data>
+  <data name="Rwanda" xml:space="preserve">
+    <value>卢旺达</value>
+  </data>
+  <data name="Sad" xml:space="preserve">
+    <value>悲伤</value>
+  </data>
+  <data name="Sailing" xml:space="preserve">
+    <value>帆船</value>
+  </data>
+  <data name="Samoa" xml:space="preserve">
+    <value>萨摩亚</value>
+  </data>
+  <data name="SanMarino" xml:space="preserve">
+    <value>圣马力诺</value>
+  </data>
+  <data name="SaudiArabia" xml:space="preserve">
+    <value>沙特阿拉伯</value>
+  </data>
+  <data name="Scared" xml:space="preserve">
+    <value>害怕</value>
+  </data>
+  <data name="School" xml:space="preserve">
+    <value>学校</value>
+  </data>
+  <data name="SchoolSucks!" xml:space="preserve">
+    <value>学校糟透了！</value>
+  </data>
+  <data name="Scoliosis" xml:space="preserve">
+    <value>脊柱侧弯</value>
+  </data>
+  <data name="Seeaneyedoctor" xml:space="preserve">
+    <value>看看眼科医生</value>
+  </data>
+  <data name="Seeyou" xml:space="preserve">
+    <value>再见</value>
+  </data>
+  <data name="Seizures/Epilepsy" xml:space="preserve">
+    <value>痉挛/癫痫</value>
+  </data>
+  <data name="Sendkisses" xml:space="preserve">
+    <value>送吻</value>
+  </data>
+  <data name="Senegal" xml:space="preserve">
+    <value>塞内加尔</value>
+  </data>
+  <data name="Serbia" xml:space="preserve">
+    <value>塞尔维亚</value>
+  </data>
+  <data name="Seychelles" xml:space="preserve">
+    <value>塞舌尔</value>
+  </data>
+  <data name="SGOT/AST" xml:space="preserve">
+    <value>SGOT/ AST</value>
+  </data>
+  <data name="SGPT/ALT" xml:space="preserve">
+    <value>SGPT/ ALT</value>
+  </data>
+  <data name="Shadowboxing" xml:space="preserve">
+    <value>太极拳</value>
+  </data>
+  <data name="Shakingchills" xml:space="preserve">
+    <value>颤抖着发冷</value>
+  </data>
+  <data name="She'scute!" xml:space="preserve">
+    <value>她很可爱！</value>
+  </data>
+  <data name="Shivering" xml:space="preserve">
+    <value>战栗</value>
+  </data>
+  <data name="Shocked" xml:space="preserve">
+    <value>吃惊</value>
+  </data>
+  <data name="Shoppingforyouforasurprise" xml:space="preserve">
+    <value>为你购买惊喜</value>
+  </data>
+  <data name="Shoulderache" xml:space="preserve">
+    <value>肩膀疼痛</value>
+  </data>
+  <data name="Shove!" xml:space="preserve">
+    <value>推！</value>
+  </data>
+  <data name="Showering" xml:space="preserve">
+    <value>洗澡</value>
+  </data>
+  <data name="SierraLeone" xml:space="preserve">
+    <value>塞拉利昂</value>
+  </data>
+  <data name="Silly" xml:space="preserve">
+    <value>愚蠢</value>
+  </data>
+  <data name="Singapore" xml:space="preserve">
+    <value>新加坡</value>
+  </data>
+  <data name="Singaporeindependenceday" xml:space="preserve">
+    <value>新加坡独立日</value>
+  </data>
+  <data name="Singing" xml:space="preserve">
+    <value>唱歌</value>
+  </data>
+  <data name="Skateboarding" xml:space="preserve">
+    <value>滑板运动</value>
+  </data>
+  <data name="Skin" xml:space="preserve">
+    <value>皮肤</value>
+  </data>
+  <data name="SkinCancer" xml:space="preserve">
+    <value>皮肤癌</value>
+  </data>
+  <data name="Skippingrope" xml:space="preserve">
+    <value>跳绳</value>
+  </data>
+  <data name="Skydiving" xml:space="preserve">
+    <value>跳伞</value>
+  </data>
+  <data name="Sleepawarenessmonth#1" xml:space="preserve">
+    <value>睡眠意识月＃1</value>
+  </data>
+  <data name="Sleepawarenessmonth#2" xml:space="preserve">
+    <value>睡眠意识月＃2</value>
+  </data>
+  <data name="Sleeping" xml:space="preserve">
+    <value>睡眠</value>
+  </data>
+  <data name="SlippedDisc" xml:space="preserve">
+    <value>椎间盘突出</value>
+  </data>
+  <data name="Slovakia" xml:space="preserve">
+    <value>斯洛伐克</value>
+  </data>
+  <data name="Slovenia" xml:space="preserve">
+    <value>斯洛文尼亚</value>
+  </data>
+  <data name="Smile" xml:space="preserve">
+    <value>微笑</value>
+  </data>
+  <data name="Sneeze" xml:space="preserve">
+    <value>喷嚏</value>
+  </data>
+  <data name="Sniffles" xml:space="preserve">
+    <value>抽噎</value>
+  </data>
+  <data name="Snorkelling" xml:space="preserve">
+    <value>浮潜</value>
+  </data>
+  <data name="Snowskiing" xml:space="preserve">
+    <value>滑雪</value>
+  </data>
+  <data name="Snowboarding" xml:space="preserve">
+    <value>单板滑雪</value>
+  </data>
+  <data name="SoSorry" xml:space="preserve">
+    <value>非常抱歉</value>
+  </data>
+  <data name="SoccerDiving" xml:space="preserve">
+    <value>足球切球</value>
+  </data>
+  <data name="Soccerdribbling" xml:space="preserve">
+    <value>足球运球</value>
+  </data>
+  <data name="Soccerrunning" xml:space="preserve">
+    <value>足球跑动</value>
+  </data>
+  <data name="Sodium" xml:space="preserve">
+    <value>钠</value>
+  </data>
+  <data name="SolomonIslands" xml:space="preserve">
+    <value>所罗门群岛</value>
+  </data>
+  <data name="Somalia" xml:space="preserve">
+    <value>索马里</value>
+  </data>
+  <data name="SoothingAloevera" xml:space="preserve">
+    <value>舒缓芦荟</value>
+  </data>
+  <data name="Sorethroat" xml:space="preserve">
+    <value>喉咙痛</value>
+  </data>
+  <data name="Sorrow" xml:space="preserve">
+    <value>悲哀</value>
+  </data>
+  <data name="Sorry" xml:space="preserve">
+    <value>抱歉</value>
+  </data>
+  <data name="SouthAfrica" xml:space="preserve">
+    <value>南非</value>
+  </data>
+  <data name="SouthSudan" xml:space="preserve">
+    <value>南苏丹</value>
+  </data>
+  <data name="Spain" xml:space="preserve">
+    <value>西班牙</value>
+  </data>
+  <data name="SpecialDay" xml:space="preserve">
+    <value>特殊日子</value>
+  </data>
+  <data name="Speechless" xml:space="preserve">
+    <value>说不出话来</value>
+  </data>
+  <data name="Spinball,Basketball" xml:space="preserve">
+    <value>旋转球，篮球</value>
+  </data>
+  <data name="Spine" xml:space="preserve">
+    <value>脊柱</value>
+  </data>
+  <data name="Spirometry" xml:space="preserve">
+    <value>肺功能测定</value>
+  </data>
+  <data name="SpO2" xml:space="preserve">
+    <value>血氧饱和度</value>
+  </data>
+  <data name="Spousehugging" xml:space="preserve">
+    <value>配偶拥抱</value>
+  </data>
+  <data name="SriLanka" xml:space="preserve">
+    <value>斯里兰卡</value>
+  </data>
+  <data name="St.KittsandNevis" xml:space="preserve">
+    <value>圣基茨和尼维斯</value>
+  </data>
+  <data name="St.Lucia" xml:space="preserve">
+    <value>圣卢西亚</value>
+  </data>
+  <data name="St.VincentandtheGrenadines" xml:space="preserve">
+    <value>圣文森特和格林纳丁斯</value>
+  </data>
+  <data name="Startofworkout(f)" xml:space="preserve">
+    <value>开始锻炼（女）</value>
+  </data>
+  <data name="Startofworkout(m)" xml:space="preserve">
+    <value>开始锻炼（男）</value>
+  </data>
+  <data name="Stomachache" xml:space="preserve">
+    <value>腹痛</value>
+  </data>
+  <data name="Strength" xml:space="preserve">
+    <value>力量</value>
+  </data>
+  <data name="StressIncontinence" xml:space="preserve">
+    <value>压力性尿失禁</value>
+  </data>
+  <data name="Stretch" xml:space="preserve">
+    <value>伸展</value>
+  </data>
+  <data name="Stretching" xml:space="preserve">
+    <value>拉伸</value>
+  </data>
+  <data name="Stroke" xml:space="preserve">
+    <value>中风</value>
+  </data>
+  <data name="Studentteacherhug" xml:space="preserve">
+    <value>学生老师拥抱</value>
+  </data>
+  <data name="Studyinghard!" xml:space="preserve">
+    <value>用功读书！</value>
+  </data>
+  <data name="Stuffynose" xml:space="preserve">
+    <value>鼻塞</value>
+  </data>
+  <data name="Submission" xml:space="preserve">
+    <value>服从</value>
+  </data>
+  <data name="Sudan" xml:space="preserve">
+    <value>苏丹</value>
+  </data>
+  <data name="SugarCubes" xml:space="preserve">
+    <value>方糖</value>
+  </data>
+  <data name="Sugaristheenemy" xml:space="preserve">
+    <value>糖是敌人</value>
+  </data>
+  <data name="Sunscreen" xml:space="preserve">
+    <value>防晒霜</value>
+  </data>
+  <data name="Supporters" xml:space="preserve">
+    <value>支持者</value>
+  </data>
+  <data name="Surfing" xml:space="preserve">
+    <value>冲浪</value>
+  </data>
+  <data name="Surgery" xml:space="preserve">
+    <value>手术</value>
+  </data>
+  <data name="Suriname" xml:space="preserve">
+    <value>苏里南</value>
+  </data>
+  <data name="Surprise" xml:space="preserve">
+    <value>惊喜</value>
+  </data>
+  <data name="Surprises" xml:space="preserve">
+    <value>惊喜</value>
+  </data>
+  <data name="Swaziland" xml:space="preserve">
+    <value>斯威士兰</value>
+  </data>
+  <data name="Sweden" xml:space="preserve">
+    <value>瑞典</value>
+  </data>
+  <data name="Swim" xml:space="preserve">
+    <value>游泳</value>
+  </data>
+  <data name="Switzerland" xml:space="preserve">
+    <value>瑞士</value>
+  </data>
+  <data name="Symptom" xml:space="preserve">
+    <value>症状</value>
+  </data>
+  <data name="Syria" xml:space="preserve">
+    <value>叙利亚</value>
+  </data>
+  <data name="Systolic" xml:space="preserve">
+    <value>心脏收缩</value>
+  </data>
+  <data name="SãoToméandPríncipe" xml:space="preserve">
+    <value>圣多美和普林西比</value>
+  </data>
+  <data name="T3" xml:space="preserve">
+    <value>T3</value>
+  </data>
+  <data name="Taiwan-R.o.C." xml:space="preserve">
+    <value>台湾 - R.o.C.</value>
+  </data>
+  <data name="Tajikistan" xml:space="preserve">
+    <value>塔吉克斯坦</value>
+  </data>
+  <data name="Takingbloodpressure" xml:space="preserve">
+    <value>测量血压</value>
+  </data>
+  <data name="Takinginsulinshot" xml:space="preserve">
+    <value>使用胰岛素注射</value>
+  </data>
+  <data name="Takinginsulinshotkid" xml:space="preserve">
+    <value>测量服用胰岛的孩子</value>
+  </data>
+  <data name="Takingpills" xml:space="preserve">
+    <value>吃药</value>
+  </data>
+  <data name="TalipesEquinovarus(Clubfoot)" xml:space="preserve">
+    <value>Talipes Equinovarus（马蹄足）</value>
+  </data>
+  <data name="Tanzania" xml:space="preserve">
+    <value>坦桑尼亚</value>
+  </data>
+  <data name="Taxi!" xml:space="preserve">
+    <value>出租车!</value>
+  </data>
+  <data name="TeamSports" xml:space="preserve">
+    <value>团队竞技</value>
+  </data>
+  <data name="Teary" xml:space="preserve">
+    <value>流泪</value>
+  </data>
+  <data name="Temperature" xml:space="preserve">
+    <value>温度</value>
+  </data>
+  <data name="temperatureofthebody" xml:space="preserve">
+    <value>身体的温度</value>
+  </data>
+  <data name="Tennis" xml:space="preserve">
+    <value>网球</value>
+  </data>
+  <data name="TestCompleted(BloodTest)" xml:space="preserve">
+    <value>测试完成（血液测试）</value>
+  </data>
+  <data name="Testmarkerforinflammationinthebody" xml:space="preserve">
+    <value>检测体内炎症的标志物</value>
+  </data>
+  <data name="Testedmainlyinthyroidcancerpatients" xml:space="preserve">
+    <value>主要测试甲状腺癌患者</value>
+  </data>
+  <data name="TesticularCancer" xml:space="preserve">
+    <value>睾丸癌</value>
+  </data>
+  <data name="Testingbloodsugar" xml:space="preserve">
+    <value>检测血糖</value>
+  </data>
+  <data name="Thailand" xml:space="preserve">
+    <value>泰国</value>
+  </data>
+  <data name="Thankyou" xml:space="preserve">
+    <value>感谢您</value>
+  </data>
+  <data name="ThankYouBasket" xml:space="preserve">
+    <value>感谢礼篮</value>
+  </data>
+  <data name="Thankyouforyoursupport(M)" xml:space="preserve">
+    <value>感谢您的支持（男）</value>
+  </data>
+  <data name="Thankyousign" xml:space="preserve">
+    <value>感谢的迹象</value>
+  </data>
+  <data name="Thankful" xml:space="preserve">
+    <value>感谢</value>
+  </data>
+  <data name="Theamountofheavinessintermsofmass" xml:space="preserve">
+    <value>以质量计的沉重</value>
+  </data>
+  <data name="thehighestlevelyourpressurereacheswhenyourheartbeats" xml:space="preserve">
+    <value>当你的心脏跳动时你的血压达到的最高水平</value>
+  </data>
+  <data name="thelowestlevelyourpressurereacheswhenyourheartrelaxes" xml:space="preserve">
+    <value>心脏放松时血压达到的最低水平</value>
+  </data>
+  <data name="Thepresencesuggeststhatthecauseisanautoimmunedisorder" xml:space="preserve">
+    <value>存在表明原因是由於自身免疫性疾病</value>
+  </data>
+  <data name="Thepressureofthebloodinthecirculatorysystem" xml:space="preserve">
+    <value>循环系统中血液的压力</value>
+  </data>
+  <data name="Theprincipal'soffice" xml:space="preserve">
+    <value>校长办公室</value>
+  </data>
+  <data name="TheShakes" xml:space="preserve">
+    <value>震动</value>
+  </data>
+  <data name="Thinkingabout" xml:space="preserve">
+    <value>思考</value>
+  </data>
+  <data name="Thissucks" xml:space="preserve">
+    <value>这很糟糕</value>
+  </data>
+  <data name="ThistestisdonetoconfirmGrave'sDisease." xml:space="preserve">
+    <value>这项测试是为了证实弥漫性毒性甲状腺肿。</value>
+  </data>
+  <data name="Thrownoutofclass!" xml:space="preserve">
+    <value>退出课堂！</value>
+  </data>
+  <data name="Thumbsup" xml:space="preserve">
+    <value>竖起大拇指</value>
+  </data>
+  <data name="Thyroglobulin" xml:space="preserve">
+    <value>甲状腺球蛋白</value>
+  </data>
+  <data name="ThyroglobulinAntibodies" xml:space="preserve">
+    <value>Thyroglobulin抗体</value>
+  </data>
+  <data name="Thyroid" xml:space="preserve">
+    <value>甲状腺</value>
+  </data>
+  <data name="ThyroidAntibodies" xml:space="preserve">
+    <value>甲状腺抗体</value>
+  </data>
+  <data name="ThyroidCancer" xml:space="preserve">
+    <value>甲状腺癌</value>
+  </data>
+  <data name="Thyroidcancerawarenessmonth" xml:space="preserve">
+    <value>甲状腺癌意识月</value>
+  </data>
+  <data name="ThyroidFunction" xml:space="preserve">
+    <value>甲状腺功能</value>
+  </data>
+  <data name="ThyroidTumors(NonCancerous)" xml:space="preserve">
+    <value>甲状腺肿瘤（非癌）</value>
+  </data>
+  <data name="Thyroiditis" xml:space="preserve">
+    <value>甲状腺炎</value>
+  </data>
+  <data name="Timeformedication1" xml:space="preserve">
+    <value>服药时间1</value>
+  </data>
+  <data name="Timetoseetheshrink" xml:space="preserve">
+    <value>是时候看到收缩了</value>
+  </data>
+  <data name="Timeout,Basketball" xml:space="preserve">
+    <value>超时，篮球</value>
+  </data>
+  <data name="Tired1" xml:space="preserve">
+    <value>累了1</value>
+  </data>
+  <data name="Toaccessforriskofbloodclots,arthersclerosis" xml:space="preserve">
+    <value>获取血块，动脉硬化的风险</value>
+  </data>
+  <data name="Tohelpdiagnoseandmonitorautoimmunethyroiddiseasesandtodistinguishthesefromotherformsofthyroiddisease;tohelpguidetreatmentdecisions" xml:space="preserve">
+    <value>帮助诊断和监测自身免疫性甲状腺疾病，并将其与其他形式的甲状腺疾病区分开来; 帮助決定治疗决策</value>
+  </data>
+  <data name="Togo" xml:space="preserve">
+    <value>多哥</value>
+  </data>
+  <data name="Tonga" xml:space="preserve">
+    <value>汤加</value>
+  </data>
+  <data name="Toomuchhomework" xml:space="preserve">
+    <value>太多功课</value>
+  </data>
+  <data name="Toothache" xml:space="preserve">
+    <value>牙疼</value>
+  </data>
+  <data name="Topsecret" xml:space="preserve">
+    <value>绝密</value>
+  </data>
+  <data name="TotalCholesterol" xml:space="preserve">
+    <value>总胆固醇</value>
+  </data>
+  <data name="TotalCholesteroldividedbyHDLvalue" xml:space="preserve">
+    <value>总胆固醇除以HDL值</value>
+  </data>
+  <data name="TotalProtein" xml:space="preserve">
+    <value>总蛋白质</value>
+  </data>
+  <data name="TotalT4" xml:space="preserve">
+    <value>总 T4</value>
+  </data>
+  <data name="Tourette'sSyndrome" xml:space="preserve">
+    <value>妥瑞氏症候群</value>
+  </data>
+  <data name="TPOAntibodies" xml:space="preserve">
+    <value>TPO抗体</value>
+  </data>
+  <data name="Trafficjam" xml:space="preserve">
+    <value>交通阻塞</value>
+  </data>
+  <data name="Trampolining" xml:space="preserve">
+    <value>蹦床</value>
+  </data>
+  <data name="Transportsoxygenfromlungstotissuesinbody" xml:space="preserve">
+    <value>将肺部的氧气输送到体内的组织</value>
+  </data>
+  <data name="Transportsproteininbody" xml:space="preserve">
+    <value>在体内运输蛋白质</value>
+  </data>
+  <data name="Trauma" xml:space="preserve">
+    <value>创伤</value>
+  </data>
+  <data name="Travelingto" xml:space="preserve">
+    <value>去旅行</value>
+  </data>
+  <data name="Triglycerides" xml:space="preserve">
+    <value>三酸甘油脂</value>
+  </data>
+  <data name="TrinidadandTobago" xml:space="preserve">
+    <value>特立尼达和多巴哥</value>
+  </data>
+  <data name="Trust" xml:space="preserve">
+    <value>相信</value>
+  </data>
+  <data name="TSH" xml:space="preserve">
+    <value>TSH</value>
+  </data>
+  <data name="TSHReceptorAntibody" xml:space="preserve">
+    <value>TSH受体抗体</value>
+  </data>
+  <data name="TSHtestmeasurestheamountofTSHinthebloodstream." xml:space="preserve">
+    <value>TSH测试用於测量血流中TSH的量。</value>
+  </data>
+  <data name="Tuberculosis" xml:space="preserve">
+    <value>肺结核</value>
+  </data>
+  <data name="TummyAche" xml:space="preserve">
+    <value>肚子痛</value>
+  </data>
+  <data name="TumorMarkerelevatedinMedullaryCarcinomaofThyroid" xml:space="preserve">
+    <value>肿瘤标志物在甲状腺髓质癌中升高</value>
+  </data>
+  <data name="Tumormarkerforbreastcancer" xml:space="preserve">
+    <value>乳腺癌的肿瘤标志物</value>
+  </data>
+  <data name="TumourMarkers" xml:space="preserve">
+    <value>肿瘤标志物</value>
+  </data>
+  <data name="Tunisia" xml:space="preserve">
+    <value>突尼斯</value>
+  </data>
+  <data name="Turkey" xml:space="preserve">
+    <value>土耳其</value>
+  </data>
+  <data name="Turkmenistan" xml:space="preserve">
+    <value>土库曼斯坦</value>
+  </data>
+  <data name="Tuvalu" xml:space="preserve">
+    <value>图瓦卢</value>
+  </data>
+  <data name="Uganda" xml:space="preserve">
+    <value>乌干达</value>
+  </data>
+  <data name="Ugly" xml:space="preserve">
+    <value>丑陋</value>
+  </data>
+  <data name="Ukraine" xml:space="preserve">
+    <value>乌克兰</value>
+  </data>
+  <data name="UnitedArabEmirates" xml:space="preserve">
+    <value>阿联酋</value>
+  </data>
+  <data name="UnitedKingdom" xml:space="preserve">
+    <value>英国</value>
+  </data>
+  <data name="UnitedStates" xml:space="preserve">
+    <value>美国</value>
+  </data>
+  <data name="Upperbackpain" xml:space="preserve">
+    <value>上背部疼痛</value>
+  </data>
+  <data name="Urea" xml:space="preserve">
+    <value>血清尿素</value>
+  </data>
+  <data name="UrgeIncontinence" xml:space="preserve">
+    <value>急迫性尿失禁</value>
+  </data>
+  <data name="UricAcid" xml:space="preserve">
+    <value>尿酸</value>
+  </data>
+  <data name="Uruguay" xml:space="preserve">
+    <value>乌拉圭</value>
+  </data>
+  <data name="USA" xml:space="preserve">
+    <value>美国</value>
+  </data>
+  <data name="UseaMoisturizer" xml:space="preserve">
+    <value>使用保湿霜</value>
+  </data>
+  <data name="Usedtoevaluatestateofliverandkidneys" xml:space="preserve">
+    <value>用于评估肝脏和肾脏的状态</value>
+  </data>
+  <data name="Uzbekistan" xml:space="preserve">
+    <value>乌兹别克斯坦</value>
+  </data>
+  <data name="VaccinationsandMedications" xml:space="preserve">
+    <value>疫苗接种和药物治疗</value>
+  </data>
+  <data name="Valentine'sDay#1" xml:space="preserve">
+    <value>情人节＃1</value>
+  </data>
+  <data name="Valentine'sDay#2" xml:space="preserve">
+    <value>情人节＃2</value>
+  </data>
+  <data name="Valentine'sDay#3" xml:space="preserve">
+    <value>情人节＃3</value>
+  </data>
+  <data name="Valentine'sDay#4" xml:space="preserve">
+    <value>情人节＃4</value>
+  </data>
+  <data name="Valentine'sDay#5" xml:space="preserve">
+    <value>情人节＃5</value>
+  </data>
+  <data name="ValveDisease" xml:space="preserve">
+    <value>瓣膜疾病</value>
+  </data>
+  <data name="Vanuatu" xml:space="preserve">
+    <value>瓦努阿图</value>
+  </data>
+  <data name="Venezuela" xml:space="preserve">
+    <value>委内瑞拉</value>
+  </data>
+  <data name="Vesakday" xml:space="preserve">
+    <value>卫塞节</value>
+  </data>
+  <data name="Vietnam" xml:space="preserve">
+    <value>越南</value>
+  </data>
+  <data name="Vigilance" xml:space="preserve">
+    <value>警觉</value>
+  </data>
+  <data name="Visiting#2" xml:space="preserve">
+    <value>访问＃2</value>
+  </data>
+  <data name="VitaminD" xml:space="preserve">
+    <value>维生素D</value>
+  </data>
+  <data name="Volumeofairthatcanforciblybeblownoutafterfullinspiration" xml:space="preserve">
+    <value>在充分吸气后可以强制吹出的空气量</value>
+  </data>
+  <data name="Vomit" xml:space="preserve">
+    <value>呕吐</value>
+  </data>
+  <data name="WaistCircumference" xml:space="preserve">
+    <value>腰围</value>
+  </data>
+  <data name="Wakeup" xml:space="preserve">
+    <value>醒来</value>
+  </data>
+  <data name="Wakingup" xml:space="preserve">
+    <value>醒来</value>
+  </data>
+  <data name="Walkwithdog(M)" xml:space="preserve">
+    <value>和狗一起散步（男）</value>
+  </data>
+  <data name="Walkwithfriend(M)" xml:space="preserve">
+    <value>和朋友一起散步（男）</value>
+  </data>
+  <data name="Wantfruits?" xml:space="preserve">
+    <value>想要水果吗？</value>
+  </data>
+  <data name="Washyourhands" xml:space="preserve">
+    <value>清洗你的手</value>
+  </data>
+  <data name="WashingHands" xml:space="preserve">
+    <value>洗手</value>
+  </data>
+  <data name="Wasteproductofbreakdownofhaemoglobin" xml:space="preserve">
+    <value>血红蛋白分解的废物</value>
+  </data>
+  <data name="Wasteproductofcreatininephosphate" xml:space="preserve">
+    <value>磷酸肌酸酐的废物</value>
+  </data>
+  <data name="Watching" xml:space="preserve">
+    <value>观看</value>
+  </data>
+  <data name="Watchingmovie" xml:space="preserve">
+    <value>看电影</value>
+  </data>
+  <data name="Waterskiing" xml:space="preserve">
+    <value>滑水</value>
+  </data>
+  <data name="WBC" xml:space="preserve">
+    <value>白细胞</value>
+  </data>
+  <data name="WC" xml:space="preserve">
+    <value>厕所</value>
+  </data>
+  <data name="Weariness" xml:space="preserve">
+    <value>疲劳</value>
+  </data>
+  <data name="Weightexercise" xml:space="preserve">
+    <value>举重锻炼</value>
+  </data>
+  <data name="Whatdoyouneed?" xml:space="preserve">
+    <value>你需要什么？</value>
+  </data>
+  <data name="Wheelchair" xml:space="preserve">
+    <value>轮椅</value>
+  </data>
+  <data name="Wonder" xml:space="preserve">
+    <value>奇迹</value>
+  </data>
+  <data name="Woohoo" xml:space="preserve">
+    <value>哇哦</value>
+  </data>
+  <data name="Worldaidsday" xml:space="preserve">
+    <value>世界艾滋病日</value>
+  </data>
+  <data name="Worldalzheimer'sday" xml:space="preserve">
+    <value>世界阿尔茨海默氏症日</value>
+  </data>
+  <data name="Worldasthma&amp;allergyawareness" xml:space="preserve">
+    <value>世界哮喘和过敏意识</value>
+  </data>
+  <data name="Worldblooddonorday" xml:space="preserve">
+    <value>世界献血者日</value>
+  </data>
+  <data name="Worldblooddonorday2" xml:space="preserve">
+    <value>世界献血者日2</value>
+  </data>
+  <data name="Worldbreastfeedingweek" xml:space="preserve">
+    <value>世界母乳喂养周</value>
+  </data>
+  <data name="WorldDiabetesday" xml:space="preserve">
+    <value>世界糖尿病日</value>
+  </data>
+  <data name="Worldfamilydoctors'day" xml:space="preserve">
+    <value>世界家庭医生日</value>
+  </data>
+  <data name="Worldfoodday" xml:space="preserve">
+    <value>世界粮食日</value>
+  </data>
+  <data name="Worldhealthday" xml:space="preserve">
+    <value>世界卫生日</value>
+  </data>
+  <data name="Worldheartday" xml:space="preserve">
+    <value>世界心脏日</value>
+  </data>
+  <data name="WorldHepatitisDay" xml:space="preserve">
+    <value>世界肝炎日</value>
+  </data>
+  <data name="WorldHepatitisDaycocklechasing" xml:space="preserve">
+    <value>世界肝炎日 扇贝类追逐</value>
+  </data>
+  <data name="WorldHepatitisDaynocockles" xml:space="preserve">
+    <value>世界肝炎日 无扇贝类</value>
+  </data>
+  <data name="WorldHepatitisDayprevention" xml:space="preserve">
+    <value>世界肝炎日预防</value>
+  </data>
+  <data name="WorldKindnessDay#1" xml:space="preserve">
+    <value>世界善意日＃1</value>
+  </data>
+  <data name="WorldKindnessDay#2" xml:space="preserve">
+    <value>世界善良日＃2</value>
+  </data>
+  <data name="WorldKindnessDay#3" xml:space="preserve">
+    <value>世界善良日＃3</value>
+  </data>
+  <data name="Worldmentalhealthday" xml:space="preserve">
+    <value>世界心理健康日</value>
+  </data>
+  <data name="Worldnotobaccoday" xml:space="preserve">
+    <value>世界无烟日</value>
+  </data>
+  <data name="Worldosteoporosisday" xml:space="preserve">
+    <value>世界骨质疏松症日</value>
+  </data>
+  <data name="WorldParkinson'sDay" xml:space="preserve">
+    <value>世界帕金森日</value>
+  </data>
+  <data name="Worldpneumoniaday" xml:space="preserve">
+    <value>世界肺炎日</value>
+  </data>
+  <data name="Worldprematurityday" xml:space="preserve">
+    <value>世界早产日</value>
+  </data>
+  <data name="Worldsightday" xml:space="preserve">
+    <value>世界保护视力日</value>
+  </data>
+  <data name="WorldStrokeDay" xml:space="preserve">
+    <value>世界中风日</value>
+  </data>
+  <data name="Worried" xml:space="preserve">
+    <value>担心</value>
+  </data>
+  <data name="Wow" xml:space="preserve">
+    <value>哇</value>
+  </data>
+  <data name="WTF" xml:space="preserve">
+    <value>WTF</value>
+  </data>
+  <data name="WTH" xml:space="preserve">
+    <value>WTH</value>
+  </data>
+  <data name="Yay" xml:space="preserve">
+    <value>好极了</value>
+  </data>
+  <data name="Yeah!" xml:space="preserve">
+    <value>是啊！</value>
+  </data>
+  <data name="Yelling" xml:space="preserve">
+    <value>叫喊</value>
+  </data>
+  <data name="YellowCard,Soccer" xml:space="preserve">
+    <value>黄牌，足球</value>
+  </data>
+  <data name="Yemen" xml:space="preserve">
+    <value>也门</value>
+  </data>
+  <data name="Yes!" xml:space="preserve">
+    <value>是!</value>
+  </data>
+  <data name="You'regoingdown!" xml:space="preserve">
+    <value>你要被打败了！</value>
+  </data>
+  <data name="youarewelcome" xml:space="preserve">
+    <value>别客气</value>
+  </data>
+  <data name="youcandoit" xml:space="preserve">
+    <value>你能行的</value>
+  </data>
+  <data name="Youmademyday" xml:space="preserve">
+    <value>你让我今天一整天都感觉很好</value>
+  </data>
+  <data name="Youmatteralottous(patients)" xml:space="preserve">
+    <value>你对我们很重要（病人）</value>
+  </data>
+  <data name="YoungAdult" xml:space="preserve">
+    <value>年轻人</value>
+  </data>
+  <data name="Zambia" xml:space="preserve">
+    <value>赞比亚</value>
+  </data>
+  <data name="Zimbabwe" xml:space="preserve">
+    <value>津巴布韦</value>
+  </data>
+  <data name="Zombie" xml:space="preserve">
+    <value>僵尸</value>
+  </data>
+  <data name="AccountNotExists" xml:space="preserve">
+    <value>帐户不存在</value>
+  </data>
+  <data name="AddAtLeastOneOrgan" xml:space="preserve">
+    <value>添加至少一个器官</value>
+  </data>
+  <data name="AddAtLeastOneReminder" xml:space="preserve">
+    <value>添加至少一个提醒</value>
+  </data>
+  <data name="AddDoseName" xml:space="preserve">
+    <value>剂量名称不应为空</value>
+  </data>
+  <data name="AddTakenOnDose" xml:space="preserve">
+    <value>请在服用时加入</value>
+  </data>
+  <data name="AddVaccineId" xml:space="preserve">
+    <value>疫苗ID不应该是空的</value>
+  </data>
+  <data name="AssignedAsProxy" xml:space="preserve">
+    <value>您已被{0}添加为他/她的代理人</value>
+  </data>
+  <data name="AssignedAsVerifyParty" xml:space="preserve">
+    <value>您已被{0}添加为他/她的验证方</value>
+  </data>
+  <data name="At" xml:space="preserve">
+    <value>在</value>
+  </data>
+  <data name="BasedOnRecord" xml:space="preserve">
+    <value>根据记录：{0}</value>
+  </data>
+  <data name="BBTRecordTemperature" xml:space="preserve">
+    <value>BBT必须大于0</value>
+  </data>
+  <data name="BirthdayRequired" xml:space="preserve">
+    <value>请输入您的出生日期！</value>
+  </data>
+  <data name="Completed" xml:space="preserve">
+    <value>已完成</value>
+  </data>
+  <data name="ConnversationCannotBeFound" xml:space="preserve">
+    <value>无法找到会话！</value>
+  </data>
+  <data name="ConversationNameRequired" xml:space="preserve">
+    <value>请输入聊天名称</value>
+  </data>
+  <data name="ConversationNotExists" xml:space="preserve">
+    <value>会话不存在</value>
+  </data>
+  <data name="ConversationRequired" xml:space="preserve">
+    <value>请选择一个会话。</value>
+  </data>
+  <data name="CountriesListIsEmpty" xml:space="preserve">
+    <value>国家名单是空的！</value>
+  </data>
+  <data name="CreatedOn" xml:space="preserve">
+    <value>创建于：</value>
+  </data>
+  <data name="CurrentPasswordRequired" xml:space="preserve">
+    <value>请输入当前密码</value>
+  </data>
+  <data name="CycleLengthInvalidNumber" xml:space="preserve">
+    <value>周期长度是无效数字</value>
+  </data>
+  <data name="Day" xml:space="preserve">
+    <value>星期</value>
+  </data>
+  <data name="DayAfter" xml:space="preserve">
+    <value>第{0}天</value>
+  </data>
+  <data name="DaysBefore" xml:space="preserve">
+    <value>{0}天</value>
+  </data>
+  <data name="DecreaseBy" xml:space="preserve">
+    <value>减少{0}</value>
+  </data>
+  <data name="DefaultTagRequired" xml:space="preserve">
+    <value>请选择一个标签。</value>
+  </data>
+  <data name="DigitPinRequired" xml:space="preserve">
+    <value>请输入一个 4 位数 PIN.</value>
+  </data>
+  <data name="DoctorEmailAddressRequired" xml:space="preserve">
+    <value>请输入医生的电子邮件</value>
+  </data>
+  <data name="DosageRequired" xml:space="preserve">
+    <value>请输入dasage。</value>
+  </data>
+  <data name="DoseIdShouldNotBeEmpty" xml:space="preserve">
+    <value>剂量ID不应为空</value>
+  </data>
+  <data name="DoseRequired" xml:space="preserve">
+    <value>请选择剂量</value>
+  </data>
+  <data name="EditedOn" xml:space="preserve">
+    <value>在{0}编辑</value>
+  </data>
+  <data name="EmailAddressNotExists" xml:space="preserve">
+    <value>电子邮件地址不存在</value>
+  </data>
+  <data name="EmailAddressRequired" xml:space="preserve">
+    <value>请输入您的电子邮件地址！</value>
+  </data>
+  <data name="EmojiNotExists" xml:space="preserve">
+    <value>表情符号不存在</value>
+  </data>
+  <data name="EmojiRequired" xml:space="preserve">
+    <value>请选择一个表情符号。</value>
+  </data>
+  <data name="EndDateMustBeGreaterOrEqualThenStartDate" xml:space="preserve">
+    <value>结束日期必须大于或等于开始日期</value>
+  </data>
+  <data name="EnterAtLeastOneValue" xml:space="preserve">
+    <value>请输入至少一个值。</value>
+  </data>
+  <data name="EnterBloodType" xml:space="preserve">
+    <value>输入血型</value>
+  </data>
+  <data name="EnterNameofTheVaccinne" xml:space="preserve">
+    <value>输入疫苗名称</value>
+  </data>
+  <data name="EnterNumberOfDoses" xml:space="preserve">
+    <value>输入剂量数</value>
+  </data>
+  <data name="EnterTheContactNumberOf1stWitness" xml:space="preserve">
+    <value>输入第一见证人的联系电话</value>
+  </data>
+  <data name="EnterTheContactNumberOf2ndWitness" xml:space="preserve">
+    <value>输入第二见证人的联系电话</value>
+  </data>
+  <data name="EnterTheNameOf1stWitness" xml:space="preserve">
+    <value>输入第一见证人的姓名</value>
+  </data>
+  <data name="EnterTheNameOf2ndWitness" xml:space="preserve">
+    <value>输入第二见证人的姓名</value>
+  </data>
+  <data name="EnterTheRelationshipWith1stWitness" xml:space="preserve">
+    <value>输入与第一见证人的关系</value>
+  </data>
+  <data name="EnterTheRelationshipWith2ndWitness" xml:space="preserve">
+    <value>输入与第二见证人的关系</value>
+  </data>
+  <data name="EnterWeight" xml:space="preserve">
+    <value>输入重量</value>
+  </data>
+  <data name="EstimateMsg" xml:space="preserve">
+    <value>估计：{0}</value>
+  </data>
+  <data name="Every" xml:space="preserve">
+    <value>一切</value>
+  </data>
+  <data name="FairChanceOfGettingPregnant" xml:space="preserve">
+    <value>怀孕的公平机会</value>
+  </data>
+  <data name="FamilyAccounts" xml:space="preserve">
+    <value>家庭账户</value>
+  </data>
+  <data name="FertileDay" xml:space="preserve">
+    <value>受孕期</value>
+  </data>
+  <data name="FertileDays" xml:space="preserve">
+    <value>未设置受孕期的提醒</value>
+  </data>
+  <data name="FertileDaysBefore" xml:space="preserve">
+    <value>未设置受孕期前日子的提醒</value>
+  </data>
+  <data name="FertileDaysStart" xml:space="preserve">
+    <value>受孕期开始</value>
+  </data>
+  <data name="FertileDayTitle" xml:space="preserve">
+    <value>做好准备！ 你的受孕期正在开始。</value>
+  </data>
+  <data name="FertileDayTitleToday" xml:space="preserve">
+    <value>做好准备！ 你的受孕期从今天开始。</value>
+  </data>
+  <data name="FileNameRequired" xml:space="preserve">
+    <value>请输入文件名。</value>
+  </data>
+  <data name="FileNotSupported" xml:space="preserve">
+    <value>不支持该文件！</value>
+  </data>
+  <data name="FileRequired" xml:space="preserve">
+    <value>请上传文件。</value>
+  </data>
+  <data name="FirstNameRequired" xml:space="preserve">
+    <value>请输入您的名字！</value>
+  </data>
+  <data name="FriendCircleNameRequired" xml:space="preserve">
+    <value>请输入圈子名称</value>
+  </data>
+  <data name="FriendCircleNotExists" xml:space="preserve">
+    <value>圈子不存在</value>
+  </data>
+  <data name="FriendCircleRequired" xml:space="preserve">
+    <value>请选择一个圈子。</value>
+  </data>
+  <data name="FriendConnectionNotExists" xml:space="preserve">
+    <value>连接不存在</value>
+  </data>
+  <data name="FriendConnectionRequired" xml:space="preserve">
+    <value>请选择一个连接。</value>
+  </data>
+  <data name="FriendRequestAcceptedMessage" xml:space="preserve">
+    <value>{0}已接受您的好友请求</value>
+  </data>
+  <data name="FriendshipIsAlreadyEstablished" xml:space="preserve">
+    <value>友谊已经建立。</value>
+  </data>
+  <data name="GenderRequired" xml:space="preserve">
+    <value>请选择您的性别！</value>
+  </data>
+  <data name="GeneratingTheResults" xml:space="preserve">
+    <value>生成结果中......</value>
+  </data>
+  <data name="GroupAlreadyExists" xml:space="preserve">
+    <value>群组已经存在</value>
+  </data>
+  <data name="HealthConditionsRequired" xml:space="preserve">
+    <value>请选择至少一种健康状况</value>
+  </data>
+  <data name="HealthParameterNotExists" xml:space="preserve">
+    <value>健康参数不存在</value>
+  </data>
+  <data name="HealthParameterReadingRecordDateOfRecordRequired" xml:space="preserve">
+    <value>请选择测量日期</value>
+  </data>
+  <data name="HealthParameterReadingRecordValueOutOfRange" xml:space="preserve">
+    <value>{0} 值超出范围。必须介于 {1} 和 {2} 之间。</value>
+  </data>
+  <data name="HealthParameterReadingRecordValueRequired" xml:space="preserve">
+    <value>{0}不能为空！</value>
+  </data>
+  <data name="HealthParameterReadingsNotExists" xml:space="preserve">
+    <value>健康参数读数不存在</value>
+  </data>
+  <data name="HealthParameterRequired" xml:space="preserve">
+    <value>请选择健康参数</value>
+  </data>
+  <data name="HealthReminderNameRequired" xml:space="preserve">
+    <value>请输入健康提醒名称</value>
+  </data>
+  <data name="Heart" xml:space="preserve">
+    <value>心</value>
+  </data>
+  <data name="HighChanceOfGettingPregnant" xml:space="preserve">
+    <value>怀孕的几率很高</value>
+  </data>
+  <data name="HighChanceToGetPregnant" xml:space="preserve">
+    <value>很有机会怀孕了</value>
+  </data>
+  <data name="HospitalizationNotExists" xml:space="preserve">
+    <value>住院治疗不存在</value>
+  </data>
+  <data name="HospitalNameRequired" xml:space="preserve">
+    <value>请输入医院名称</value>
+  </data>
+  <data name="ImageIdShouldNotBeEmpty" xml:space="preserve">
+    <value>图片ID不应为空</value>
+  </data>
+  <data name="ImageRequired" xml:space="preserve">
+    <value>请上传一张图像。</value>
+  </data>
+  <data name="ImageShouldNotBeEmpty" xml:space="preserve">
+    <value>图像不应为空</value>
+  </data>
+  <data name="IncreaseBy" xml:space="preserve">
+    <value>增加{0}</value>
+  </data>
+  <data name="InvalidCircleSelected" xml:space="preserve">
+    <value>选中的圈子无效。</value>
+  </data>
+  <data name="InvalidCredentials" xml:space="preserve">
+    <value>无效证件！</value>
+  </data>
+  <data name="InvalidCurrentPassword" xml:space="preserve">
+    <value>当前密码无效</value>
+  </data>
+  <data name="InvalidDate" xml:space="preserve">
+    <value>失效日期</value>
+  </data>
+  <data name="InvalidResetPasswordCode" xml:space="preserve">
+    <value>您的重置密码代码无效或已过期。请重新申请新的，在接下来的15分钟内有效。</value>
+  </data>
+  <data name="Kidneys" xml:space="preserve">
+    <value>肾脏</value>
+  </data>
+  <data name="LanguageRequired" xml:space="preserve">
+    <value>请选择一种语言！</value>
+  </data>
+  <data name="LastNameRequired" xml:space="preserve">
+    <value>请输入您的姓氏！</value>
+  </data>
+  <data name="LastPeriodHasEnded" xml:space="preserve">
+    <value>上一月经周期已经结束</value>
+  </data>
+  <data name="LastPeriodHasNotEnded" xml:space="preserve">
+    <value>上一月经周期尚未结束</value>
+  </data>
+  <data name="LifestyleNotExists" xml:space="preserve">
+    <value>生活方式不存在</value>
+  </data>
+  <data name="LifestyleReminder" xml:space="preserve">
+    <value>生活方式提醒</value>
+  </data>
+  <data name="LiverFASTNotExists" xml:space="preserve">
+    <value>LiverFAST不存在</value>
+  </data>
+  <data name="LiverFASTTestAgree" xml:space="preserve">
+    <value>请同意提供生物标记物。</value>
+  </data>
+  <data name="LowChanceOfGettingPregnant" xml:space="preserve">
+    <value>怀孕的可能性很小</value>
+  </data>
+  <data name="Lungs" xml:space="preserve">
+    <value>肺</value>
+  </data>
+  <data name="MeasurementRecordNotExists" xml:space="preserve">
+    <value>测量记录不存在</value>
+  </data>
+  <data name="MeasurementRecordRequired" xml:space="preserve">
+    <value>请选择测量记录</value>
+  </data>
+  <data name="MedicalCaseNameRequired" xml:space="preserve">
+    <value>请输入医疗案例名称。</value>
+  </data>
+  <data name="MedicalCaseNotExits" xml:space="preserve">
+    <value>医疗案件未退出。</value>
+  </data>
+  <data name="MedicalCaseRecordNotExists" xml:space="preserve">
+    <value>医疗案件记录未退出</value>
+  </data>
+  <data name="MedicalCaseRecordRequired" xml:space="preserve">
+    <value>请选择医疗案例记录</value>
+  </data>
+  <data name="MedicalCaseRequired" xml:space="preserve">
+    <value>请选择一个医疗案例。</value>
+  </data>
+  <data name="MedicineFrequencyRequired" xml:space="preserve">
+    <value>请选择频率。</value>
+  </data>
+  <data name="MedicineNameRequired" xml:space="preserve">
+    <value>请输入药品名称。</value>
+  </data>
+  <data name="MedicineNotExists" xml:space="preserve">
+    <value>药物不存在</value>
+  </data>
+  <data name="MedicineReminder" xml:space="preserve">
+    <value>服药提醒</value>
+  </data>
+  <data name="MedicineRequired" xml:space="preserve">
+    <value>请选择一种药物</value>
+  </data>
+  <data name="MediumChanceToGetPregnant" xml:space="preserve">
+    <value>中等机会怀孕了</value>
+  </data>
+  <data name="MessageRequired" xml:space="preserve">
+    <value>请输入消息</value>
+  </data>
+  <data name="Missed" xml:space="preserve">
+    <value>错过</value>
+  </data>
+  <data name="Month" xml:space="preserve">
+    <value>月</value>
+  </data>
+  <data name="Months" xml:space="preserve">
+    <value>月</value>
+  </data>
+  <data name="MotivationLenth" xml:space="preserve">
+    <value>动机必须少于26个字符</value>
+  </data>
+  <data name="MustBeOlderThen" xml:space="preserve">
+    <value>您必须年满14岁才能继续进行HealthFACTR测试。</value>
+  </data>
+  <data name="NewChatMessage" xml:space="preserve">
+    <value>{0}说{1}</value>
+  </data>
+  <data name="NewChatMessageInGroupConversation" xml:space="preserve">
+    <value>{0}在{2}中显示{1}</value>
+  </data>
+  <data name="NewEmojiInConversation" xml:space="preserve">
+    <value>{0}发给您一个表情符号</value>
+  </data>
+  <data name="NewEmojiInGroupConversation" xml:space="preserve">
+    <value>{0}在{1}中发送了表情符号</value>
+  </data>
+  <data name="NewFriendRequestMessage" xml:space="preserve">
+    <value>{0}向您发送了好友请求</value>
+  </data>
+  <data name="NewImageInConversation" xml:space="preserve">
+    <value>{0}向您发送了图片</value>
+  </data>
+  <data name="NewImageInGroupConversation" xml:space="preserve">
+    <value>{0}在{1}中发送了图片</value>
+  </data>
+  <data name="NewPasswordRequired" xml:space="preserve">
+    <value>请输入新密码</value>
+  </data>
+  <data name="NewPostCommentMessage" xml:space="preserve">
+    <value>{0}对您的帖子发表了评论</value>
+  </data>
+  <data name="NewPostReactionMessage" xml:space="preserve">
+    <value>{0}已将您的帖子标记为{1}</value>
+  </data>
+  <data name="NextPeriod" xml:space="preserve">
+    <value>下一个月经周期</value>
+  </data>
+  <data name="NoDataYet" xml:space="preserve">
+    <value>还没有数据</value>
+  </data>
+  <data name="NotAllowedSameUserForProxyAndVerifyParty" xml:space="preserve">
+    <value>抱歉！您不得选择同一个用户作为您验证方的代理人。请另选不同用户。</value>
+  </data>
+  <data name="NotDefined" xml:space="preserve">
+    <value>没有定义</value>
+  </data>
+  <data name="NoteRequired" xml:space="preserve">
+    <value>请输入一个注释。</value>
+  </data>
+  <data name="NotPossibleStartDateToBeBiggerThanEndDate" xml:space="preserve">
+    <value>开始日期不可能大于结束日期</value>
+  </data>
+  <data name="OnlyMe" xml:space="preserve">
+    <value>仅我自己</value>
+  </data>
+  <data name="OrganDonorNotExists" xml:space="preserve">
+    <value>器官捐献者不存在</value>
+  </data>
+  <data name="OtherAccounts" xml:space="preserve">
+    <value>其他账户</value>
+  </data>
+  <data name="OvulationDay" xml:space="preserve">
+    <value>排卵日</value>
+  </data>
+  <data name="OvulationDayReminder" xml:space="preserve">
+    <value>未设定排卵日提醒</value>
+  </data>
+  <data name="OvulationDaysBefore" xml:space="preserve">
+    <value>未设置排卵日之前的提醒</value>
+  </data>
+  <data name="OvulationDayTitle" xml:space="preserve">
+    <value>你的排卵日来了！</value>
+  </data>
+  <data name="OvulationDayTodayTitle" xml:space="preserve">
+    <value>今天是你的排卵日！</value>
+  </data>
+  <data name="Pancreas" xml:space="preserve">
+    <value>胰腺</value>
+  </data>
+  <data name="PasswordLength" xml:space="preserve">
+    <value>密码必须至少为 8 个字符。</value>
+  </data>
+  <data name="PasswordMustBeEqualToConfirmPassword" xml:space="preserve">
+    <value>密码字段必须等于确认密码。</value>
+  </data>
+  <data name="PasswordRequired" xml:space="preserve">
+    <value>请输入您的密码！</value>
+  </data>
+  <data name="Period" xml:space="preserve">
+    <value>月经</value>
+  </data>
+  <data name="PeriodTracker" xml:space="preserve">
+    <value>月经周期追踪器</value>
+  </data>
+  <data name="PeriodBeginsIn" xml:space="preserve">
+    <value>月经周期开始于</value>
+  </data>
+  <data name="PeriodExists" xml:space="preserve">
+    <value>已有此月经周期的开始日子。</value>
+  </data>
+  <data name="PeriodLengthInvalidNumber" xml:space="preserve">
+    <value>月经周期长度是无效的数字</value>
+  </data>
+  <data name="PeriodMustEnd" xml:space="preserve">
+    <value>上一月经周期必须在新的开始之前结束。</value>
+  </data>
+  <data name="PeriodStart" xml:space="preserve">
+    <value>月经周期开始</value>
+  </data>
+  <data name="PeriodStartDaysBefore" xml:space="preserve">
+    <value>未设置月经周期开始前的提醒</value>
+  </data>
+  <data name="PeriodTitle" xml:space="preserve">
+    <value>你的月经很快就会开始。</value>
+  </data>
+  <data name="PeriodTodayTitle" xml:space="preserve">
+    <value>你的月经周期从今天开始。</value>
+  </data>
+  <data name="PeriodTrackerNotExists" xml:space="preserve">
+    <value>月经周期跟踪器不存在</value>
+  </data>
+  <data name="PeriodTrackerSettingsCannotBeFound" xml:space="preserve">
+    <value>无法找到月经周期跟踪器的设置！</value>
+  </data>
+  <data name="PeriodTrackerSettingsNotExists" xml:space="preserve">
+    <value>月经周期跟踪器的设置不存在</value>
+  </data>
+  <data name="PhysicianNameRequired" xml:space="preserve">
+    <value>请输入医生的名字</value>
+  </data>
+  <data name="PhysicianRequired" xml:space="preserve">
+    <value>请选择医生</value>
+  </data>
+  <data name="PleaseAddCorrectEmailAddress" xml:space="preserve">
+    <value>请添加正确的电子邮件地址</value>
+  </data>
+  <data name="PleaseSelectFriend" xml:space="preserve">
+    <value>请选择一位好友。</value>
+  </data>
+  <data name="PleaseSelectFriends" xml:space="preserve">
+    <value>请选择一位好友。</value>
+  </data>
+  <data name="PleaseSelectHealthParameters" xml:space="preserve">
+    <value>请至少选择一个健康参数。</value>
+  </data>
+  <data name="PleaseSelectUser" xml:space="preserve">
+    <value>请选择用户。</value>
+  </data>
+  <data name="PostContentRequired" xml:space="preserve">
+    <value>请写点东西</value>
+  </data>
+  <data name="PostNotExists" xml:space="preserve">
+    <value>帖子不存在</value>
+  </data>
+  <data name="PostRequired" xml:space="preserve">
+    <value>请选择一个帖子。</value>
+  </data>
+  <data name="ProxyAccountNotYourContact" xml:space="preserve">
+    <value>代理帐户不在您的联系人中</value>
+  </data>
+  <data name="ProxyRequired" xml:space="preserve">
+    <value>您必须选择代理！</value>
+  </data>
+  <data name="QuickShareNotExist" xml:space="preserve">
+    <value>快速分享不存在</value>
+  </data>
+  <data name="ReminderNotExits" xml:space="preserve">
+    <value>提醒未退出</value>
+  </data>
+  <data name="ReminderRequired" xml:space="preserve">
+    <value>请选择提醒</value>
+  </data>
+  <data name="RequestIsNotAcceptedYet" xml:space="preserve">
+    <value>请求尚未被接受。</value>
+  </data>
+  <data name="ResetPasswordCodeLength" xml:space="preserve">
+    <value>重置密码必须为6个字符。</value>
+  </data>
+  <data name="ResetPasswordCodeRequired" xml:space="preserve">
+    <value>请输入您的重置密码！</value>
+  </data>
+  <data name="ResetPasswordEmailTitle" xml:space="preserve">
+    <value>重置密码</value>
+  </data>
+  <data name="SelectAtLeastOneDay" xml:space="preserve">
+    <value>选择至少一天</value>
+  </data>
+  <data name="SelectAtLeastOneHepatitis" xml:space="preserve">
+    <value>选择至少一种肝炎</value>
+  </data>
+  <data name="SelectCountry" xml:space="preserve">
+    <value>选择国家</value>
+  </data>
+  <data name="SelectOrganDonorOrRecipient" xml:space="preserve">
+    <value>您需要选择成為捐助者和/或受益人</value>
+  </data>
+  <data name="SelectVaccine" xml:space="preserve">
+    <value>请选择一种疫苗。</value>
+  </data>
+  <data name="SelectWhatYouWantToDonate" xml:space="preserve">
+    <value>选择您要捐赠的内容</value>
+  </data>
+  <data name="SelectYourBiologicalGender" xml:space="preserve">
+    <value>请选择您的生物性别。</value>
+  </data>
+  <data name="SelectYourPurposes" xml:space="preserve">
+    <value>选择你的目的</value>
+  </data>
+  <data name="SharedEntityRequired" xml:space="preserve">
+    <value>请选择共享项目</value>
+  </data>
+  <data name="SharedItemsRequired" xml:space="preserve">
+    <value>请至少选择一个朋友圈。</value>
+  </data>
+  <data name="SmallChanceToGetPregnant" xml:space="preserve">
+    <value>怀孕的机会很小</value>
+  </data>
+  <data name="StartDateRequired" xml:space="preserve">
+    <value>请输入开始日期。</value>
+  </data>
+  <data name="StartingValueRequired" xml:space="preserve">
+    <value>请输入您的起始值</value>
+  </data>
+  <data name="SubjectRequired" xml:space="preserve">
+    <value>请输入主题。</value>
+  </data>
+  <data name="SuggestConsultDoctor" xml:space="preserve">
+    <value>我们建议您咨询医生，了解您的健康状况。</value>
+  </data>
+  <data name="SwitchAccount" xml:space="preserve">
+    <value>切换帐户</value>
+  </data>
+  <data name="SwitchAccountRequired" xml:space="preserve">
+    <value>请选择帐户。</value>
+  </data>
+  <data name="TagIsAlreadyUsedForThisPost" xml:space="preserve">
+    <value>标签已用于此帖子！</value>
+  </data>
+  <data name="TagNotExists" xml:space="preserve">
+    <value>标签不存在</value>
+  </data>
+  <data name="TagsRequired" xml:space="preserve">
+    <value>你应该填写一些标签</value>
+  </data>
+  <data name="TakeTestOncePerMonth" xml:space="preserve">
+    <value>您每月只能参加一次测试。 请稍后再试。</value>
+  </data>
+  <data name="TargetByRequired" xml:space="preserve">
+    <value>请通过  输入您的目标</value>
+  </data>
+  <data name="TargetValueRequired" xml:space="preserve">
+    <value>请输入您的目标</value>
+  </data>
+  <data name="TheEmailYouHaveEnteredIsNotValid" xml:space="preserve">
+    <value>您所输入的电子邮件无效。</value>
+  </data>
+  <data name="TheMemberIsNotAPartOfThisConversation" xml:space="preserve">
+    <value>该成员不是此会话的一部分！</value>
+  </data>
+  <data name="ThisAccountIsAlreadyAdded" xml:space="preserve">
+    <value>此帐户已添加！</value>
+  </data>
+  <data name="ThisAccountIsAlreadyLoggedIn" xml:space="preserve">
+    <value>此帐号已登录！</value>
+  </data>
+  <data name="ThisDoseDoesNotExist" xml:space="preserve">
+    <value>该剂量不存在</value>
+  </data>
+  <data name="ThisImageDoesNotExist" xml:space="preserve">
+    <value>此图像不存在</value>
+  </data>
+  <data name="ThisIsAPrivateConversation" xml:space="preserve">
+    <value>这是私人会话！您无法删除成员！要停止接收此人的消息，您可以将此对话静音。</value>
+  </data>
+  <data name="ThisPeriodAlreadyExists" xml:space="preserve">
+    <value>这个月经周期已经存在</value>
+  </data>
+  <data name="ThisUserIsNotAMemberOfThisCircle" xml:space="preserve">
+    <value>此用户不是此圈子的成员！</value>
+  </data>
+  <data name="Thymus" xml:space="preserve">
+    <value>胸腺</value>
+  </data>
+  <data name="TimeForBBT" xml:space="preserve">
+    <value>每天早上起床都要带BBT。</value>
+  </data>
+  <data name="TimeForBBTTitle" xml:space="preserve">
+    <value>你添加你的BBT了吗？ 现在就做！</value>
+  </data>
+  <data name="TimeForHealthReminder" xml:space="preserve">
+    <value>健康提醒时间</value>
+  </data>
+  <data name="TimeToCheckYourGoal" xml:space="preserve">
+    <value>检查您的 {0} 时间到了</value>
+  </data>
+  <data name="TimeToTakeYourMedicine" xml:space="preserve">
+    <value>是时候服用'{0}'了</value>
+  </data>
+  <data name="Tissues" xml:space="preserve">
+    <value>组织</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>今天</value>
+  </data>
+  <data name="Tomorrow" xml:space="preserve">
+    <value>明天</value>
+  </data>
+  <data name="Upcoming" xml:space="preserve">
+    <value>即将到来</value>
+  </data>
+  <data name="UserCannotBeProxyOrVerifyingParty" xml:space="preserve">
+    <value>抱歉！此用户不能是代理人或验证方。代理人或验证方必须为订阅者。请另选不同用户。</value>
+  </data>
+  <data name="UserDoesntHaveProxy" xml:space="preserve">
+    <value>用户没有代理。</value>
+  </data>
+  <data name="UsernameAlreadyExists" xml:space="preserve">
+    <value>该用户名已经存在。</value>
+  </data>
+  <data name="VaccinationCountryNotSelected" xml:space="preserve">
+    <value>未选择疫苗接种国家</value>
+  </data>
+  <data name="VaccineAlreadyExists" xml:space="preserve">
+    <value>疫苗已经存在</value>
+  </data>
+  <data name="VaccineNotExists" xml:space="preserve">
+    <value>疫苗不存在</value>
+  </data>
+  <data name="VerifyingPartyNotYourContact" xml:space="preserve">
+    <value>验证方不在您的联系人中</value>
+  </data>
+  <data name="VerifyingPartyRequired" xml:space="preserve">
+    <value>您必须选择验证方！</value>
+  </data>
+  <data name="Week" xml:space="preserve">
+    <value>周</value>
+  </data>
+  <data name="Weeks" xml:space="preserve">
+    <value>周</value>
+  </data>
+  <data name="Year" xml:space="preserve">
+    <value>年</value>
+  </data>
+  <data name="Years" xml:space="preserve">
+    <value>年份</value>
+  </data>
+  <data name="YouAreNotAdminOfThisConversation" xml:space="preserve">
+    <value>您不是这次谈话的管理员！</value>
+  </data>
+  <data name="YouAreNotAMemberOfThisConversation" xml:space="preserve">
+    <value>您不是此对话的成员！</value>
+  </data>
+  <data name="YouCanDeleteJustYourOwnCircles" xml:space="preserve">
+    <value>您可以删除自己的圈子！</value>
+  </data>
+  <data name="YouCannnotRemoveAnAdministrator" xml:space="preserve">
+    <value>您无法删除管理员！</value>
+  </data>
+  <data name="YouCannotAddMembersInEveryoneCircle" xml:space="preserve">
+    <value>您无法在所有人圈子中添加成员。</value>
+  </data>
+  <data name="YouCannotDeclineYouAreAlreadyFriendOrConnectionNotExists" xml:space="preserve">
+    <value>您不能拒绝。您已经是好友或连接不存在！</value>
+  </data>
+  <data name="YouCanNotDeleteThisMemberFromSupporters" xml:space="preserve">
+    <value>您无法从支持者中删除此成员！</value>
+  </data>
+  <data name="YouCanNotEditSupportersOrEveryone" xml:space="preserve">
+    <value>你不能编辑“支持者”或“所有人”</value>
+  </data>
+  <data name="YouCannotRemoveThisMember" xml:space="preserve">
+    <value>您无法删除该成员！</value>
+  </data>
+  <data name="YouCanOnlyCommentOnYourOwnOrFriendsPosts" xml:space="preserve">
+    <value>您只能评论自己或好友的帖子。</value>
+  </data>
+  <data name="YouCanOnlyEditYourOwnCircles" xml:space="preserve">
+    <value>您只能编辑自己的圈子！</value>
+  </data>
+  <data name="YouCantDeleteThisCircle" xml:space="preserve">
+    <value>您不能删除这个圈子！</value>
+  </data>
+  <data name="YouDontHaveAnyAvailableSpacePleaseUpgradeYourSubscription" xml:space="preserve">
+    <value>您没有任何空间，请升级您的订阅！</value>
+  </data>
+  <data name="YouDontHavePermission" xml:space="preserve">
+    <value>您没有权限。</value>
+  </data>
+  <data name="YouHaveAlreadyAddedThisDose" xml:space="preserve">
+    <value>您已添加此剂量</value>
+  </data>
+  <data name="YourEmailCantBeSend" xml:space="preserve">
+    <value>您的电子邮件无法发送</value>
+  </data>
+  <data name="YourRiskOfFattyLiverIsHigh" xml:space="preserve">
+    <value>你患脂肪肝的风险很高</value>
+  </data>
+  <data name="YourRiskOfFattyLiverIsLow" xml:space="preserve">
+    <value>你患脂肪肝的风险很低</value>
+  </data>
+  <data name="YouShouldBeOlderThan21" xml:space="preserve">
+    <value>您只有超过21岁才能使用Halza！</value>
+  </data>
+  <data name="AccessOnHold" xml:space="preserve">
+    <value>你的账户访问权限已暂停。</value>
+  </data>
+  <data name="AddAMessage" xml:space="preserve">
+    <value>添加消息</value>
+  </data>
+  <data name="AddStaffMember" xml:space="preserve">
+    <value>添加员工</value>
+  </data>
+  <data name="AlmostDone" xml:space="preserve">
+    <value>即将完成！</value>
+  </data>
+  <data name="AlreadyHaveAnAccount" xml:space="preserve">
+    <value>已有账户？</value>
+  </data>
+  <data name="Branch" xml:space="preserve">
+    <value>分部</value>
+  </data>
+  <data name="CareActivities" xml:space="preserve">
+    <value>医疗活动</value>
+  </data>
+  <data name="CarePlan" xml:space="preserve">
+    <value>医疗计划</value>
+  </data>
+  <data name="CareTeam" xml:space="preserve">
+    <value>医疗团队</value>
+  </data>
+  <data name="CheckInboxSpamJunk" xml:space="preserve">
+    <value>检查你的收件箱或垃圾邮件文件夹。</value>
+  </data>
+  <data name="CheckYourInbox" xml:space="preserve">
+    <value>检查你的收件箱！</value>
+  </data>
+  <data name="DeleleMessage" xml:space="preserve">
+    <value>删除消息</value>
+  </data>
+  <data name="DeleteChat" xml:space="preserve">
+    <value>删除聊天</value>
+  </data>
+  <data name="DeleteChatConfirmationTitle" xml:space="preserve">
+    <value>退出并删除此聊天？</value>
+  </data>
+  <data name="DeleteMessageConfirmDescription" xml:space="preserve">
+    <value>这条消息将从此聊天中每个人的记录中删除。 </value>
+  </data>
+  <data name="DeleteMessageConfirmTitle" xml:space="preserve">
+    <value>删除此消息？</value>
+  </data>
+  <data name="DragAndDropAFileHere" xml:space="preserve">
+    <value>拖放文件到这里</value>
+  </data>
+  <data name="EditGroupName" xml:space="preserve">
+    <value>编辑群组名称</value>
+  </data>
+  <data name="EmailVerificationThanks" xml:space="preserve">
+    <value>谢谢你验证电子邮件</value>
+  </data>
+  <data name="EnterCodeBelowTitle" xml:space="preserve">
+    <value>我们已向你的电子邮箱发送了一个6位数验证码。请输入此验证码，以重置你的密码。 </value>
+  </data>
+  <data name="ErrorMessageEmailAlreadyUsed" xml:space="preserve">
+    <value>已存在使用此电子邮件地址的账户。</value>
+  </data>
+  <data name="ExitAndDeleteChat" xml:space="preserve">
+    <value>退出并删除聊天</value>
+  </data>
+  <data name="ExportFileIsReady" xml:space="preserve">
+    <value>导出文件已准备就绪</value>
+  </data>
+  <data name="ExportMessageDetails" xml:space="preserve">
+    <value>出于安全原因，你需要设置PIN码才能在导出文件准备就绪后访问该文件。 </value>
+  </data>
+  <data name="ExportNotificationBanner" xml:space="preserve">
+    <value>在你的文件可以导出时，我们会通过电子邮件通知你。</value>
+  </data>
+  <data name="ExportNowMessage" xml:space="preserve">
+    <value>立即前往健康记录并导出。</value>
+  </data>
+  <data name="FindAccount" xml:space="preserve">
+    <value>查找账户</value>
+  </data>
+  <data name="FirstFindAccountTitle" xml:space="preserve">
+    <value>首先，让我们找到你的账户。请在下方输入你注册的电子邮件地址。 </value>
+  </data>
+  <data name="Food" xml:space="preserve">
+    <value>食物</value>
+  </data>
+  <data name="GettingYourProfileReady" xml:space="preserve">
+    <value>正在准备你的个人档案…</value>
+  </data>
+  <data name="GroupAdmin" xml:space="preserve">
+    <value>群组管理员</value>
+  </data>
+  <data name="GroupName" xml:space="preserve">
+    <value>群组名称</value>
+  </data>
+  <data name="HealthEvent" xml:space="preserve">
+    <value>健康事件</value>
+  </data>
+  <data name="Images" xml:space="preserve">
+    <value>影像</value>
+  </data>
+  <data name="IVFFAQAnswer1" xml:space="preserve">
+    <value>一般来说，经过一年的无保护性行为后仍未怀孕者（对于35岁以上的女性，则为6个月），或者如果你有造成不孕的已知问题，建议接受生育治疗。
+并非所有不孕症患者都需要接受IVF治疗。如果你不确定，请咨询生育专家，了解适合你的方案。</value>
+  </data>
+  <data name="IVFFAQAnswer10" xml:space="preserve">
+    <value>一个人可以接受的IVF周期次数没有上限。但是，在决定再试一次之前，应考虑到自己的财务状况、情绪健康、身体健康等其他因素。
+如果多次IVF治疗均未成功，可能有必要考虑其他治疗方案，例如代孕、卵子捐赠、精子捐赠等。</value>
+  </data>
+  <data name="IVFFAQAnswer11" xml:space="preserve">
+    <value>虽然每个人都各有不同，但是两次IVF周期之间的标准间隔时间是一个完整的月经周期。不应在没有经过月经周期的情况下，连续两个月进入新的IVF周期。这意味着对于大多数女性，在移植胚胎和得到阴性验孕结果后，需要等待4到6周才能开始新的IVF周期。 </value>
+  </data>
+  <data name="IVFFAQAnswer12" xml:space="preserve">
+    <value>胚胎移植后，通常当天就可以旅行。但请考虑在需要紧急医疗服务时，度假或差旅地点可以提供哪些医疗服务。 </value>
+  </data>
+  <data name="IVFFAQAnswer13" xml:space="preserve">
+    <value>你可以在每次IVF周期的前两周染发。从周期中期开始，最好等到12周后再染发。 </value>
+  </data>
+  <data name="IVFFAQAnswer2" xml:space="preserve">
+    <value>向医生提供完整、准确的历史记录，会增加你的成功率。带上先前生育治疗、先前妇科手术等任何近期记录。 </value>
+  </data>
+  <data name="IVFFAQAnswer3" xml:space="preserve">
+    <value>第一次会诊时，你通常会与医生讨论你的生育和家族病史，以及你的目标和治疗方案。医生会说明你在治疗过程中可以预期的情况。 </value>
+  </data>
+  <data name="IVFFAQAnswer4" xml:space="preserve">
+    <value>生育治疗通常是很安全的，但所有医疗程序都有潜在的副作用风险。激素注射只不过是更大剂量人体中自然产生的激素，这些更大剂量的激素可能会造成某些副作用，例如胀气。 </value>
+  </data>
+  <data name="IVFFAQAnswer5" xml:space="preserve">
+    <value>不一定。统计结果表明，1%到4%的女性会遇到提早进入更年期的情况，但在这些女性中，多达70%并没有医学原因。</value>
+  </data>
+  <data name="IVFFAQAnswer6" xml:space="preserve">
+    <value>导致IVF周期失败的其中一个最常见原因是胚胎的质量。在实验室中看上去很好的胚胎可能会存在缺陷，让胚胎无法正常成长。其他可能的因素包括子宫内膜的接受性和胚胎移植的机理，但大多数不成功的IVF周期由胚胎质量造成。 </value>
+  </data>
+  <data name="IVFFAQAnswer7" xml:space="preserve">
+    <value>多项近期研究确认，胚胎移植后立即卧床休息完全没必要。听上去似乎有违直觉，但事实上，一项已发表的研究表明，与移植卧床休息相比，立即恢复正常活动（包括使用洗手间）可提高妊娠率。不过，请避免剧烈运动和大量出汗。
+不过，请避免剧烈运动和大量出汗。</value>
+  </data>
+  <data name="IVFFAQAnswer8" xml:space="preserve">
+    <value>数据显示，IVF和IVF/ICSI是安全的。任何辅助生殖治疗都会显著增加你和孩子的健康风险，包括多胎妊娠、早产（甚至是单胎妊娠）和孩子的先天性畸形等。通过IVF怀孕的女性大多会进展顺利并产下健康宝宝。 </value>
+  </data>
+  <data name="IVFFAQAnswer9" xml:space="preserve">
+    <value>卵巢刺激期间发生性行为是完全安全的。不过，在IVF周期的某些时间，性行为可能会产生不适感。如果出现这种情况，请不要进行性行为。听从你的身体。但如果你没有不适感，就没有问题！
+虽然在生育治疗期间性行为并非不安全，但在有些情况下，不建议发生性行为和射精，例如需要精液样本时。</value>
+  </data>
+  <data name="IVFFAQQuestion1" xml:space="preserve">
+    <value>谁可以接受生育/IVF治疗？ </value>
+  </data>
+  <data name="IVFFAQQuestion10" xml:space="preserve">
+    <value>我可以接受多少次IVF治疗？</value>
+  </data>
+  <data name="IVFFAQQuestion11" xml:space="preserve">
+    <value>两次治疗之间的间隔时间是多长？ </value>
+  </data>
+  <data name="IVFFAQQuestion12" xml:space="preserve">
+    <value>移植后，我可以乘飞机度假或出差吗？</value>
+  </data>
+  <data name="IVFFAQQuestion13" xml:space="preserve">
+    <value>IVF期间可以染发吗？ </value>
+  </data>
+  <data name="IVFFAQQuestion2" xml:space="preserve">
+    <value>第一次会诊时，我需要携带什么？</value>
+  </data>
+  <data name="IVFFAQQuestion3" xml:space="preserve">
+    <value>第一次会诊时会发生什么？</value>
+  </data>
+  <data name="IVFFAQQuestion4" xml:space="preserve">
+    <value>所有这些激素对我的健康安全吗？</value>
+  </data>
+  <data name="IVFFAQQuestion5" xml:space="preserve">
+    <value>接受IVF治疗后，我的更年期是否会提前到来？ </value>
+  </data>
+  <data name="IVFFAQQuestion6" xml:space="preserve">
+    <value>移植的胚胎明明看上去很好，我却没有怀孕，为什么呢？ </value>
+  </data>
+  <data name="IVFFAQQuestion7" xml:space="preserve">
+    <value>为什么没必要在移植后卧床休息？</value>
+  </data>
+  <data name="IVFFAQQuestion8" xml:space="preserve">
+    <value>IVF/ICSI对我的孩子有危险吗？ </value>
+  </data>
+  <data name="IVFFAQQuestion9" xml:space="preserve">
+    <value>IVF期间可以进行性行为吗？ </value>
+  </data>
+  <data name="LightenUpMessage" xml:space="preserve">
+    <value>使用Emoji Blast®，让你的消息更有趣味。 </value>
+  </data>
+  <data name="MandatoryGroupName" xml:space="preserve">
+    <value>请输入群组名称</value>
+  </data>
+  <data name="MedicalImage" xml:space="preserve">
+    <value>医疗影像</value>
+  </data>
+  <data name="MeetBackInHalza" xml:space="preserve">
+    <value>期待与你在Halza上再次相见！</value>
+  </data>
+  <data name="Members" xml:space="preserve">
+    <value>名成员</value>
+  </data>
+  <data name="MessageUser" xml:space="preserve">
+    <value>发送消息给[name]</value>
+  </data>
+  <data name="NewGroup" xml:space="preserve">
+    <value>新建群组</value>
+  </data>
+  <data name="NewReactionInConversation" xml:space="preserve">
+    <value>[Sender name]回应了你的消息</value>
+  </data>
+  <data name="NewStickerInConversation" xml:space="preserve">
+    <value>[Sender name]发给你了一张表情贴图</value>
+  </data>
+  <data name="NewUserAddedToGroup" xml:space="preserve">
+    <value>[name]添加了[name]</value>
+  </data>
+  <data name="NoStickersFound" xml:space="preserve">
+    <value>没有找到贴图</value>
+  </data>
+  <data name="OneDay" xml:space="preserve">
+    <value>1天</value>
+  </data>
+  <data name="OneMonth" xml:space="preserve">
+    <value>每月一次</value>
+  </data>
+  <data name="OneWeek" xml:space="preserve">
+    <value>每周一次</value>
+  </data>
+  <data name="PinCode" xml:space="preserve">
+    <value>PIN码</value>
+  </data>
+  <data name="PrivateProfileInfo" xml:space="preserve">
+    <value>如果你的个人档案是私密的，其他用户只能通过你的昵称找到你。</value>
+  </data>
+  <data name="PrivateProfileInfoNote" xml:space="preserve">
+    <value>请注意，已添加的好友仍然可以看到你的全名。</value>
+  </data>
+  <data name="PublicProfileInfo" xml:space="preserve">
+    <value>如果你的个人档案是公开的，其他用户可以通过全名找到你。</value>
+  </data>
+  <data name="RemoveUser" xml:space="preserve">
+    <value>移除[name]</value>
+  </data>
+  <data name="RemoveUserFromChatConfirmation" xml:space="preserve">
+    <value>将[name]从“[Group Chat Name]”群组中移除？</value>
+  </data>
+  <data name="ResendVerificationEmail" xml:space="preserve">
+    <value>重新发送验证电子邮件</value>
+  </data>
+  <data name="ResetAndLogIn" xml:space="preserve">
+    <value>重置并登录</value>
+  </data>
+  <data name="ResetYourPassword" xml:space="preserve">
+    <value>重置你的密码</value>
+  </data>
+  <data name="Role" xml:space="preserve">
+    <value>角色</value>
+  </data>
+  <data name="SaveFileToPatient" xml:space="preserve">
+    <value>保存文件到患者</value>
+  </data>
+  <data name="SaveToPatient" xml:space="preserve">
+    <value>保存至患者</value>
+  </data>
+  <data name="SearchEmojiStickers" xml:space="preserve">
+    <value>搜索表情贴图</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>{0}個有關{1}的结果</value>
+  </data>
+  <data name="SearchWithNickname" xml:space="preserve">
+    <value>你朋友的个人档案可能不是公开的。请尝试搜索对方的Halza昵称。 </value>
+  </data>
+  <data name="SelectBranch" xml:space="preserve">
+    <value>选择分部</value>
+  </data>
+  <data name="SelectEmojiSticker" xml:space="preserve">
+    <value>选择表情贴图</value>
+  </data>
+  <data name="SelectPatient" xml:space="preserve">
+    <value>选择患者</value>
+  </data>
+  <data name="SelectVitalSign" xml:space="preserve">
+    <value>选择生命体征</value>
+  </data>
+  <data name="SetUpPinCode" xml:space="preserve">
+    <value>设置PIN码</value>
+  </data>
+  <data name="SharedMedia" xml:space="preserve">
+    <value>共享媒体</value>
+  </data>
+  <data name="SignUpWithEmail" xml:space="preserve">
+    <value>使用电子邮件注册</value>
+  </data>
+  <data name="SmthWentWrongTitle" xml:space="preserve">
+    <value>出错了</value>
+  </data>
+  <data name="StartConversation" xml:space="preserve">
+    <value>立即展开对话</value>
+  </data>
+  <data name="T1Dglucose" xml:space="preserve">
+    <value>1型糖尿病血糖</value>
+  </data>
+  <data name="T1Dglucosebaseline" xml:space="preserve">
+    <value>标准的血糖范围是90-180 mg/dL（5-10 mmol/L）</value>
+  </data>
+  <data name="T1DHBA1cbaseline" xml:space="preserve">
+    <value>糖化血色素（HBA1c）的建议值是0-7.5%</value>
+  </data>
+  <data name="TapToRemove" xml:space="preserve">
+    <value>轻点即可移除</value>
+  </data>
+  <data name="ThreeDay" xml:space="preserve">
+    <value>3天</value>
+  </data>
+  <data name="ToAllInbox" xml:space="preserve">
+    <value>所有收件箱</value>
+  </data>
+  <data name="TryAgainLaterOrContactUs" xml:space="preserve">
+    <value>请稍后再试，或发送电子邮件至support@halza.com联系我们。</value>
+  </data>
+  <data name="UserChangedGroupName" xml:space="preserve">
+    <value>[name]更改了群组名称</value>
+  </data>
+  <data name="UserLeftChat" xml:space="preserve">
+    <value>[name]已离开</value>
+  </data>
+  <data name="UserRemovedFromChat" xml:space="preserve">
+    <value>[name]已被移除</value>
+  </data>
+  <data name="Validity" xml:space="preserve">
+    <value>有效期限</value>
+  </data>
+  <data name="VerificationEmailSentTitle" xml:space="preserve">
+    <value>验证电子邮件已发送！</value>
+  </data>
+  <data name="VerifyEmailReminder" xml:space="preserve">
+    <value>请验证你的电子邮件地址。这有助于我们确认你的身份并保护你的账户。 </value>
+  </data>
+  <data name="VerifyInXXHours" xml:space="preserve">
+    <value>请在[00]小时内验证。</value>
+  </data>
+  <data name="You" xml:space="preserve">
+    <value>你</value>
+  </data>
+  <data name="YouHaveBeenRemoved" xml:space="preserve">
+    <value>你已从这个群组中移除，不能再接收或发送新消息。 </value>
+  </data>
+  <data name="YoureOnYourWayToTakeControl" xml:space="preserve">
+    <value>你很快就可以把健康掌握在自己手里。</value>
+  </data>
+  <data name="DrHen" xml:space="preserve">
+    <value>欢迎来到Halza！</value>
+  </data>
+  <data name="TutorialDrHenDescription" xml:space="preserve">
+    <value>你好，我是Hen医生，我会在这段旅程中帮助你，让你的健康管理化繁为简！</value>
+  </data>
+  <data name="TutorialLifestyleFemaleDescription" xml:space="preserve">
+    <value>正在计划受孕吗？在这里追踪你的经期，掌握你独特的女性特质！</value>
+  </data>
+  <data name="TutorialLifestyleMaleDescription" xml:space="preserve">
+    <value>管理你的生活方式！在这里追踪你的进度，向你的体重目标迈进！</value>
+  </data>
+  <data name="TutorialPlusDescription" xml:space="preserve">
+    <value>方便又快捷！在这里将这些功能加入主界面，以便轻松查看和使用。 </value>
+  </data>
+  <data name="TutorialRecordsDescription" xml:space="preserve">
+    <value>在这里，你可以轻松上传所有病历，包括检测、报告、X光等等！</value>
+  </data>
 </root>
